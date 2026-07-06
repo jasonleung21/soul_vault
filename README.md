@@ -1,6 +1,6 @@
-# [你的名字] Vault
+# Jason Vault
 
-這是 [你的名字] 的個人知識庫，供 AI Agent（[Agent 名字]）讀取使用。
+這是 Jason 的個人知識庫，供 AI Agent（Soul 🧭）讀取使用。
 
 ---
 
@@ -43,7 +43,7 @@
 - **新增 / 刪除「資料夾」或其他結構性變動** → 改這份 README（資料夾描述 + 底部更新 log）
 
 ### #2 — 對外文稿規則
-只要這段文字**會被 [你的名字] 以外的人看到**（LinkedIn、GitHub README、對外郵件、公開文件等），撰寫前必須讀 `identity/voice-and-tone.md`。不確定時視為對外。
+只要這段文字**會被 Jason 以外的人看到**（LinkedIn、GitHub README、對外郵件、公開文件等），撰寫前必須讀 `identity/voice-and-tone.md`。不確定時視為對外。
 
 ## 維護原則
 
