@@ -1,0 +1,16 @@
+# Obsidian 本地設定（若日後安裝 Obsidian，跨電腦不 share）
+.obsidian/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# 編輯器暫存
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
