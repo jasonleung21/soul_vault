@@ -29,5 +29,5 @@
 ## Soul 追蹤點／待決事項
 
 - Tracker：**PT4**（Jason 之後會提供 hands graph / 數據給 Soul 一起看）
-- NL100 shot 的停損規則尚未定義——建議補一條（例如單日 -2BI 即撤）
+- ✅ 停損規則已定（2026/07/06）：**NL100 shot 單日 -2 buy-ins → 離桌收工（call off the day）**，休息不硬打
 - 學習輸入源很多，輸出節奏（hand review、session 復盤）尚未定義
