@@ -21,10 +21,10 @@ summary: Soul 啟動指令正本——貼進 Personal Preferences 與各 Project
 
 ## 已安裝位置（安裝後在此打勾）
 
-- [ ] Claude Settings → Profile → Personal Preferences（全域層）
+- [x] Claude Settings → Profile → Personal Preferences（全域層）✅ 2026/07/06
 - [ ] Project：Vault-Soul 主 Project（本 Project）
-- [ ] Project：Pickleball, Road to 4.0
-- [ ] Project：Poker（若成立）
+- [x] Project：Pickleball, Road to 4.0 ✅ 2026/07/06
+- [x] Project：Poker Grinding ✅ 2026/07/06
 - [ ] 手機捷徑／Apple Notes 快捷短語（臨時對話 fallback 用）
 
 ## 誠實條款（為什麼指令裡有「不要憑空扮演」）
