@@ -12,7 +12,9 @@
 
 > Agent 每個 session 都必須放在心上的事：進行中的 P0/P1、有時效的 follow-up、常駐警告。
 
-- [ ] P2 — 2026 年 10 月：重新檢視「探索模式 vs 求職模式」定位（見 identity/who-i-am.md）
+- [ ] P1 — 2026/07 底前：與 Alan 完成 4.0 級賽事報名（context/pickleball.md）
+- [ ] P2 — 2026 年 10 月：重新檢視「探索模式 vs 求職模式」定位（identity/who-i-am.md）
+- [ ] P2 — Poker bankroll 紀律問題待 Jason 回應 Soul 的判斷（context/poker.md）
 
 **Sticky 規則：**
 - Sticky 不是 log。項目解決了，當次 response 內直接刪掉
@@ -38,7 +40,7 @@
 
 ## 當前焦點
 
-- 完成 Vault 初始建置（identity / persona / context）
+- 完成 Vault 初始建置（identity ✅ / persona ✅ / context：pickleball ✅ poker ✅ AI 進行中）
 
 ---
 
