@@ -1,6 +1,11 @@
+---
+updated: 2026-07-06
+tags: [identity, values, career-break]
+summary: Jason 的背景、工作底線、學習模式與 career break 目的；第一原則：探索模式≠求職模式（10月檢視）
+---
+
 # Who I Am — Jason
 
-> 最後更新：2026/07/06（初版，與 Claude 討論後建立）
 
 ---
 

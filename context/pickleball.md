@@ -1,6 +1,11 @@
+---
+updated: 2026-07-06
+tags: [context, pickleball, goals]
+summary: DUPR 4.0 現況、Jem/Pictopia 訓練環境、年底 4.5 分層目標、週 4-5 天投入與 Soul 追蹤點
+---
+
 # Pickleball — 現況與目標
 
-> 最後更新：2026/07/06
 
 ## 現況
 

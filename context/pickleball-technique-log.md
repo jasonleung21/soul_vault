@@ -1,3 +1,9 @@
+---
+updated: 2026-07-06
+tags: [pickleball, technique, coaching]
+summary: Clinic 與教練回饋的技術筆記累積（drops/resets 等），新條目在最上面
+---
+
 # Pickleball 技術筆記（clinic / 教練回饋累積）
 
 > 新條目寫在最上面。每次 clinic、私教、或高手指點後記錄。

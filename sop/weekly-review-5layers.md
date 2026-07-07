@@ -1,6 +1,11 @@
+---
+updated: 2026-07-06
+tags: [sop, review, planning]
+summary: 五層規劃框架 Vault 版：目標分層、任務拆解、週節奏、Soul 主導的 weekly review 流程
+---
+
 # 五層規劃與檢討 SOP
 
-> 最後更新：2026/07/06 · 來源：Threads 流傳的五層 prompt 人生規劃框架，改造成配合 Vault 的長期系統
 > 原框架設計給「單次對話」；我們的優勢是有 Vault，所以第一層直接被基礎設施取代。
 
 ## 原框架 → Vault 版對照

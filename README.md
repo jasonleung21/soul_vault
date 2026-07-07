@@ -8,17 +8,24 @@
 
 ```
 /
-  README.md              ← 你正在讀的這份
-  agent-persona.md       ← Agent 的人格設定與協作方式
-  memory-summary.md      ← 長期記憶摘要
+  README.md              ← Agent 的地圖（本檔）
+  agent-persona.md       ← Soul 的三層人格：Identity、五條核心真理、行為準則
+  memory-summary.md      ← 每次啟動必讀：Sticky、重要決策、當前焦點
 
-  /identity              ← 我是誰、價值觀、決策風格
-  /context               ← 工作背景、專案現況、策略方向
-  /memory                ← 重要決策紀錄、會議結論 → INDEX.md
-  /sop                   ← 操作流程
-  /projects              ← 各項目的狀態 → INDEX.md（收官的搬 archive/）
-  /people                ← 重要聯絡人背景
-  /skills                ← Agent 的技能檔案
+  /identity
+    who-i-am.md          ← Jason 背景、工作底線、學習模式；探索模式≠求職模式
+  /context
+    pickleball.md        ← DUPR 4.0 現況、年底 4.5 分層目標、訓練投入與追蹤點
+    pickleball-technique-log.md ← clinic／教練技術筆記（持續累積，新條目在上）
+    poker.md             ← NL50 主戰策略、NL100 shot 規則、2bb/100 目標、PT4
+    ai-claude.md         ← AI 能力盤點、side quest 主軸（影片復盤工具）、資料地圖
+  /memory                ← 重要決策與結論紀錄 → 先讀 INDEX.md
+  /sop
+    weekly-review-5layers.md ← 週 review 與規劃 SOP（Soul 主導發起）
+    vault-changelog.md   ← 核心檔案的歷史更新紀錄（結構性事件）
+  /projects              ← 進行中專案的 status.md → 先讀 INDEX.md
+  /people                ← 重要聯絡人背景（尚空）
+  /skills                ← Agent 技能檔案（尚空）
 ```
 
 會堆疊的資料夾（memory/、projects/）各自維護一份 `INDEX.md` 放完整清單；這份 README 只留上面的一行入口。進資料夾前先讀它的 `INDEX.md`。
@@ -54,6 +61,7 @@
 
 ---
 
-*最後更新：2026/07/06（初始建置：資料夾結構 + Git 設定）*
+*最後更新：2026/07/06（檢索優化 v1：逐檔索引 + frontmatter + changelog）*
+*前次更新：2026/07/06（初始建置：資料夾結構 + Git 設定 + GitHub 備份）*
 
 *📏 更新 log 規則：只留最近兩條。新增一條時，把被擠掉的那條搬進 `sop/vault-changelog.md`。*

@@ -1,6 +1,11 @@
+---
+updated: 2026-07-06
+tags: [context, poker, bankroll]
+summary: NL50 主戰 4 桌 + NL100 選擇性 shot（-2BI 停損）、2bb/100 目標、PT4 追蹤、學習系統
+---
+
 # Poker — 現況與目標
 
-> 最後更新：2026/07/06
 
 ## 現況
 

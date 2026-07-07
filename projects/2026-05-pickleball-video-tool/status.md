@@ -1,6 +1,11 @@
+---
+updated: 2026-07-06
+tags: [project, pickleball, tool]
+summary: 影片復盤工具狀態：工作區在 ~/Pickleball/video，pipeline 可跑、revamp 中、下一步定義 v5
+---
+
 # Pickleball 影片復盤工具 — 專案狀態
 
-> 最後更新：2026/07/06 · 狀態：**進行中（revamp 階段）** · AI side quest 主軸
 
 ## 工作區位置（真正的程式與產出在這裡，不在 Vault）
 

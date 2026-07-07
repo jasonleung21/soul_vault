@@ -1,6 +1,11 @@
+---
+updated: 2026-07-06
+tags: [context, ai, side-quest]
+summary: AI 能力盤點（進階級非皮毛）、side quest 主軸＝影片復盤工具 revamp、投入節奏與資料地圖
+---
+
 # Claude / AI — 現況與目標
 
-> 最後更新：2026/07/06
 
 ## 現況盤點（2026/07，Soul 實地掃描 + Jason 口述）
 
