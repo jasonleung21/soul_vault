@@ -14,7 +14,6 @@
 
 - [ ] P1 — 2026/07 底前：與 Alan 完成 4.0 級賽事報名（context/pickleball.md）
 - [ ] P2 — 2026 年 10 月：重新檢視「探索模式 vs 求職模式」定位（identity/who-i-am.md）
-- [ ] P2 — Poker bankroll 紀律問題待 Jason 回應 Soul 的判斷（context/poker.md）
 
 **Sticky 規則：**
 - Sticky 不是 log。項目解決了，當次 response 內直接刪掉
@@ -27,6 +26,8 @@
 | 日期 | 決策 | 理由 | 結果 |
 |------|------|------|------|
 | 2026-07-06 | 建立 ai-vault，不裝 Obsidian，以 Claude 為主要讀寫介面 | Vault 本體是純 .md + Git，編輯器非必需 | 進行中 |
+| 2026-07-06 | Poker 主戰降回 NL50（4桌），NL100 僅剩選擇性 shot（1桌、有fish才上） | 20BI 打 NL100 + breakeven winrate = 資金結構站不住 | 已採納 |
+| 2026-07-06 | AI side quest 主軸定為 pickleball 影片復盤工具 revamp | 已有半成品、真實需求、可累積為作品 | 進行中 |
 
 ## 教訓
 
@@ -40,7 +41,7 @@
 
 ## 當前焦點
 
-- 完成 Vault 初始建置（identity ✅ / persona ✅ / context：pickleball ✅ poker ✅ AI 進行中）
+- Vault 初始建置完成（identity ✅ persona ✅ context 三線 ✅）→ 下一步：GitHub 備份 + 檢索優化 + AI roadmap
 
 ---
 

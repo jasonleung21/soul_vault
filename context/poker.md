@@ -20,8 +20,14 @@
 - YouTube：Navir Poker、Nachos Poker、Poker with Riske、Saulo Costa 等
 - 自建 Notion database 記錄 poker study（Notion 為學習明細層；本檔只放現況與結論）
 
+## Bankroll 與級別策略（2026/07/06 與 Soul 討論後定案）
+
+- **主戰 NL50**：常態 4 桌，保守 buy-in，讓資金結構健康（~40BI）
+- **NL100 = 選擇性 shot**：常態最多 1 桌，且僅在桌上有明確弱點玩家（fish/whale）時上桌
+- 升級條件：NL50 以足夠樣本打出穩定正 winrate 後再議
+
 ## Soul 追蹤點／待決事項
 
-- **Bankroll 紀律**（2026/07/06 Soul 判斷，Jason 待回應——見對話紀錄）
-- 追蹤方式待補：是否有 tracker（HM3 / PT4 / 站內數據）？樣本數多少？
+- Tracker：**PT4**（Jason 之後會提供 hands graph / 數據給 Soul 一起看）
+- NL100 shot 的停損規則尚未定義——建議補一條（例如單日 -2BI 即撤）
 - 學習輸入源很多，輸出節奏（hand review、session 復盤）尚未定義
