@@ -23,6 +23,7 @@
   /sop
     weekly-review-5layers.md ← 週 review 與規劃 SOP（Soul 主導發起）
     vault-changelog.md   ← 核心檔案的歷史更新紀錄（結構性事件）
+    soul-activation.md   ← Soul 啟動指令正本（貼到 preferences／各 Project 用）
   /projects              ← 進行中專案的 status.md → 先讀 INDEX.md
   /people                ← 重要聯絡人背景（尚空）
   /skills                ← Agent 技能檔案（尚空）
