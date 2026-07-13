@@ -22,10 +22,10 @@
   /memory                ← 重要決策與結論紀錄 → 先讀 INDEX.md
   /sop
     weekly-review-5layers.md ← 週 review 與規劃 SOP（Soul 主導發起）
+    weekly-schedule-system.md ← 週排程系統：Notion database＋三支通知 routine＋takeaway 回流（含安裝 checklist）
     vault-changelog.md   ← 核心檔案的歷史更新紀錄（結構性事件）
     soul-activation.md   ← Soul 啟動指令正本（貼到 preferences／各 Project 用）
-    weekly-schedule-system.md ← 週排程系統：plan 格式、節奏、安裝 checklist
-  /weekly                ← 每週排程 plan（YYYY-Wnn.md）→ 先讀 INDEX.md
+  /weekly                ← 每週 review 結論檔（YYYY-Wnn.md）→ 先讀 INDEX.md
   /projects              ← 進行中專案的 status.md → 先讀 INDEX.md
   /people                ← 重要聯絡人背景（尚空）
   /skills                ← Agent 技能檔案（尚空）
@@ -64,7 +64,7 @@
 
 ---
 
-*最後更新：2026/07/13（週排程系統上線：/weekly 資料夾 + sop/weekly-schedule-system.md）*
+*最後更新：2026/07/13（週排程系統雙版本合一：Notion＋三支 routine 為正本，/weekly 與 Reminders 為 Vault 側元件）*
 *前次更新：2026/07/06（檢索優化 v1：逐檔索引 + frontmatter + changelog）*
 
 *📏 更新 log 規則：只留最近兩條。新增一條時，把被擠掉的那條搬進 `sop/vault-changelog.md`。*
