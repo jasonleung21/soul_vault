@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/07/06（加入 10 月模式檢視 sticky）
-> 前次更新：2026/07/06（初始建置）
+> 最後更新：2026/07/13（週排程系統上線，當前焦點改為 W29 執行）
+> 前次更新：2026/07/06（加入 10 月模式檢視 sticky）
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
@@ -12,7 +12,7 @@
 
 > Agent 每個 session 都必須放在心上的事：進行中的 P0/P1、有時效的 follow-up、常駐警告。
 
-- [ ] P1 — 2026/07 底前：與 Alan 完成 4.0 級賽事報名（context/pickleball.md）
+- [ ] P1 — **North York Slam 7/24–25**：男雙 4.0 & under 7/25（與 Alan，✅ 已報）、單打 4.0 & under 7/24（⏳ waitlist）→ 賽後錄影復盤 + 結果寫回 context/pickleball.md
 - [ ] P2 — 2026 年 10 月：重新檢視「探索模式 vs 求職模式」定位（identity/who-i-am.md）
 
 **Sticky 規則：**
@@ -33,7 +33,7 @@
 
 | 日期 | 教訓 | 正確做法 |
 |------|------|----------|
-| | | |
+| 2026-07-13 | 在別的 session（Project／無檔案權限環境）叫 Soul 建 Vault 檔案，檔案沒落地，之後以為存在 | 建檔類指令只在有 Desktop Commander 的主對話下；不確定時用 `git log` 驗證 |
 
 ## 我的模式（Agent 觀察到的）
 
@@ -41,7 +41,8 @@
 
 ## 當前焦點
 
-- Vault 初始建置完成（identity ✅ persona ✅ context 三線 ✅）→ 下一步：GitHub 備份 + 檢索優化 + AI roadmap
+- 週排程系統上線（`sop/weekly-schedule-system.md` + `/weekly`）→ 執行 `weekly/2026-W29.md`：4.0 賽事報名（不可拖延）、NL50 + 5 手 review、影片工具 roadmap 初稿
+- 每週日晚：Soul 主導 weekly review + 產出下週 plan
 
 ---
 

@@ -11,4 +11,5 @@ summary: 核心檔案（README、memory-summary）的歷史更新紀錄，只收
 
 | 日期 | 事件 |
 |------|------|
+| 2026-07-13 | 週排程系統上線：新增 `/weekly` 資料夾（含 INDEX）＋ `sop/weekly-schedule-system.md`，首份 plan 2026-W29 |
 | 2026-07-06 | Vault 初始建置：結構＋Git、identity／persona／context 三核心完成、5-layer review SOP、GitHub 備份（soul_vault）、檢索優化 v1 |
