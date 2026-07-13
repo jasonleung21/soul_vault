@@ -15,7 +15,7 @@ summary: 五層規劃框架 Vault 版：目標分層、任務拆解、週節奏�
 | 1 對象認知 | 逐題盤問使用者檔案 | **已由 Vault 取代**：Soul 啟動即讀 README → agent-persona → memory-summary → context/ |
 | 2 目標分層 | 短期 2–4 週 / 中期 2–3 月 / 長期 6–12 月，排優先序 | 每條主線的 context 檔案內維護三層目標，聚焦單一主線不發散 |
 | 3 任務拆解 | 任務名稱／目的／完成標準／優先級，少而精 | 寫入各主線 context 的行動清單，必須具體可執行 |
-| 4 週節奏 | 週總時數／行動次數／每次內容／主線任務／可延後／不可拖延 | 每週產出 weekly plan，排程必須符合現實不理想化 |
+| 4 週節奏 | 週總時數／行動次數／每次內容／主線任務／可延後／不可拖延 | 每週產出 weekly plan，排程必須符合現實不理想化 → 實作見 `weekly-schedule-system.md`（Notion database＋routine 自動生成） |
 | 5 追蹤檢討 | 檢查項／進展判定／指標／卡關修正規則／下週調整 | Soul 主動發起 weekly review，用此格式輸出 |
 
 ## Weekly Review 流程（Soul 主導發起）
