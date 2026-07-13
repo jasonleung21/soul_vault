@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/07/06（加入 10 月模式檢視 sticky）
-> 前次更新：2026/07/06（初始建置）
+> 最後更新：2026/07/13（加入 weekly schedule system 啟用 sticky）
+> 前次更新：2026/07/06（加入 10 月模式檢視 sticky）
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
@@ -13,6 +13,7 @@
 > Agent 每個 session 都必須放在心上的事：進行中的 P0/P1、有時效的 follow-up、常駐警告。
 
 - [ ] P1 — 2026/07 底前：與 Alan 完成 4.0 級賽事報名（context/pickleball.md）
+- [ ] P1 — 啟用 weekly schedule system：走 `sop/weekly-schedule-system.md` 安裝 checklist ①–⑦（Notion database＋三支 routine）。裝好前每個 session 提醒 Jason
 - [ ] P2 — 2026 年 10 月：重新檢視「探索模式 vs 求職模式」定位（identity/who-i-am.md）
 
 **Sticky 規則：**
