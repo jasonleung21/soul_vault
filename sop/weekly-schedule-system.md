@@ -119,11 +119,12 @@ Notion 上的原文保留不刪（Notion=明細層，Vault=結論層）。
 
 ## 安裝 Checklist（在互動 session 裡叫 Soul 依本檔執行）
 
-- [ ] ① 建 Notion database「📅 Weekly Schedule」（schema 如上）＋ Board by day / Today 兩個 view
-- [ ] ② 種入本週 blocks（依當週實況生成，勿照抄舊 seed）
-- [ ] ③ 建 Routine A（週計畫生成）— prompt 正本如上
-- [ ] ④ 建 Routine B（睡前 brief）— prompt 正本如上
-- [ ] ⑤ 建 Routine C（早晨 kick-start）— prompt 正本如上
+- [x] ① 建 Notion database「📅 Weekly Schedule」＋ Board by day / Today 兩個 view ✅ 2026/07/13
+      → https://app.notion.com/p/8c2b6c13ea694be988c2ff01fae1f58c（data source: `7013f931-1d3a-4c5b-b848-474637933de5`）
+- [x] ② 種入本週 blocks ✅ 2026/07/13：W29 共 12 blocks（雙打備戰×2、group play×2、NL50×3、study、5手review、AI roadmap、錄影復盤、週日 review）
+- [ ] ③ 建 Routine A（週計畫生成）— prompt 正本如上；⚠️ 需在 Claude app 排程任務介面建立（一般對話環境無 trigger 工具）
+- [ ] ④ 建 Routine B（睡前 brief）— 同上
+- [ ] ⑤ 建 Routine C（早晨 kick-start）— 同上
 - [ ] ⑥ 手動 fire 一次 Routine B，確認推播＋email 真的送達（這是整套系統的存在理由）
 - [ ] ⑦ 在一個 block 寫測試 Takeaway → 跑收割 → 確認落到正確 Vault 檔案並 push 成功
 
