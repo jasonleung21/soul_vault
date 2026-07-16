@@ -71,8 +71,8 @@ Jason 睡前掃一眼，要改就直接在 Notion 拖／改（自由編輯）
 任務：為下週（週一至週日）生成 7 天 schedule blocks，寫入 Notion database「📅 Weekly Schedule」。
 節奏依 context 檔案的真實投入：pickleball 週 4–5 天（2 drilling + 2–3 group play）、
 poker NL50 sessions + study、AI side quest 隔天 1–2 小時；sticky 有時效項目要排進去。
-pickleball 固定時段（見 context/pickleball.md「固定時段規則」）：Pictopia open-play 主要週二/週四 12:00–16:00；
-Advanced 4.0+ 08:00–10:00；Drilling with Alan 14:00–16:00、每週 1–2 天（當天有 Pictopia open-play 則以 Pictopia 為主，否則到 Jem）。
+pickleball 固定時段（見 context/pickleball.md「固定時段規則」）：Advanced 4.0+ 20:00–22:00（8–10 PM）週一/週三 @ JEM（jem-pickleball-weekly-booking 自動訂位）；
+Pictopia open-play 主要週二/週四 12:00–16:00；Drilling with Alan 14:00–16:00、每週 1–2 天（當天有 Pictopia open-play 則以 Pictopia 為主，否則到 Jem）。
 排程務實不理想化（5-layer SOP 第四層原則）。完成後通知 Jason：附 Notion 連結，請他過目並自由調整。
 ```
 
@@ -127,11 +127,14 @@ Notion 上的原文保留不刪（Notion=明細層，Vault=結論層）。
 - [x] ① 建 Notion database「📅 Weekly Schedule」＋ Board by day / Today 兩個 view ✅ 2026/07/13
       → https://app.notion.com/p/8c2b6c13ea694be988c2ff01fae1f58c（data source: `7013f931-1d3a-4c5b-b848-474637933de5`）
 - [x] ② 種入本週 blocks ✅ 2026/07/13：W29 共 12 blocks（雙打備戰×2、group play×2、NL50×3、study、5手review、AI roadmap、錄影復盤、週日 review）
-- [ ] ③ 建 Routine A（週計畫生成）— prompt 正本如上；⚠️ 需在 Claude app 排程任務介面建立（一般對話環境無 trigger 工具）
-- [ ] ④ 建 Routine B（睡前 brief）— 同上
-- [ ] ⑤ 建 Routine C（早晨 kick-start）— 同上
-- [ ] ⑥ 手動 fire 一次 Routine B，確認推播＋email 真的送達（這是整套系統的存在理由）
-- [ ] ⑦ 在一個 block 寫測試 Takeaway → 跑收割 → 確認落到正確 Vault 檔案並 push 成功
+- [x] ③ Routine A（週計畫生成）✅ 已建：scheduled task `soul-weekly-schedule`，週日 20:00 ET（cron `0 20 * * 0`，本機時區）
+- [x] ④ Routine B（睡前 brief＋收割）✅ 已建：`soul-daily-harvest-brief`，每天 22:00 ET（cron `0 22 * * *`）
+- [x] ⑤ Routine C（早晨 kick-start）✅ 已建：`soul-daily-schedule-push`，每天 06:30 ET（cron `30 6 * * *`）
+- [x] ⑥ Routine B 已實際 fire（2026/07/16 前夜已有 lastRunAt）✅ 三支均 enabled
+- [ ] ⑦ 端到端驗證：確認某天的 Takeaway 收割真的落到正確 Vault 檔並 push；確認 Discord 三則（週日過目、每晚 brief、每早 checklist）都收得到
+
+> 📮 **實際通知通道 = Discord**（非本檔原稿寫的 push+email）：Routine B/C 用本機 curl 打 Discord webhook（`~/.config/soul/discord_webhook`）。
+> Jason 看到的「Discord 提醒＋明日活動提醒」就是這兩支。cron 為本機時區直接填（此排程器以 local time 計，非 UTC——上方 UTC 表已作廢，以此為準）。
 
 **Vault 側（已完成 ✅ 2026/07/13）**：`/weekly` 資料夾＋INDEX、`weekly/2026-W29.md`、README／changelog 同步、Reminders 備援提醒。
 

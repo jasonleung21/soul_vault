@@ -48,8 +48,8 @@ summary: DUPR 4.0 現況、Jem/Pictopia 訓練環境、年底 4.5 分層目標�
 
 > 週計畫生成 routine 依此排 pickleball blocks，不要理想化亂塞時段。
 
-- **Pictopia open-play**：主要落在 **週二、週四 12:00–16:00**
-- **Advanced 4.0+ session**：**08:00–10:00**
+- **Advanced 4.0+ Social Play**：**20:00–22:00（8–10 PM）**，週一、週三 @ **JEM**（由 `jem-pickleball-weekly-booking` routine 每週三自動訂位）
+- **Pictopia open-play**：主要落在 **週二、週四 12:00–16:00**（另一場地，自行處理）
 - **Drilling with Alan**：**14:00–16:00（2–4）**，每週 1–2 天
   - 優先序：**當天有 Pictopia open-play → 以 Pictopia 為主**；否則到 **Jem** drill
 - 無固定教練；以 clinic ＋ 錄影復盤 ＋ 線上教學自主訓練
