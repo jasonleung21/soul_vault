@@ -43,9 +43,12 @@ Jason 睡前掃一眼，要改就直接在 Notion 拖／改（自由編輯）
 | Takeaway | Text | **feedback／giveaway 寫這裡**——每晚 routine 收割進 Vault |
 | Status | Select | `planned` / `moved`(yellow) / `skipped`(gray) |
 
-**兩個 view：**
-- **Board by day**：本週看板，按 Date 分組——移動 block ＝ 拖卡片
+**View（2026/07/16 起四個）：**
+- **Calendar**：主力日視圖——每天的 blocks 一眼看完、直接勾 Done（2026/07/16 新增）
+- **Board by day**：週／月的整體目標鳥瞰（相對日期分組是 Notion 內建，today 不置中屬正常）
 - **Today**：`Date = today` 的 checklist——早上打開的就是這頁
+- **Default view**：完整 table，欄位全覽
+- Done ✅ checkbox 已在 Board／Calendar／Today 顯示，session 完成直接勾
 
 ## 三支 Routine（Claude scheduled tasks，均開啟 push + email 通知）
 
@@ -68,6 +71,8 @@ Jason 睡前掃一眼，要改就直接在 Notion 拖／改（自由編輯）
 任務：為下週（週一至週日）生成 7 天 schedule blocks，寫入 Notion database「📅 Weekly Schedule」。
 節奏依 context 檔案的真實投入：pickleball 週 4–5 天（2 drilling + 2–3 group play）、
 poker NL50 sessions + study、AI side quest 隔天 1–2 小時；sticky 有時效項目要排進去。
+pickleball 固定時段（見 context/pickleball.md「固定時段規則」）：Pictopia open-play 主要週二/週四 12:00–16:00；
+Advanced 4.0+ 08:00–10:00；Drilling with Alan 14:00–16:00、每週 1–2 天（當天有 Pictopia open-play 則以 Pictopia 為主，否則到 Jem）。
 排程務實不理想化（5-layer SOP 第四層原則）。完成後通知 Jason：附 Notion 連結，請他過目並自由調整。
 ```
 

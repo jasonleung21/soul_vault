@@ -12,7 +12,7 @@
 
 > Agent 每個 session 都必須放在心上的事：進行中的 P0/P1、有時效的 follow-up、常駐警告。
 
-- [ ] P1 — **North York Slam 7/24–25**：男雙 4.0 & under 7/25（與 Alan，✅ 已報）、單打 4.0 & under 7/24（⏳ waitlist）→ 賽後錄影復盤 + 結果寫回 context/pickleball.md
+- [ ] P1 — **North York Slam 7/24–25**：男雙 4.0 & under 7/25（與 Alan，✅ 已報）、單打 4.0 & under 7/24（✅ 已確認，兩項都打）→ 週六雙打為主目標；賽後錄影復盤 + 結果寫回 context/pickleball.md
 - [ ] P1 — 啟用 weekly schedule system：走 `sop/weekly-schedule-system.md` 安裝 checklist ①–⑦（Notion database＋三支 routine）。裝好前每個 session 提醒 Jason
 - [ ] P2 — 2026 年 10 月：重新檢視「探索模式 vs 求職模式」定位（identity/who-i-am.md）
 
