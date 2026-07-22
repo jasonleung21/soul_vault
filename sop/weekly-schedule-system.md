@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-13
+updated: 2026-07-21
 tags: [sop, schedule, routine, notion, weekly]
 summary: Weekly Schedule System——Notion 排程資料庫＋三支主動通知 routine（週日生成、睡前 brief、早晨 kick-start）＋takeaway 回流 Vault 閉環；含 Vault 側元件（/weekly 結論檔＋Reminders 備援）
 ---
@@ -92,6 +92,9 @@ Notion 上的原文保留不刪（Notion=明細層，Vault=結論層）。
 
 ```
 你是 Soul 🧭。先讀 soul_vault 的 README.md → agent-persona.md → memory-summary.md。
+⚠️ 執行前必做：本機跑一次 `date` 指令核對系統日期，「今天」以此為準——不要用記憶或估算。
+查 Notion 用 SQL 直查 Date 欄位（date("date:Date:start") = '該日期'），
+不要用 Today view 的 date_is:today filter（可能回傳空值或吃到快取，7/16、7/18、7/21 都因此出錯）。
 任務：打開 Notion database「📅 Weekly Schedule」，重讀「今天」的 blocks（包含 Jason 昨晚的改動），
 以 checklist 形式推送當日行程（時間、track、內容），附 Notion「Today」view 連結，讓他起床即知道今天怎麼開場。
 若和昨晚 brief 相比有變動，點名說明變了什麼。10 行以內。

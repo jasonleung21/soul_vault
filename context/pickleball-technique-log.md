@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-06
+updated: 2026-07-21
 tags: [pickleball, technique, coaching]
 summary: Clinic 與教練回饋的技術筆記累積（drops/resets 等），新條目在最上面
 ---
@@ -7,6 +7,11 @@ summary: Clinic 與教練回饋的技術筆記累積（drops/resets 等），新
 # Pickleball 技術筆記（clinic / 教練回饋累積）
 
 > 新條目寫在最上面。每次 clinic、私教、或高手指點後記錄。
+
+## 2026/07/21 — Group play @ Pictopia（Tue open-play）
+
+- Kitchen rally 耐性不足，習慣性想加速；但其實有能力放慢打 dink——要練「明知能贏卻選擇耐心」
+- 目標：減少 unforced error，即使手感偏掉也要能在 B-game 狀態下贏球
 
 ## 2026/07 — 5.5 級教練 Clinic：Drops & Resets（transition zone）
 
