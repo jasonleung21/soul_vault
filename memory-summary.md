@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/07/21（date bug 二度發生後確認修法有效，見教訓）
-> 前次更新：2026/07/18（每日排程推播 date bug 記錄進教訓）
+> 最後更新：2026/07/27（早安推播：本機 date 核對＋SQL 查 Date 欄位流程照做，今日行程與 W30 plan 一致，Discord 204）
+> 前次更新：2026/07/26（Routine A 自動執行：W30 schedule 已生成寫入 Notion）
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
@@ -44,8 +44,9 @@
 
 ## 當前焦點
 
-- **執行 weekly schedule system 安裝 ①–⑦**（Notion database＋三支 routine＋通知驗證）——系統合一後的頭號待辦
-- `weekly/2026-W29.md` 本週帳：與 Alan 雙打 drilling（7/25 備戰）、錄影復盤、NL50 3+ sessions、5 手 review、影片工具 roadmap 初稿
+- **端到端驗證 weekly schedule system 安裝 checklist ⑦**（Takeaway 收割是否真的落地 Vault＋Discord 三則通知都收得到）——僅剩最後一步未完成
+- **W30（2026-07-27–08-02）schedule 已由 Routine A 自動生成寫入 Notion**：Pickleball 5 天（Alan drilling ×2 @Jem、Pictopia open-play ×2、JEM 4.0 社課 ×1）、Poker（NL50 grind ×3，含週一延續自 W29 的一場、study ×1）、AI 隔天 1–2h ×3（用 North York Slam 賽事錄影跑影片復盤 pipeline revamp，真實素材測試）、週日 20:00 Weekly Review 收尾。7/27（一）晚間 NL50 與固定 JEM 社課時段衝突，已將該週 JEM 社課改排到 7/29（三）避免撞期
+- 北約克 Slam（7/24–25）賽果與復盤結果尚未確認寫回 `context/pickleball.md`——sticky 保留，待 Jason 確認或睡前 harvest routine 收割 Takeaway
 
 ---
 
