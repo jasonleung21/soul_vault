@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/07/27（早安推播：本機 date 核對＋SQL 查 Date 欄位流程照做，今日行程與 W30 plan 一致，Discord 204）
-> 前次更新：2026/07/26（Routine A 自動執行：W30 schedule 已生成寫入 Notion）
+> 最後更新：2026/07/28（睡前收割：Pictopia open-play＋Poker study 兩個 block 都尚未標 Done，harvest 0 筆；明日 W30 brief 已推送 Discord）
+> 前次更新：2026/07/27（早安推播：本機 date 核對＋SQL 查 Date 欄位流程照做，今日行程與 W30 plan 一致，Discord 204）
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
@@ -12,7 +12,7 @@
 
 > Agent 每個 session 都必須放在心上的事：進行中的 P0/P1、有時效的 follow-up、常駐警告。
 
-- [ ] P1 — **North York Slam 7/24–25**：男雙 4.0 & under 7/25（與 Alan，✅ 已報）、單打 4.0 & under 7/24（✅ 已確認，兩項都打）→ 週六雙打為主目標；賽後錄影復盤 + 結果寫回 context/pickleball.md
+- [ ] P1 — **North York Slam 7/24–25 賽後復盤 Takeaway 仍未寫回** `context/pickleball.md`——已連續多天 harvest 掃過都是空，需要 Jason 直接補或睡前手動回填 Notion Takeaway 欄位
 - [ ] P1 — 啟用 weekly schedule system：走 `sop/weekly-schedule-system.md` 安裝 checklist ①–⑦（Notion database＋三支 routine）。裝好前每個 session 提醒 Jason
 - [ ] P2 — 2026 年 10 月：重新檢視「探索模式 vs 求職模式」定位（identity/who-i-am.md）
 
@@ -45,8 +45,8 @@
 ## 當前焦點
 
 - **端到端驗證 weekly schedule system 安裝 checklist ⑦**（Takeaway 收割是否真的落地 Vault＋Discord 三則通知都收得到）——僅剩最後一步未完成
-- **W30（2026-07-27–08-02）schedule 已由 Routine A 自動生成寫入 Notion**：Pickleball 5 天（Alan drilling ×2 @Jem、Pictopia open-play ×2、JEM 4.0 社課 ×1）、Poker（NL50 grind ×3，含週一延續自 W29 的一場、study ×1）、AI 隔天 1–2h ×3（用 North York Slam 賽事錄影跑影片復盤 pipeline revamp，真實素材測試）、週日 20:00 Weekly Review 收尾。7/27（一）晚間 NL50 與固定 JEM 社課時段衝突，已將該週 JEM 社課改排到 7/29（三）避免撞期
-- 北約克 Slam（7/24–25）賽果與復盤結果尚未確認寫回 `context/pickleball.md`——sticky 保留，待 Jason 確認或睡前 harvest routine 收割 Takeaway
+- **W30（2026-07-27–08-02）schedule 已由 Routine A 自動生成寫入 Notion**：Pickleball 5 天、Poker（NL50 grind ×3＋study ×1）、AI 隔天 1–2h ×3、週日 20:00 Weekly Review 收尾
+- 2026-07-28 睡前收割：今日兩個 block（Pictopia open-play 12:00–16:00、Poker study 20:00–21:00）Done 都還是 false，尚無 Takeaway 可收割；北約克 Slam 復盤仍是最久拖欠的一筆，sticky 保留
 
 ---
 
