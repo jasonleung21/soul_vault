@@ -1,6 +1,6 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/07/31（睡前收割：本機 date 核對通過（Fri Jul 31 2026 22:10 EDT）＋SQL 查 date:Date:start 欄位，今日 2 blocks（AI 影片復盤工具 revamp — 北約克素材測試 10:00–12:00、Pickleball Drilling with Alan @ Jem 14:00–16:00）皆 Done=false、無 Takeaway，harvest 0 筆；明日 8/1（Sat）目前只排了 1 個 block（Poker NL50 grind / 5 手 review 15:00–17:00）——brief 已推送 Discord，[DISCORD_STATUS]）
+> 最後更新：2026/07/31（睡前收割：本機 date 核對通過（Fri Jul 31 2026 22:10 EDT）＋SQL 查 date:Date:start 欄位，今日 2 blocks（AI 影片復盤工具 revamp — 北約克素材測試 10:00–12:00、Pickleball Drilling with Alan @ Jem 14:00–16:00）皆 Done=false、無 Takeaway，harvest 0 筆；明日 8/1（Sat）目前只排了 1 個 block（Poker NL50 grind / 5 手 review 15:00–17:00）——brief 已推送 Discord，204）
 > 前次更新：2026/07/31（早安推播：本機 date 核對通過＋SQL 查 Date 欄位取今日 2 blocks，Discord 204；Vault 仍未存昨晚 brief 逐字內容，無法逐項核對差異——沿用已知缺口）
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
