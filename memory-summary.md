@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/07/31（睡前收割：本機 date 核對通過（Fri Jul 31 2026 22:10 EDT）＋SQL 查 date:Date:start 欄位，今日 2 blocks（AI 影片復盤工具 revamp — 北約克素材測試 10:00–12:00、Pickleball Drilling with Alan @ Jem 14:00–16:00）皆 Done=false、無 Takeaway，harvest 0 筆；明日 8/1（Sat）目前只排了 1 個 block（Poker NL50 grind / 5 手 review 15:00–17:00）——brief 已推送 Discord，204）
-> 前次更新：2026/07/31（早安推播：本機 date 核對通過＋SQL 查 Date 欄位取今日 2 blocks，Discord 204；Vault 仍未存昨晚 brief 逐字內容，無法逐項核對差異——沿用已知缺口）
+> 最後更新：2026/08/02 睡前收割（本機 date 核對通過：Sun Aug 2 2026 22:09 EDT；SQL 查 date:Date:start，今日僅 1 個 block「週日 Weekly Review（5-layer）→ W32 plan」20:00–21:00，Done=false／Takeaway 空，收割 0 筆；明日 8/3（W31 週一）brief 已產出：北約克 Slam Takeaway 回填 09:00–09:30、AI 影片復盤 10:00–12:00、JEM Pickleball 20:00–22:00，共 3 blocks；Discord 推播狀態見下）
+> 前次更新：2026/08/02（Routine A 週計畫生成：本機 date 核對通過（Sun Aug 2 2026 20:02 EDT），W31（08/03–08/09）schedule 已生成寫入 Notion，14 blocks——Pickleball 5 天（JEM×2、Pictopia×2、Alan drilling×1）、Poker（NL50 grind×3＋study×1）、AI 隔天×3、北約克 Slam Takeaway 回填提醒排入週一、週日 20:00 Weekly Review 收尾）
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
@@ -13,7 +13,7 @@
 > Agent 每個 session 都必須放在心上的事：進行中的 P0/P1、有時效的 follow-up、常駐警告。
 
 - [ ] P1 — **North York Slam 7/24–25 賽後復盤 Takeaway 仍未寫回** `context/pickleball.md`——已連續多天 harvest 掃過都是空，需要 Jason 直接補或睡前手動回填 Notion Takeaway 欄位
-- [ ] P1 — 啟用 weekly schedule system：走 `sop/weekly-schedule-system.md` 安裝 checklist ①–⑦（Notion database＋三支 routine）。裝好前每個 session 提醒 Jason（7/29、7/31 兩次睡前收割都 0 筆，⑦ 端到端驗證仍缺真實 Takeaway 樣本可測）
+- [ ] P1 — 啟用 weekly schedule system：走 `sop/weekly-schedule-system.md` 安裝 checklist ①–⑦（Notion database＋三支 routine）。裝好前每個 session 提醒 Jason（7/29、7/31、8/2 三次睡前收割都 0 筆——8/2 當天唯一 block 是 Weekly Review 本身且未勾 Done，⑦ 端到端驗證仍缺真實 Takeaway 樣本可測；W31 週一 09:00 已排北約克 Slam Takeaway 回填提醒，明天有機會產出第一筆真樣本）
 - [ ] P2 — 2026 年 10 月：重新檢視「探索模式 vs 求職模式」定位（identity/who-i-am.md）
 - [ ] P2 — `weekly/` 缺當週（7/27–8/2）plan 檔（現存 `2026-W30.md` 標記的是 7/20–7/26，週次命名已錯位）；且每晚推播的「明日 brief」未存回 Vault，隔天早安推播無法逐項核對差異——需要 Jason 決定命名怎麼修＋是否要把 brief 逐字存檔
 
@@ -46,9 +46,9 @@
 ## 當前焦點
 
 - **端到端驗證 weekly schedule system 安裝 checklist ⑦**（Takeaway 收割是否真的落地 Vault＋Discord 三則通知都收得到）——僅剩最後一步未完成
-- **W30（2026-07-27–08-02）schedule 已由 Routine A 自動生成寫入 Notion**：Pickleball 5 天、Poker（NL50 grind ×3＋study ×1）、AI 隔天 1–2h ×3、週日 20:00 Weekly Review 收尾
-- 2026-07-31 早安推播：今日 2 blocks（AI 影片復盤工具 revamp — 北約克素材測試 10:00–12:00、Pickleball Drilling with Alan @ Jem 14:00–16:00），無 Poker；Discord 204
-- 2026-07-31 睡前收割：同兩個 block 皆 Done=false、無 Takeaway，harvest 0 筆；明日 8/1（Sat）目前只排了 1 個 block（Poker NL50 grind / 5 手 review 15:00–17:00）——W30（7/27–8/2）在週六只剩這一項，值得留意是否要補排；北約克 Slam 復盤仍是最久拖欠的一筆，sticky 保留
+- **W31（2026-08-03–08-09）schedule 已由 Routine A 自動生成寫入 Notion**（2026-08-02 20:02 EDT 執行）：14 blocks——Pickleball 5 天（JEM 週一/三 20:00–22:00、Pictopia 週二/四 12:00–16:00、Alan drilling 週五 14:00–16:00）、Poker（NL50 grind ×3：週二/四/六＋study ×1：週五）、AI 側 quest 隔天 ×3（週一/三/五 10:00–12:00）、北約克 Slam Takeaway 回填提醒排入週一 09:00–09:30、週日 20:00 Weekly Review 收尾。已通知 Jason 過目調整。
+- W30（2026-07-27–08-02）已跑完，未做 retro（下次 weekly review 一併看 Done／Takeaway 執行率）
+- 北約克 Slam 復盤 Takeaway 仍是最久拖欠的一筆，本次已排入 W31 週一早上提醒；sticky 保留至真正回填完成
 
 ---
 
