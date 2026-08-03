@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  launchd 範本。用法：
+    cp bot/com.soul.telegram-bot.plist.example ~/Library/LaunchAgents/com.soul.telegram-bot.plist
+    # 改下面的路徑與 API key
+    launchctl load ~/Library/LaunchAgents/com.soul.telegram-bot.plist
+
+  注意：這份檔案會放進 ~/Library/LaunchAgents/，不在 repo 裡，所以 API key 寫在這裡不違反
+  「秘密不進 repo」。但它是明文——記得 chmod 600。
+  先手動跑幾天確認可用，再裝常駐。
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.soul.telegram-bot</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>/Users/chunkitleung/ai-vault/bot/soul_bot.py</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/chunkitleung/ai-vault</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>ANTHROPIC_API_KEY</key>
+        <string>sk-ant-REPLACE-ME</string>
+        <key>SOUL_VAULT_PATH</key>
+        <string>/Users/chunkitleung/ai-vault</string>
+        <!-- claude CLI 通常在 /usr/local/bin 或 /opt/homebrew/bin。
+             launchd 的 PATH 很窄，一定要自己補，否則 SDK 找不到 claude。 -->
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+    </dict>
+
+    <key>RunAtLoad</key>
+    <true/>
+    <key>KeepAlive</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/tmp/soul-telegram-bot.log</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/soul-telegram-bot.err</string>
+</dict>
+</plist>

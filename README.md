@@ -29,7 +29,11 @@
   /projects              ← 進行中專案的 status.md → 先讀 INDEX.md
   /people                ← 重要聯絡人背景（尚空）
   /skills                ← Agent 技能檔案（尚空）
+  /bot                   ← Soul Telegram bot（Agent SDK）：程式碼與安裝說明 → 先讀 bot/README.md
 ```
+
+> `/bot` 是這個 repo 唯一的程式碼資料夾。它不是知識內容，Soul 讀 Vault 時可以略過，
+> 除非任務就是關於 bot 本身。秘密（token / API key）一律在 `~/.config/soul/`，不在這裡。
 
 會堆疊的資料夾（memory/、projects/、weekly/）各自維護一份 `INDEX.md` 放完整清單；這份 README 只留上面的一行入口。進資料夾前先讀它的 `INDEX.md`。
 
@@ -64,7 +68,7 @@
 
 ---
 
-*最後更新：2026/07/13（週排程系統雙版本合一：Notion＋三支 routine 為正本，/weekly 與 Reminders 為 Vault 側元件）*
-*前次更新：2026/07/06（檢索優化 v1：逐檔索引 + frontmatter + changelog）*
+*最後更新：2026/08/03（新增 `/bot`：Soul Telegram bot v1，Agent SDK 接 Telegram，工作目錄即 Vault）*
+*前次更新：2026/07/13（週排程系統雙版本合一：Notion＋三支 routine 為正本，/weekly 與 Reminders 為 Vault 側元件）*
 
 *📏 更新 log 規則：只留最近兩條。新增一條時，把被擠掉的那條搬進 `sop/vault-changelog.md`。*
