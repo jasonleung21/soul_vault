@@ -138,6 +138,10 @@ Notion 上的原文保留不刪（Notion=明細層，Vault=結論層）。
 
 > 📮 **實際通知通道 = Discord**（非本檔原稿寫的 push+email）：Routine B/C 用本機 curl 打 Discord webhook（`~/.config/soul/discord_webhook`）。
 > Jason 看到的「Discord 提醒＋明日活動提醒」就是這兩支。cron 為本機時區直接填（此排程器以 local time 計，非 UTC——上方 UTC 表已作廢，以此為準）。
+>
+> 🔜 **Telegram bot（v1 已建，見 `/bot`）**：`bot/soul_bot.py`，Agent SDK 接 Telegram，工作目錄即 Vault，可雙向對話並寫回 Vault。
+> **推播尚未切過去**——Routine B/C 目前仍打 Discord。等 bot 實跑一週證明可用，再決定要不要把 B/C 的 curl 改指 Telegram（屆時改的是 Routine 的 prompt，不是本檔）。
+> 切換的判準：睡前 brief 來了想改東西時，是真的直接回訊息處理掉，還是照樣跳去 Notion。
 
 **Vault 側（已完成 ✅ 2026/07/13）**：`/weekly` 資料夾＋INDEX、`weekly/2026-W29.md`、README／changelog 同步、Reminders 備援提醒。
 
@@ -147,5 +151,6 @@ Notion 上的原文保留不刪（Notion=明細層，Vault=結論層）。
 ## 之後再說（Phase 4，先不做）
 
 - **Apple Calendar 鏡像**：由週計畫生成 `.ics` email 給 Jason 匯入——iPhone 原生時間提醒（單向唯讀）
-- Discord bot（`bot.py`）作為第三通知通道
+- ~~Discord bot（`bot.py`）作為第三通知通道~~ → 改走 Telegram bot（`/bot`，v1 已建）。
+  不做「第三個通道」——目標是把推播收斂成一個**可回話**的，不是再加一個單向的。
 - Weekly review 自動化：Routine A 先用本週 Done／Takeaway 數據預填 5-layer review
