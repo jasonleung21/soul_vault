@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/08/04 睡前收割（本機 date 核對通過：Tue Aug 4 2026 22:10 EDT；SQL 查 date:Date:start，今日 2 blocks（Pictopia Open Play 12–16 Pickleball、NL50 Grind 19–21 Poker）皆未勾 Done、無 Takeaway，收割 0 筆——與 8/4 日間記錄的實際行程落差持續未同步；明日 8/5（W31 Day 3）brief 已產出：AI 影片復盤 10–12、Rest Day stretching 12–13、Advanced 4.0 social @ JEM 20–22（TBD，視人數）；Discord 推播 STATUS:204 成功）
-> 前次更新：2026/08/04 日間（Jason 口述今日實際行程：Alan drilling 2–4、Cindy drilling 4–5、Jane 雙打 session、Advanced 4.0 social 8–10——與 Notion 原排程（Pictopia 12–4、NL50 poker 19–21）落差大、Notion 未同步；同時揭露新賽事 **To-pick Tournament（8/14–15 @ JEM，搭檔 Jane）**。已寫回 `context/pickleball.md`（新增 Cindy/Jane、賽程、frontmatter 日期）＋新增 sticky 追蹤備戰）
+> 最後更新：2026/08/05 早安推播（本機 date 核對通過：Wed Aug 5 2026 06:36 EDT；SQL 查 date:Date:start，今日 3 blocks（AI 影片復盤 10–12、Rest Day stretching 12–13、Advanced 4.0 social @ JEM 20–22 TBD）皆未勾 Done，與昨晚 8/4 睡前產出的 W31 Day 3 brief 完全一致、無出入；Discord 推播 STATUS:204 成功）
+> 前次更新：2026/08/04 睡前收割（本機 date 核對通過：Tue Aug 4 2026 22:10 EDT；SQL 查 date:Date:start，今日 2 blocks（Pictopia Open Play 12–16 Pickleball、NL50 Grind 19–21 Poker）皆未勾 Done、無 Takeaway，收割 0 筆——與 8/4 日間記錄的實際行程落差持續未同步；明日 8/5（W31 Day 3）brief 已產出：AI 影片復盤 10–12、Rest Day stretching 12–13、Advanced 4.0 social @ JEM 20–22（TBD，視人數）；Discord 推播 STATUS:204 成功）
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
