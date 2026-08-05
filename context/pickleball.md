@@ -1,7 +1,7 @@
 ---
-updated: 2026-08-04
+updated: 2026-08-05
 tags: [context, pickleball, goals]
-summary: DUPR 4.0 現況、Jem/Pictopia 訓練環境、年底 4.5 分層目標、週 4-5 天投入與 Soul 追蹤點；To-pick Tournament 備戰（⚠️日期待確認）、Jane stacking 站位確立、體能與教練 pivot 新追蹤點
+summary: DUPR 4.0 現況、Jem/Pictopia 訓練環境、年底 4.5 分層目標、週 4-5 天投入與 Soul 追蹤點；To-pick Tournament 8/15 已確認、Jane stacking 站位確立、體能與教練 pivot 新追蹤點
 ---
 
 # Pickleball — 現況與目標
@@ -43,7 +43,7 @@ summary: DUPR 4.0 現況、Jem/Pictopia 訓練環境、年底 4.5 分層目標�
 - 賽後：結果與復盤寫回本檔 + memory/
 
 - 🏆 **To-pick Tournament**：雙打搭檔 **Jane**（2026/08/04 確認備戰）
-  - ⚠️ **日期待確認、目前有衝突**：8/4 當天記錄是 **8/14–15 @ JEM**；8/4 晚間 Jason 口述卻說「Topick will be held next Saturday, starting at 1:30pm」——若「next Saturday」指 8/8，與原記錄的 8/14–15 不一致。兩個日期只有一個是對的，下次對話跟 Jason 確認一次
+  - ✅ **日期已確認：2026/08/15（六）13:30 開打 @ JEM**（8/5 Jason 確認，先前 8/4 早上誤記/誤傳的 8/14–15 與「next Saturday」講法已釐清，以此為準）
   - 8/4 起明顯加量：同日 Alan drilling（2–4）＋ Cindy drilling（4–5）＋ Jane 雙打 session＋ Advanced 4.0 social（8–10），單日近 10 小時場上時間（含 Kim 挑戰賽），詳見 `pickleball-technique-log.md`
   - 雙打配合已定：發球 stacking（Jason 反手側、Jane 正手側）；進階局要求 Jane 保持警覺、預期每球被針對
   - 待補：報名狀態確認、賽前減量時間點——8/4 五段連打已出現體能下滑徵兆（5 連勝但後段非受迫失誤增加），減量規劃要比 North York Slam 那次更早落實

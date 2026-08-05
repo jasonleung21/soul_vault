@@ -12,9 +12,10 @@
 
 > Agent 每個 session 都必須放在心上的事：進行中的 P0/P1、有時效的 follow-up、常駐警告。
 
-- [ ] P1 — **North York Slam 7/24–25 賽後復盤 Takeaway 仍未寫回** `context/pickleball.md`——已連續多天（含 8/3 週一 09:00 排定的回填提醒）harvest 掃過都是空，需要 Jason 直接補或睡前手動回填 Notion Takeaway 欄位
-- [ ] P1 — 啟用 weekly schedule system：走 `sop/weekly-schedule-system.md` 安裝 checklist ①–⑦（Notion database＋三支 routine）。裝好前每個 session 提醒 Jason（7/29、7/31、8/2、8/4 四次睡前收割都 0 筆——8/3 週一排的北約克 Slam Takeaway 回填提醒似乎也沒被填，⑦ 端到端驗證仍缺真實 Takeaway 樣本可測）
-- [ ] P1 — **To-pick Tournament（8/14–15 @ JEM）備戰**：8/4 起單日加量（Alan drilling 2–4 ＋ Cindy drilling 4–5 ＋ Jane 雙打 session ＋ Advanced 4.0 social 8–10，近 6 小時場上時間），距賽僅 10 天——追蹤報名狀態、與 Jane 的配合進度、賽前減量規劃是否落地（North York Slam 賽前也曾提醒減量，7/24–25 週五單打後週六仍照打，這次要盯緊）
+- [ ] P1 — **North York Slam 雙打（7/25，搭 Alan）復盤仍缺**——8/5 查證發現：單打復盤其實早就好好寫在 Notion「🏓 Pickleball HQ → 📝 Session Debriefs」（`North York Slam — Singles Debrief (4th Place)`，7/27 就有完整內容），之前 Vault 一直誤判「北約克 Takeaway 未填」是因為只盯著 Weekly Schedule DB 的 Takeaway 欄位，沒看真正的 debrief 系統。雙打那場（7/25）連 session log 都沒有列——這才是真正缺的一筆
+- [ ] P1 — **系統性落差：harvest 邏輯抓錯地方**——Jason 真正的 pickleball 復盤主力在 Notion「Pickleball HQ → Session Debriefs」（Debrief→Diagnosis→Pre-session brief 三段式、每場一個 sub-page），Weekly Schedule DB 的 Takeaway 欄位只是給 Vault 用的簡化收割口，兩邊沒串起來——這解釋了為什麼睡前收割連續多天 0 筆（人根本沒在填那個欄位，復盤寫在別的地方）。8/5 已列入「revamp 系統」討論範圍，等 Jason 週三整理完北約克復盤後一起討論怎麼接
+- [ ] P1 — 啟用 weekly schedule system：走 `sop/weekly-schedule-system.md` 安裝 checklist ①–⑦（Notion database＋三支 routine）。裝好前每個 session 提醒 Jason（7/29、7/31、8/2、8/4 四次睡前收割都 0 筆——根本原因見上一條）
+- [ ] P1 — **To-pick Tournament（✅ 2026/08/15（六）13:30 @ JEM，已確認）備戰**：8/4 起單日加量（Alan drilling 2–4 ＋ Cindy drilling 4–5 ＋ Jane 雙打 session ＋ Advanced 4.0 social 8–10，近 10 小時場上時間）——追蹤報名狀態、與 Jane 的配合進度、賽前減量規劃是否落地（North York Slam 賽前也曾提醒減量，7/24–25 週五單打後週六仍照打，這次要盯緊；8/4 已見體能下滑徵兆）
 - [ ] P1 — **8/5（週三）行程：noon stretch → 視人數決定是否打 Advanced 4.0**：Jason 決定保留 JEM 8-10pm 訂位不取消（該場需至少 2 人才開，8/3 同場次才因人數不足被 courtreserve 取消過），Stretching & Recovery 已從 16:00 改到 **12:00–13:00**，晚上是否出席留到 stretch 後才決定。Notion block 已加註 TBD
 - [ ] P2 — 2026 年 10 月：重新檢視「探索模式 vs 求職模式」定位（identity/who-i-am.md）
 - [ ] P2 — `weekly/` 缺當週（7/27–8/2）plan 檔（現存 `2026-W30.md` 標記的是 7/20–7/26，週次命名已錯位）；且每晚推播的「明日 brief」未存回 Vault，隔天早安推播無法逐項核對差異——需要 Jason 決定命名怎麼修＋是否要把 brief 逐字存檔
