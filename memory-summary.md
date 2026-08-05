@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/08/02 睡前收割（本機 date 核對通過：Sun Aug 2 2026 22:09 EDT；SQL 查 date:Date:start，今日僅 1 個 block「週日 Weekly Review（5-layer）→ W32 plan」20:00–21:00，Done=false／Takeaway 空，收割 0 筆；明日 8/3（W31 週一）brief 已產出：北約克 Slam Takeaway 回填 09:00–09:30、AI 影片復盤 10:00–12:00、JEM Pickleball 20:00–22:00，共 3 blocks；Discord 推播狀態見下）
-> 前次更新：2026/08/02（Routine A 週計畫生成：本機 date 核對通過（Sun Aug 2 2026 20:02 EDT），W31（08/03–08/09）schedule 已生成寫入 Notion，14 blocks——Pickleball 5 天（JEM×2、Pictopia×2、Alan drilling×1）、Poker（NL50 grind×3＋study×1）、AI 隔天×3、北約克 Slam Takeaway 回填提醒排入週一、週日 20:00 Weekly Review 收尾）
+> 最後更新：2026/08/04 睡前收割（本機 date 核對通過：Tue Aug 4 2026 22:10 EDT；SQL 查 date:Date:start，今日 2 blocks（Pictopia Open Play 12–16 Pickleball、NL50 Grind 19–21 Poker）皆未勾 Done、無 Takeaway，收割 0 筆——與 8/4 日間記錄的實際行程落差持續未同步；明日 8/5（W31 Day 3）brief 已產出：AI 影片復盤 10–12、Rest Day stretching 12–13、Advanced 4.0 social @ JEM 20–22（TBD，視人數）；Discord 推播結果見下方教訓/待補）
+> 前次更新：2026/08/04 日間（Jason 口述今日實際行程：Alan drilling 2–4、Cindy drilling 4–5、Jane 雙打 session、Advanced 4.0 social 8–10——與 Notion 原排程（Pictopia 12–4、NL50 poker 19–21）落差大、Notion 未同步；同時揭露新賽事 **To-pick Tournament（8/14–15 @ JEM，搭檔 Jane）**。已寫回 `context/pickleball.md`（新增 Cindy/Jane、賽程、frontmatter 日期）＋新增 sticky 追蹤備戰）
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
@@ -12,8 +12,10 @@
 
 > Agent 每個 session 都必須放在心上的事：進行中的 P0/P1、有時效的 follow-up、常駐警告。
 
-- [ ] P1 — **North York Slam 7/24–25 賽後復盤 Takeaway 仍未寫回** `context/pickleball.md`——已連續多天 harvest 掃過都是空，需要 Jason 直接補或睡前手動回填 Notion Takeaway 欄位
-- [ ] P1 — 啟用 weekly schedule system：走 `sop/weekly-schedule-system.md` 安裝 checklist ①–⑦（Notion database＋三支 routine）。裝好前每個 session 提醒 Jason（7/29、7/31、8/2 三次睡前收割都 0 筆——8/2 當天唯一 block 是 Weekly Review 本身且未勾 Done，⑦ 端到端驗證仍缺真實 Takeaway 樣本可測；W31 週一 09:00 已排北約克 Slam Takeaway 回填提醒，明天有機會產出第一筆真樣本）
+- [ ] P1 — **North York Slam 7/24–25 賽後復盤 Takeaway 仍未寫回** `context/pickleball.md`——已連續多天（含 8/3 週一 09:00 排定的回填提醒）harvest 掃過都是空，需要 Jason 直接補或睡前手動回填 Notion Takeaway 欄位
+- [ ] P1 — 啟用 weekly schedule system：走 `sop/weekly-schedule-system.md` 安裝 checklist ①–⑦（Notion database＋三支 routine）。裝好前每個 session 提醒 Jason（7/29、7/31、8/2、8/4 四次睡前收割都 0 筆——8/3 週一排的北約克 Slam Takeaway 回填提醒似乎也沒被填，⑦ 端到端驗證仍缺真實 Takeaway 樣本可測）
+- [ ] P1 — **To-pick Tournament（8/14–15 @ JEM）備戰**：8/4 起單日加量（Alan drilling 2–4 ＋ Cindy drilling 4–5 ＋ Jane 雙打 session ＋ Advanced 4.0 social 8–10，近 6 小時場上時間），距賽僅 10 天——追蹤報名狀態、與 Jane 的配合進度、賽前減量規劃是否落地（North York Slam 賽前也曾提醒減量，7/24–25 週五單打後週六仍照打，這次要盯緊）
+- [ ] P1 — **8/5（週三）行程：noon stretch → 視人數決定是否打 Advanced 4.0**：Jason 決定保留 JEM 8-10pm 訂位不取消（該場需至少 2 人才開，8/3 同場次才因人數不足被 courtreserve 取消過），Stretching & Recovery 已從 16:00 改到 **12:00–13:00**，晚上是否出席留到 stretch 後才決定。Notion block 已加註 TBD
 - [ ] P2 — 2026 年 10 月：重新檢視「探索模式 vs 求職模式」定位（identity/who-i-am.md）
 - [ ] P2 — `weekly/` 缺當週（7/27–8/2）plan 檔（現存 `2026-W30.md` 標記的是 7/20–7/26，週次命名已錯位）；且每晚推播的「明日 brief」未存回 Vault，隔天早安推播無法逐項核對差異——需要 Jason 決定命名怎麼修＋是否要把 brief 逐字存檔
 

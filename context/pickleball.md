@@ -1,7 +1,7 @@
 ---
-updated: 2026-07-06
+updated: 2026-08-04
 tags: [context, pickleball, goals]
-summary: DUPR 4.0 現況、Jem/Pictopia 訓練環境、年底 4.5 分層目標、週 4-5 天投入與 Soul 追蹤點
+summary: DUPR 4.0 現況、Jem/Pictopia 訓練環境、年底 4.5 分層目標、週 4-5 天投入與 Soul 追蹤點；新增 To-pick Tournament（8/14–15）備戰與 Cindy/Jane 對手池
 ---
 
 # Pickleball — 現況與目標
@@ -17,6 +17,8 @@ summary: DUPR 4.0 現況、Jem/Pictopia 訓練環境、年底 4.5 分層目標�
 
 - Jem 固定兩團：3.5–3.75 團（pickleball 知識型）；4.0 團（運動背景轉項：網球/羽球底，drive 與 counter 強、dink 待補）
 - 固定 drilling partner：**Alan**（左手，DUPR ~3.75）
+- **Cindy**：另一位 drilling partner（2026/08/04 起確認固定投入）
+- **Jane**：雙打搭檔，備戰 To-pick Tournament（見下方近期賽程）
 - Pictopia：4.0+ 級別，高強度 hands battle 與 dinking
 - Clinic：開放參加高手 clinic（已上過 5.5 級教練的 drops/reset 課 → 筆記見 `pickleball-technique-log.md`）
 
@@ -40,6 +42,11 @@ summary: DUPR 4.0 現況、Jem/Pictopia 訓練環境、年底 4.5 分層目標�
 - ✅ 已定：單打（7/24 五）＋雙打（7/25 六）兩項都打。連打兩日、週五單打體力消耗大 → 週六雙打（搭 Alan）仍為本週主目標；W30 後半減量、週五保留體力
 - 賽後：結果與復盤寫回本檔 + memory/
 
+- 🏆 **To-pick Tournament（2026/08/14–15，@ JEM）**：雙打搭檔 **Jane**（2026/08/04 確認備戰）
+  - 距今僅 10 天；8/4 起明顯加量：同日 Alan drilling（2–4）＋ Cindy drilling（4–5）＋ Jane 雙打 session＋ Advanced 4.0 social（8–10），單日近 6 小時場上時間
+  - 待補：報名狀態確認、與 Jane 的雙打配合重點（站位/溝通）、賽前減量時間點
+  - **8/8（六）Pickleplex Downsview — Open Play 4.0+ Tournament Prep Partner Play**，18:00–20:00，搭 **Alan**（National PB Day 活動，已付款確認 #36ZUJ15926）
+
 ## 目前投入
 
 - 週 4–5 天、每次 3–4 小時：2 天 drilling + 2–3 天 group play
@@ -52,6 +59,7 @@ summary: DUPR 4.0 現況、Jem/Pictopia 訓練環境、年底 4.5 分層目標�
 - **Pictopia open-play**：主要落在 **週二、週四 12:00–16:00**（另一場地，自行處理）
 - **Drilling with Alan**：**14:00–16:00（2–4）**，每週 1–2 天
   - 優先序：**當天有 Pictopia open-play → 以 Pictopia 為主**；否則到 **Jem** drill
+- **Stretching & Recovery**：**1 小時 block，每週 2–3 天**（2026/08/04 起新增，Track=Life）——排在非高強度日或高強度日之後，避免緊接在 drilling／social play 前
 - 無固定教練；以 clinic ＋ 錄影復盤 ＋ 線上教學自主訓練
 - 習慣建立中：比賽與 drilling 都錄影復盤
 
