@@ -1,6 +1,6 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/08/05 睡前收割（本機 date 核對通過：Wed Aug 5 2026 22:09 EDT；SQL 查 date:Date:start，今日 3 blocks（AI 影片復盤 10–12、Rest Day stretching 12–13、Advanced 4.0 social @ JEM 20–22 TBD）皆未勾 Done、無 Takeaway，收割 0 筆——與前幾日同樣的系統性落差（見 sticky）；明日 8/6（W31 Day 4／週四）brief 已產出：Pictopia Open Play 12–16（Pickleball）、NL50 Grind 19–21（Poker），共 2 blocks；Discord 推播待確認）
+> 最後更新：2026/08/05 睡前收割（本機 date 核對通過：Wed Aug 5 2026 22:09 EDT；SQL 查 date:Date:start，今日 3 blocks（AI 影片復盤 10–12、Rest Day stretching 12–13、Advanced 4.0 social @ JEM 20–22 TBD）皆未勾 Done、無 Takeaway，收割 0 筆——與前幾日同樣的系統性落差（見 sticky）；明日 8/6（W31 Day 4／週四）brief 已產出：Pictopia Open Play 12–16（Pickleball）、NL50 Grind 19–21（Poker），共 2 blocks；Discord 推播 STATUS:204 成功）
 > 前次更新：2026/08/05 早安推播（本機 date 核對通過：Wed Aug 5 2026 06:36 EDT；SQL 查 date:Date:start，今日 3 blocks（AI 影片復盤 10–12、Rest Day stretching 12–13、Advanced 4.0 social @ JEM 20–22 TBD）皆未勾 Done，與昨晚 8/4 睡前產出的 W31 Day 3 brief 完全一致、無出入；Discord 推播 STATUS:204 成功）
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
