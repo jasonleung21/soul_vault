@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-04
+updated: 2026-08-06
 tags: [pickleball, technique, coaching]
 summary: Clinic 與教練回饋的技術筆記累積（drops/resets、drilling、社交賽觀察等），新條目在最上面
 ---
@@ -7,6 +7,20 @@ summary: Clinic 與教練回饋的技術筆記累積（drops/resets、drilling�
 # Pickleball 技術筆記（clinic / 教練回饋累積）
 
 > 新條目寫在最上面。每次 clinic、私教、或高手指點後記錄。
+
+## 2026/08/06 — Pictopia Open Play + JEM Drilling（Ryan & Kim，2hr）
+
+- Pictopia 改用 **Lifetime 球**（非慣用 Franklin）：出球更有力、旋轉更多
+- Drop/dink 執行手感佳，持續施壓逼對手 pop 球，順勢上網 volley 得分
+- **發球新突破**：把球稍微上拋 ＋ 腰部旋轉發力 ＋ 完整 follow-through，明顯提升 power 與 speed
+- 對手觀察 — **Kelvin**（越南朋友，社交賽固定但近期沒怎麼打）：反應在低階局夠用，但沒有穩定 drive（只有 slice）、沒有 drop——乒乓球式打法若不改會限制上限，久沒進步
+- JEM 2hr drilling（Ryan、Kim）：DTL／crosscourt dinking、drive & counter、hands/speedup
+  - Dinking 一致性高，pull wide + shift 穩定
+  - 首次明確感受到：**正手側 dinking 比反手側難**——topspin/scoop dink 需要換握把；反手側動作更接近網球反拍
+  - Ryan 觀察：正手側可加 **lob DTL**——對手在前場只顧著 dink/drive、對 lob 沒警覺
+  - 2v1 hands/speedup 站位心得：要覆蓋 crosscourt 的一方站位可偏中間（cross 出界機率高，不用顧滿場），backhand 常態備戰、多吃中路，讓另一側隊友專心用 backhand counter 顧自己邊
+  - 風險點：若正手側對手會打**雙手反拍 counter**，中路是他們的 sweet spot（可在空中直接 counter 打直線）——會 set up 隊友措手不及，因此中路要改打身體或右腰側
+  - **Backhand drop 近期穩定度高**
 
 ## 2026/08/04 — Kim 挑戰賽 + backhand dinking drill
 
