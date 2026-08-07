@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/08/05 睡前收割（本機 date 核對通過：Wed Aug 5 2026 22:09 EDT；SQL 查 date:Date:start，今日 3 blocks（AI 影片復盤 10–12、Rest Day stretching 12–13、Advanced 4.0 social @ JEM 20–22 TBD）皆未勾 Done、無 Takeaway，收割 0 筆——與前幾日同樣的系統性落差（見 sticky）；明日 8/6（W31 Day 4／週四）brief 已產出：Pictopia Open Play 12–16（Pickleball）、NL50 Grind 19–21（Poker），共 2 blocks；Discord 推播 STATUS:204 成功）
-> 前次更新：2026/08/05 早安推播（本機 date 核對通過：Wed Aug 5 2026 06:36 EDT；SQL 查 date:Date:start，今日 3 blocks（AI 影片復盤 10–12、Rest Day stretching 12–13、Advanced 4.0 social @ JEM 20–22 TBD）皆未勾 Done，與昨晚 8/4 睡前產出的 W31 Day 3 brief 完全一致、無出入；Discord 推播 STATUS:204 成功）
+> 最後更新：2026/08/06 睡前收割（本機 date 核對通過：Thu Aug 6 2026 22:09 EDT；SQL 查 date:Date:start，今日 2 blocks（Pictopia Open Play 12–16 Pickleball、NL50 Grind 19–21 Poker）皆未勾 Done、無 Takeaway，收割 0 筆——同一系統性落差持續（見 sticky P1：harvest 邏輯抓錯地方，真正復盤寫在 Notion Session Debriefs，不是這個 Takeaway 欄位）；明日 8/7（W31 Day 5／週五）brief 已產出：AI 影片復盤工具 revamp 10–12、Drilling with Alan 14–16（Pickleball）、Poker Study — Pokercode／GTO Wizard 20–21，共 3 blocks；Discord 推播 STATUS:204 成功）
+> 前次更新：2026/08/06 晚間對話（北約克 Slam 雙打復盤第二輪嘗試：Son 口述對手 Jackie 激進 poach 的比賽故事，Claude 訪談到一半——比分細節、opponent「無理要求」、兩個關鍵 over-poach 分的走位、feed-the-poacher 戰術是否有效——四題尚未回答，Son 決定改天一起補，需要下次主動提醒。同時發現 v3 review 工具「Push to Notion」按鈕會靜默失敗：outer fetch 回 200 OK 但內層 Notion 寫入實際沒發生，UI 卻顯示「✓ In Notion!」；Son 這次的資料因此完全遺失（表單無 persistence，資料只存在瀏覽器記憶體）。已用 v3 JSX 加入「🔍 Opponent Style Read」快速記錄功能（不需先選 category），語法已測過。根因也定位到工具設計問題：所有 push 共用同一顆寫死的 NOTION_PAGE_ID（387d5594...，其實是 6 月 Terry 3.5 Silver 那場的頁面），每次都是覆蓋同一頁，不是每場開新頁——這解釋了「怎麼找不到雙打復盤」的根本原因，和 8/5 那條 sticky 是同一類系統性落差）
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
@@ -12,7 +12,7 @@
 
 > Agent 每個 session 都必須放在心上的事：進行中的 P0/P1、有時效的 follow-up、常駐警告。
 
-- [ ] P1 — **North York Slam 雙打（7/25，搭 Alan）復盤仍缺**——8/5 查證發現：單打復盤其實早就好好寫在 Notion「🏓 Pickleball HQ → 📝 Session Debriefs」（`North York Slam — Singles Debrief (4th Place)`，7/27 就有完整內容），之前 Vault 一直誤判「北約克 Takeaway 未填」是因為只盯著 Weekly Schedule DB 的 Takeaway 欄位，沒看真正的 debrief 系統。雙打那場（7/25）連 session log 都沒有列——這才是真正缺的一筆
+- [ ] P0 — **北約克 Slam 雙打（Alan）復盤：8/6 開始重建，中途擱置，需下次主動提醒 Son 回來完成**。8/6 對話中 Son 口述了對戰 Jackie（激進 poach，搭檔負責 drive）那場的故事：drop/dinking 穩、開局兩個發球 UE（疑似被對手「無理要求」影響）、8-12 落後但拉回 14-12 卻未能收尾、對手 UE 遠多於我方、有兩個關鍵分是 Jackie over-poach 但我方沒把握住。Claude 提了 4 題還沒答：①「無理要求」具體是什麼 ②真實比分／最後兩三分怎麼丟的 ③Jackie 站哪一側＋那兩個 over-poach 分的走位細節 ④「餵給 poacher 自己那側」這個戰術是否真的成立。**同一次對話也發現：v3 review 工具的「Push to Notion」按鈕會靜默失敗**（outer fetch 回 200 但內層 Notion 寫入沒發生，UI 仍顯示成功）——Son 這次在表單裡打的所有記錄因此遺失（表單無 persistence）。根因：所有 push 共用同一顆寫死的 `NOTION_PAGE_ID`（387d5594...，其實是 6 月 Terry 3.5 Silver 那場舊頁面），從未真正做到「每場一個新頁」。下次開場提醒 Son：① 回答上述 4 題 ②重新走一次 doubles review（這次會直接建新 Notion 頁，不依賴那顆壞掉的按鈕）。單打復盤本身沒問題，早就好好存在 Notion「🏓 Pickleball HQ → 📝 Session Debriefs」（`North York Slam — Singles Debrief (4th Place)`，7/27）
 - [ ] P1 — **系統性落差：harvest 邏輯抓錯地方**——Jason 真正的 pickleball 復盤主力在 Notion「Pickleball HQ → Session Debriefs」（Debrief→Diagnosis→Pre-session brief 三段式、每場一個 sub-page），Weekly Schedule DB 的 Takeaway 欄位只是給 Vault 用的簡化收割口，兩邊沒串起來——這解釋了為什麼睡前收割連續多天 0 筆（人根本沒在填那個欄位，復盤寫在別的地方）。8/5 已手動把 8/4 marathon 補成一則正式 debrief sub-page＋log 表格新增一列（`Session Debrief — Tue Aug 4, 2026`），這只是補了這一筆，harvest 流程本身怎麼接上 Session Debriefs 仍待 revamp 討論解決，等 Jason 週三整理完北約克復盤一起談
 - [ ] P1 — 啟用 weekly schedule system：走 `sop/weekly-schedule-system.md` 安裝 checklist ①–⑦（Notion database＋三支 routine）。裝好前每個 session 提醒 Jason（7/29、7/31、8/2、8/4 四次睡前收割都 0 筆——根本原因見上一條）
 - [ ] P1 — **To-pick Tournament（✅ 2026/08/15（六）13:30 @ JEM，已確認）備戰**：8/4 起單日加量（Alan drilling 2–4 ＋ Cindy drilling 4–5 ＋ Jane 雙打 session ＋ Advanced 4.0 social 8–10，近 10 小時場上時間）——追蹤報名狀態、與 Jane 的配合進度、賽前減量規劃是否落地（North York Slam 賽前也曾提醒減量，7/24–25 週五單打後週六仍照打，這次要盯緊；8/4 已見體能下滑徵兆）
