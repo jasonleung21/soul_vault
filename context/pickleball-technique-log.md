@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-06
+updated: 2026-08-07
 tags: [pickleball, technique, coaching]
 summary: Clinic 與教練回饋的技術筆記累積（drops/resets、drilling、社交賽觀察等），新條目在最上面
 ---
@@ -7,6 +7,22 @@ summary: Clinic 與教練回饋的技術筆記累積（drops/resets、drilling�
 # Pickleball 技術筆記（clinic / 教練回饋累積）
 
 > 新條目寫在最上面。每次 clinic、私教、或高手指點後記錄。
+
+## 2026/08/07 — 正手 dink 與雙手反拍 counter 深度追問（延續 8/6 debrief）
+
+- **發球突破確認為真**：不是單日手感——故障率沒上升、contact point 仍在身前，威力來源是 racquet head speed 提升（球更深，非明顯多旋轉）。可正式列入 cue stack。
+- **正手 dink 根因更具體**：
+  - Scoop dink 用 continental grip；topspin/roll dink 用 semi-eastern grip——兩套握把並存，決策成本高
+  - 不確定時的預設反應：寧可站位偏中路搶接、能在空中處理就出手，避免真正伸展到寬球——這其實是握把猶豫外溢成站位問題，不是純粹的腳步/覆蓋範圍問題
+  - 這個「就近出手」目前多半是**被動延續球**，不是進攻——尚未把「能在空中接到中路球」轉化為攻擊機會（可連結既有 cue「Are they set?」半機會球判斷）
+  - 正手 DTL speedup 相對好讀——對手能 sit in 反 counter；backhand speedup/roll 偽裝性明顯更好
+  - Ryan 同樣網球底、同樣握把問題——非個案，是網球轉項的共通課題
+  - **待辦**：正手 speedup 的偽裝性需要加進 drill（讓 backswing/paddle face 準備動作對 dink 和 speedup 盡量一致）
+- **雙手反拍 counter 風險**：
+  - 目前**沒有可靠的預先讀取**（grip/stance 讀不出來），只能餵一球後從反應學到——確認屬於「cross first three, then read」既有 scouting 習慣的延伸，不是獨立的 pre-point cue
+  - 提出「餵身體/chicken-wing」戰術：身體/肩側球會擠壓對方雙手上拍的準備空間與轉體，讓乾淨的兩手截擊更難執行——補上了既有 cue「Body first, angle when earned」對抗雙手反拍時的力學原因
+  - Soul 教練假說（待驗證，非定論）：雙手反拍持拍者非持拍手常態靠近拍柄、準備時軀幹可能微收更靠中心以縮短揮拍距離——需要實戰驗證，暫不能取代「餵一球才知道」的現行方法
+  - **新的個人發展方向**：想把雙手反拍截擊/counter 練成自己的武器（不只是防對手），列入 on-the-horizon
 
 ## 2026/08/06 — Pictopia Open Play + JEM Drilling（Ryan & Kim，2hr）
 

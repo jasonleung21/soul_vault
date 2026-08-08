@@ -36,3 +36,7 @@ summary: NL50 主戰 4 桌 + NL100 選擇性 shot（-2BI 停損）、2bb/100 目
 - Tracker：**PT4**（Jason 之後會提供 hands graph / 數據給 Soul 一起看）
 - ✅ 停損規則已定（2026/07/06）：**NL100 shot 單日 -2 buy-ins → 離桌收工（call off the day）**，休息不硬打
 - 學習輸入源很多，輸出節奏（hand review、session 復盤）尚未定義
+
+## Study Takeaways（睡前收割，新條目在上）
+
+- 2026-08-07 — BvB IP spot：對手 RFI 後 flop cbet 頻率過高 → 可用 re-raise 剝削這個傾向（Pokercode／GTO Wizard study）
