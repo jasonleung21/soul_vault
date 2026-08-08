@@ -11,6 +11,7 @@ summary: 核心檔案（README、memory-summary）的歷史更新紀錄，只收
 
 | 日期 | 事件 |
 |------|------|
+| 2026-08-06 晚間對話 | 北約克 Slam 雙打復盤第二輪嘗試：Son 口述對手 Jackie 激進 poach 的比賽故事，Claude 訪談到一半——比分細節、opponent「無理要求」、兩個關鍵 over-poach 分的走位、feed-the-poacher 戰術是否有效——四題尚未回答，Son 決定改天一起補。同時發現 v3 review 工具「Push to Notion」按鈕會靜默失敗：outer fetch 回 200 OK 但內層 Notion 寫入實際沒發生，UI 卻顯示「✓ In Notion!」；Son 這次的資料因此完全遺失（表單無 persistence）。已用 v3 JSX 加入「🔍 Opponent Style Read」快速記錄功能（不需先選 category），語法已測過。根因定位到工具設計問題：所有 push 共用同一顆寫死的 NOTION_PAGE_ID（387d5594...，其實是 6 月 Terry 3.5 Silver 那場的頁面），每次都是覆蓋同一頁，不是每場開新頁 |
 | 2026-08-05 睡前 | 睡前收割：本機 date 核對通過（Wed Aug 5 2026 22:09 EDT）；SQL 查 date:Date:start，今日 3 blocks（AI 影片復盤 10–12、Rest Day stretching 12–13、Advanced 4.0 social @ JEM 20–22 TBD）皆未勾 Done、無 Takeaway，收割 0 筆——與前幾日同樣的系統性落差（見 sticky）；明日 8/6（W31 Day 4／週四）brief 已產出：Pictopia Open Play 12–16（Pickleball）、NL50 Grind 19–21（Poker），共 2 blocks；Discord 推播 STATUS:204 成功 |
 | 2026-08-05 早安 | 早安推播：本機 date 核對通過（Wed Aug 5 2026 06:36 EDT）；SQL 查 date:Date:start，今日 3 blocks（AI 影片復盤 10–12、Rest Day stretching 12–13、Advanced 4.0 social @ JEM 20–22 TBD）皆未勾 Done，與昨晚 8/4 睡前產出的 W31 Day 3 brief 完全一致、無出入；Discord 推播 STATUS:204 成功 |
 | 2026-08-04 睡前 | 睡前收割：本機 date 核對通過（Tue Aug 4 2026 22:10 EDT）；SQL 查 date:Date:start，今日 2 blocks（Pictopia Open Play 12–16 Pickleball、NL50 Grind 19–21 Poker）皆未勾 Done、無 Takeaway，收割 0 筆——與 8/4 日間記錄的實際行程落差持續未同步；明日 8/5（W31 Day 3）brief 已產出：AI 影片復盤 10–12、Rest Day stretching 12–13、Advanced 4.0 social @ JEM 20–22（TBD，視人數）；Discord 推播 STATUS:204 成功 |
