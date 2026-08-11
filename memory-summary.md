@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/08/09 睡前收割（本機 date 核對通過：Sun Aug 9 2026 22:10 EDT；SQL 查 date:Date:start，今日 2 blocks（Stretching & Recovery 18–19 Life，已 Done 但 Takeaway 空、Weekly Review（5-layer SOP）20–21 Life，未 Done）皆無 Takeaway，收割 0 筆，且皆非 Pickleball/Poker/AI track——同一系統性落差持續（見 sticky P1：真正復盤寫在 Notion Session Debriefs，Weekly Schedule 的 Takeaway 欄位少被填）；明日 8/10（週一，W32 Day 1）brief 已產出：北約克雙打復盤：回答 4 題＋重建 Notion debrief page 09:00–09:30（Life，對應 sticky P0）、AI 影片復盤工具 revamp 10:00–12:00（AI）、Advanced 4.0+ Social Play @ JEM 20:00–22:00（Pickleball），共 3 blocks；Discord 推播 STATUS:204 成功。
-> 前次更新：2026/08/09 Routine A 週計畫生成（本機 date 核對通過：Sun Aug 9 2026 20:03 EDT）。為 W32（2026-08-10–08-16）生成 20 blocks 寫入 Notion「📅 Weekly Schedule」（查過 8/10–8/16 無既有列，非重複寫入）。本週核心：**To-pick Tournament 備戰週**（8/15 六 13:30 @ JEM，雙打搭 Jane）——Mon–Wed 正常訓練量（含 Doubles Practice w/ Jane 8/12 14–16 專攻 stacking／對抗 poach），**主動排入 taper**：8/13 起減量、8/14 僅 Light Hit 30–60min＋提早 Stretching 準備早睡，8/15 賽前熱身 12–13 再上場，8/16 賽後即排復盤＋影片重看 16:30–17:30——這次記取 North York Slam 賽前沒減量的教訓，taper 是主動排的而非事後補救。北約克雙打復盤（sticky P0，Jackie poach 那場，4 題未答）已排入 8/10 09:00–09:30 提醒 Son 回來完成——**僅排定提醒時間，問題本身尚未解決，sticky 保留**。Pickleball 維持每週 4–5 天節奏、Poker NL50 grind×3＋study×1、AI 隔天×3 節奏不變。
+> 最後更新：2026/08/10 睡前收割（本機 date 核對通過：Mon Aug 10 2026 22:10 EDT；SQL 查 date:Date:start，今日 4 blocks（北約克雙打復盤：回答 4 題＋重建 Notion debrief page 09:00–09:30 Life、AI 影片復盤工具 revamp 10:00–12:00 AI、Ball-machine Drilling — 反手 drop／雙手反拍 counter @ JEM 13:30–15:00 Pickleball、Advanced 4.0+ Social Play @ JEM 20:00–22:00 Pickleball）皆未勾 Done、無 Takeaway，收割 0 筆——同一系統性落差持續（見 sticky P1）；明日 8/11（週二，W32 Day 2）brief 已產出：Pictopia Open Play（doubles 節奏／hands 練習，兼顧 To-pick 賽前手感）12:00–16:00（Pickleball）、NL50 Grind（4桌）16:30–18:30（Poker）、Advanced 4.0 Session w/ Jane — Stacking 練習＋觀察她的打法習慣 20:00–22:00（Pickleball），共 3 blocks；Discord 推播 STATUS:204 成功。
+> 前次更新：2026/08/10 早安推播（本機 date 核對通過：Mon Aug 10 2026 06:36 EDT；SQL 查 date:Date:start，今日 3 blocks（北約克雙打復盤：回答 4 題＋重建 Notion debrief page 09:00–09:30 Life、AI 影片復盤工具 revamp 10:00–12:00 AI、Advanced 4.0+ Social Play @ JEM 20:00–22:00 Pickleball），與昨晚 8/9 睡前產出的 W32 Day 1 brief 完全一致、無出入；Discord 推播 STATUS:204 成功。
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
@@ -52,6 +52,7 @@
 - **W32（2026-08-10–08-16）schedule 已由 Routine A 自動生成寫入 Notion**（2026-08-09 20:03 EDT 執行）：20 blocks，本週為 **To-pick Tournament 備戰週**（8/15 六 13:30 @ JEM，雙打搭 Jane）。Pickleball 5 天（Mon/Wed JEM 20:00–22:00、Tue Pictopia 12:00–16:00、Wed 14:00–16:00 Doubles Practice w/ Jane、Fri Light Hit 減量、Sat 熱身＋比賽、Sun 復盤）、Poker（NL50 grind ×3：週二/四/日＋study ×1：週四）、AI 隔天 ×3（週一/三/五 10:00–12:00）、北約克雙打復盤提醒排入週一 09:00–09:30、週日 20:00 Weekly Review 收尾。8/13 起主動排 taper（吸取 North York Slam 賽前沒減量的教訓）。待通知 Jason 過目調整。
 - W31（2026-08-03–08-09）已跑完，未做 retro（下次 weekly review 一併看 Done／Takeaway 執行率）
 - 北約克雙打復盤（Jackie poach 那場，4 題未答）仍是最久拖欠的一筆，已連續排入 W31、W32 週一早上提醒（8/10 09:00–09:30）；sticky 保留至真正回答完成
+- **W32 已依 Jason 8/10 當天口頭修正調整**：Jane 訓練實際落在週二 20:00–22:00 Advanced 4.0（原排週三 14–16 專屬 block 已改成這個）；週一新增 13:30–15:00 ball-machine drilling（反手 drop／雙手反拍 counter）；Stretching 從週四搬到週三 12:00–13:00；週四加回 Pictopia 12:00–16:00（Jason 要求，但這與賽前 taper 的初衷有點矛盾，已口頭提出、待他回覆是否要縮短）；週二 NL50 Grind 順移到 16:30–18:30 避免撞期。是否週二 Advanced 4.0 是常態（要不要寫進 pickleball.md 固定時段規則）待確認
 
 ---
 

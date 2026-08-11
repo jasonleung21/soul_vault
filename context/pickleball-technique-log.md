@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-07
+updated: 2026-08-08
 tags: [pickleball, technique, coaching]
 summary: Clinic 與教練回饋的技術筆記累積（drops/resets、drilling、社交賽觀察等），新條目在最上面
 ---
@@ -7,6 +7,23 @@ summary: Clinic 與教練回饋的技術筆記累積（drops/resets、drilling�
 # Pickleball 技術筆記（clinic / 教練回饋累積）
 
 > 新條目寫在最上面。每次 clinic、私教、或高手指點後記錄。
+
+## 2026/08/08 — Downsview Fixed-Team Open Play w/ Alan（National PB Day Tournament Prep）
+
+- 5–6 場比賽，整體對抗游刃有餘，除了一場對 Jay & Lence 較膠著
+- **進攻頻率提升**：主動找 poach 機會、主動發起 hands battle
+- **Dink 多樣化**：不只 pull wide，也打對手腳下逼出弱回球
+- **Reset dink 確認突破**：即使被 pull wide，選擇 slice 回中路或 DTL，不盲目 speed-up；關鍵靠「蹲低／屈膝下沉」化解——呼應 7 月 5.5 級教練 clinic 的 reset 提示（用腿部下沉消力，而非單靠 paddle drop + 前傾），這次在實戰壓力下確認能穩定執行
+- **Drive 組成**：Normal drive ＋ 反手「drip」（推測：帶重旋轉、過網後快速下墜的 topspin roll/drive，此用詞待 Jason 確認）——反手 drip 頻率提升，若對手沒即時上前補位到 kitchen 會非常吃力
+  - 少量 UE：開局階段的 drive 出界（屬開局手感/timing 問題，非「打已站穩對手」的判斷失誤——與「半機會球紀律」根因不同，值得區分記錄）
+- **五拍球（5th shot）決策**：短且下沉的球優先選 drop；已從單純 push drop 進化為 topspin drop 或 drip，維持進攻節奏與速度
+- **Hands battle 傾向**：預設走正手 counter
+- **Alan 觀察**：進攻頻率持續提升（非純 placement）——驗證既有筆記「currently experimenting with added aggression」；正面影響是不讓對手喘息，但仍需保留 placement 給真正的 set-up 球情境
+- **體能**：5–6 場後仍游刃有餘，stretching/mobility 恢復良好，打完最吃力的 Jay & Lence 一場後當天仍能回穩——8/15 賽前減量規劃的正向基準點
+
+### 新對手情報（待補進 Notion Opponent Intel DB）
+- **Jay**：曾在某場錦標賽決賽對戰過（與 Terry 同場）；正手 counter 與反應快、drive 力量足；反手（drive 與 dink 皆）明顯偏弱，可鎖定攻擊
+- **Lence**：DUPR 4.2，軟球技術佳＋手速快，真正撐得住 4.0 標準的對手，目前尚未抓到明顯弱點
 
 ## 2026/08/07 — 正手 dink 與雙手反拍 counter 深度追問（延續 8/6 debrief）
 
