@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/08/10 睡前收割（本機 date 核對通過：Mon Aug 10 2026 22:10 EDT；SQL 查 date:Date:start，今日 4 blocks（北約克雙打復盤：回答 4 題＋重建 Notion debrief page 09:00–09:30 Life、AI 影片復盤工具 revamp 10:00–12:00 AI、Ball-machine Drilling — 反手 drop／雙手反拍 counter @ JEM 13:30–15:00 Pickleball、Advanced 4.0+ Social Play @ JEM 20:00–22:00 Pickleball）皆未勾 Done、無 Takeaway，收割 0 筆——同一系統性落差持續（見 sticky P1）；明日 8/11（週二，W32 Day 2）brief 已產出：Pictopia Open Play（doubles 節奏／hands 練習，兼顧 To-pick 賽前手感）12:00–16:00（Pickleball）、NL50 Grind（4桌）16:30–18:30（Poker）、Advanced 4.0 Session w/ Jane — Stacking 練習＋觀察她的打法習慣 20:00–22:00（Pickleball），共 3 blocks；Discord 推播 STATUS:204 成功。
-> 前次更新：2026/08/10 早安推播（本機 date 核對通過：Mon Aug 10 2026 06:36 EDT；SQL 查 date:Date:start，今日 3 blocks（北約克雙打復盤：回答 4 題＋重建 Notion debrief page 09:00–09:30 Life、AI 影片復盤工具 revamp 10:00–12:00 AI、Advanced 4.0+ Social Play @ JEM 20:00–22:00 Pickleball），與昨晚 8/9 睡前產出的 W32 Day 1 brief 完全一致、無出入；Discord 推播 STATUS:204 成功。
+> 最後更新：2026/08/11 睡前收割（本機 date 核對通過：Tue Aug 11 2026 22:10 EDT；SQL 查 date:Date:start，今日 3 blocks（Pictopia Open Play（doubles 節奏／hands 練習，兼顧 To-pick 賽前手感）12:00–16:00 Pickleball、NL50 Grind（4桌）16:30–18:30 Poker、Advanced 4.0 Session w/ Jane — Stacking 練習＋觀察她的打法習慣 20:00–22:00 Pickleball）皆未勾 Done、無 Takeaway，收割 0 筆——同一系統性落差持續（見 sticky P1）；明日 8/12（週三，W32 Day 3）brief 已產出：AI 影片復盤工具 revamp 10:00–12:00（AI）、Stretching & Recovery 12:00–13:00（Life）、Advanced 4.0+ Social Play @ JEM（TBD，依體感決定是否減量）20:00–22:00（Pickleball），共 3 blocks；Discord 推播 STATUS:204 成功。
+> 前次更新：2026/08/11 早安推播（本機 date 核對通過：Tue Aug 11 2026 06:36 EDT；SQL 查 date:Date:start，今日 3 blocks（Pictopia Open Play（doubles 節奏／hands 練習，兼顧 To-pick 賽前手感）12:00–16:00 Pickleball、NL50 Grind（4桌）16:30–18:30 Poker、Advanced 4.0 Session w/ Jane — Stacking 練習＋觀察她的打法習慣 20:00–22:00 Pickleball），與昨晚 8/10 睡前產出的 W32 Day 2 brief 完全一致、無出入；Discord 推播 STATUS:204 成功。
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
