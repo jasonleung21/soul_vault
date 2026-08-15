@@ -1,7 +1,7 @@
 ---
-updated: 2026-08-05
+updated: 2026-08-14
 tags: [context, pickleball, goals]
-summary: DUPR 4.0 現況、Jem/Pictopia 訓練環境、年底 4.5 分層目標、週 4-5 天投入與 Soul 追蹤點；To-pick Tournament 8/15 已確認、Jane stacking 站位確立、體能與教練 pivot 新追蹤點
+summary: DUPR 4.0 現況、Jem/Pictopia 訓練環境、年底 4.5 分層目標、週 4-5 天投入與 Soul 追蹤點；North York Slam 官方戰績已補（vs Jackie Yeung 14–16）、兩場新賽事確認（Picklers Hub Summer Fest 8/27–30、Rally Open Moneyball 9/12）
 ---
 
 # Pickleball — 現況與目標
@@ -34,13 +34,24 @@ summary: DUPR 4.0 現況、Jem/Pictopia 訓練環境、年底 4.5 分層目標�
 
 ## 近期賽程
 
-- ✅ **North York Slam（2026/07/24–25）**：
-  - 男雙 4.0 & under — **7/25（六）**，搭檔 Alan，已確認報名
-  - 單打 4.0 & under — **7/24（五）**，✅ 已確認報名（2026/07/16 確認，兩項都打）
-  - 目的：檢驗真實水平、拉高 rating reliability、累積同級對抗經驗
-- 賽前重點（W29–W30）：與 Alan 針對性雙打 drilling、至少 1–2 場錄影復盤；W30 後半減量保狀態
-- ✅ 已定：單打（7/24 五）＋雙打（7/25 六）兩項都打。連打兩日、週五單打體力消耗大 → 週六雙打（搭 Alan）仍為本週主目標；W30 後半減量、週五保留體力
-- 賽後：結果與復盤寫回本檔 + memory/
+- ✅ **North York Slam（2026/07/24–25）— 已完賽**：
+  - 單打 4.0 & under — 7/24（五），成績已存 Notion Session Debriefs（4th Place）
+  - 男雙 4.0 & under — 7/25（六），搭檔 Alan，官方戰績（2026/08/14 從 pickleballtournaments.com 官網撈回）：
+    - Pool 1：勝 15–13 vs Tyler Koverko / Jay Solomon
+    - Pool 3：**負 14–16 vs Kyle Todt / Jackie Yeung**（Court 9，Round Robin Round 3；此隊後奪金）
+    - Medal Round：負 13–15 vs Michael De Lisio / Dylan Grace（此隊後奪銀）
+    - 分組戰績 1 勝 1 負（29–29），最終分組第 6
+  - 雙打復盤仍有 3 題未口述完成（無理要求細節、Jackie 站位/over-poach 走位、餵球給 poacher 戰術是否成立）——見 memory-summary.md sticky P0
+
+- 🆕 **Picklers Hub – Summer Fest（2026/08/27–30）@ Mississauga, ON**：
+  - Men's Singles 4.0（4.499 以下）
+  - Men's Doubles 3.5（3.999 以下），搭檔 **Jonathan Fonseca**
+  - 2026/08/13 報名，$113.90（Stripe）
+
+- 🆕 **Rally Open Moneyball（Apollo Pickleball）（2026/09/12）@ North York, ON**：
+  - Men's Doubles（3.999 以下），搭檔 **Alan Hung**
+  - 2026/08/13 報名，$90.95（Stripe）
+  - 單日賽事，Paddle + Cash Prize 賽制
 
 - 🏆 **To-pick Tournament**：雙打搭檔 **Jane**（2026/08/04 確認備戰）
   - ✅ **日期已確認：2026/08/15（六）13:30 開打 @ JEM**（8/5 Jason 確認，先前 8/4 早上誤記/誤傳的 8/14–15 與「next Saturday」講法已釐清，以此為準）
