@@ -1,6 +1,6 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/08/15 睡前收割（本機 date 核對通過：Sat Aug 15 2026 22:10 EDT；SQL 查 date:Date:start，今日 2 blocks（熱身＋進場 @ JEM 12:00–13:00（Pickleball）、🏆 To-pick Tournament（w/ Jane，雙打）@ JEM 13:30–16:30（Pickleball））皆未勾 Done、無 Takeaway，收割 0 筆——比賽日當天 Weekly Schedule 仍未填，同一系統性落差持續（見 sticky P1：真正的賽後復盤應會另外寫進 Notion Session Debriefs，非這個 Takeaway 欄，本次收割沒有動 Session Debriefs，只查了 Weekly Schedule）；明日 8/16（週日，W32 最後一天）brief 已產出：Stretching & Recovery 11:00–12:00（Life）、NL50 Grind（4桌）14:00–16:00（Poker）、To-pick Tournament 復盤＋影片重看 16:30–17:30（Pickleball）、Weekly Review（5-layer SOP）20:00–21:00（Life），共 4 blocks；Discord 推播結果見下方 sticky／changelog。
+> 最後更新：2026/08/15 睡前收割（本機 date 核對通過：Sat Aug 15 2026 22:10 EDT；SQL 查 date:Date:start，今日 2 blocks（熱身＋進場 @ JEM 12:00–13:00（Pickleball）、🏆 To-pick Tournament（w/ Jane，雙打）@ JEM 13:30–16:30（Pickleball））皆未勾 Done、無 Takeaway，收割 0 筆——比賽日當天 Weekly Schedule 仍未填，同一系統性落差持續（見 sticky P1：真正的賽後復盤應會另外寫進 Notion Session Debriefs，非這個 Takeaway 欄，本次收割沒有動 Session Debriefs，只查了 Weekly Schedule）；明日 8/16（週日，W32 最後一天）brief 已產出：Stretching & Recovery 11:00–12:00（Life）、NL50 Grind（4桌）14:00–16:00（Poker）、To-pick Tournament 復盤＋影片重看 16:30–17:30（Pickleball）、Weekly Review（5-layer SOP）20:00–21:00（Life），共 4 blocks；Discord 推播 STATUS:204 成功。
 > 前次更新：2026/08/15 早安推播（本機 date 核對通過：Sat Aug 15 2026 06:36 EDT；SQL 查 date:Date:start，今日 2 blocks（熱身＋進場 @ JEM 12:00–13:00（Pickleball）、🏆 To-pick Tournament（w/ Jane，雙打）@ JEM 13:30–16:30（Pickleball）），與昨晚 8/14 睡前產出的 brief 完全一致、無新出入；今日為 **To-pick Tournament 比賽日**；Discord 推播 STATUS:204 成功。
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
