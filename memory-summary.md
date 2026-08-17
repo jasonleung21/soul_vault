@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/08/15 睡前收割（本機 date 核對通過：Sat Aug 15 2026 22:10 EDT；SQL 查 date:Date:start，今日 2 blocks（熱身＋進場 @ JEM 12:00–13:00（Pickleball）、🏆 To-pick Tournament（w/ Jane，雙打）@ JEM 13:30–16:30（Pickleball））皆未勾 Done、無 Takeaway，收割 0 筆——比賽日當天 Weekly Schedule 仍未填，同一系統性落差持續（見 sticky P1：真正的賽後復盤應會另外寫進 Notion Session Debriefs，非這個 Takeaway 欄，本次收割沒有動 Session Debriefs，只查了 Weekly Schedule）；明日 8/16（週日，W32 最後一天）brief 已產出：Stretching & Recovery 11:00–12:00（Life）、NL50 Grind（4桌）14:00–16:00（Poker）、To-pick Tournament 復盤＋影片重看 16:30–17:30（Pickleball）、Weekly Review（5-layer SOP）20:00–21:00（Life），共 4 blocks；Discord 推播 STATUS:204 成功。
-> 前次更新：2026/08/15 早安推播（本機 date 核對通過：Sat Aug 15 2026 06:36 EDT；SQL 查 date:Date:start，今日 2 blocks（熱身＋進場 @ JEM 12:00–13:00（Pickleball）、🏆 To-pick Tournament（w/ Jane，雙打）@ JEM 13:30–16:30（Pickleball）），與昨晚 8/14 睡前產出的 brief 完全一致、無新出入；今日為 **To-pick Tournament 比賽日**；Discord 推播 STATUS:204 成功。
+> 最後更新：2026/08/16 睡前收割（本機 date 核對通過：Sun Aug 16 2026 22:10 EDT）；SQL 查 date:Date:start，今日 4 blocks（Stretching & Recovery、NL50 Grind、To-pick Tournament 復盤＋影片重看、Weekly Review）皆未勾 Done、無 Takeaway，收割 0 筆——同一系統性落差持續（見 sticky P1：harvest 邏輯抓錯地方，復盤主力在 Notion Session Debriefs，非這裡的 Takeaway 欄）；明日 8/17（週一，W33 Day 1）brief 已產出：北約克雙打復盤剩 3 題 09:00–09:30、AI 影片復盤工具 revamp 10:00–12:00、單打備戰（JEM）時間未定，共 3 blocks；Discord 推播 STATUS:204 成功。
+> 前次更新：2026/08/16 Routine A 週計畫生成（本機執行，非本機 date 指令核對，以 context 提供之 currentDate 2026-08-16 為準）：為 W33（2026-08-17–08-23）生成排程，寫入 Notion「📅 Weekly Schedule」。查詢後發現 8/17–8/21 已有 5 筆既有 Pickleball 列（單打備戰 JEM ×4＋Jonathan Fonseca 雙打 pairing session 8/21，日期待確認）——判斷為 Jason 或先前 session 手動種入，保留未動、未重複寫入。本次新增 11 blocks 補齊 Poker（NL50 grind×3＋study×1）、AI（隔天×3：週一/三/五 10–12）、Life（Stretching×2＋週日 Weekly Review）、北約克雙打復盤剩 3 題再排週一 09:00–09:30（sticky P0 延續）。Pickleball 本週已達 5 天（Mon–Fri，含既有列），故未再加 Sat/Sun pickleball block。已通知 Jason 過目調整。
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
@@ -50,9 +50,9 @@
 ## 當前焦點
 
 - **端到端驗證 weekly schedule system 安裝 checklist ⑦**（Takeaway 收割是否真的落地 Vault＋Discord 三則通知都收得到）——僅剩最後一步未完成
-- **W32（2026-08-10–08-16）schedule 已由 Routine A 自動生成寫入 Notion**（2026-08-09 20:03 EDT 執行）：20 blocks，本週為 **To-pick Tournament 備戰週**（8/15 六 13:30 @ JEM，雙打搭 Jane）。Pickleball 5 天（Mon/Wed JEM 20:00–22:00、Tue Pictopia 12:00–16:00、Wed 14:00–16:00 Doubles Practice w/ Jane、Fri Light Hit 減量、Sat 熱身＋比賽、Sun 復盤）、Poker（NL50 grind ×3：週二/四/日＋study ×1：週四）、AI 隔天 ×3（週一/三/五 10:00–12:00）、北約克雙打復盤提醒排入週一 09:00–09:30、週日 20:00 Weekly Review 收尾。8/13 起主動排 taper（吸取 North York Slam 賽前沒減量的教訓）。待通知 Jason 過目調整。
-- W31（2026-08-03–08-09）已跑完，未做 retro（下次 weekly review 一併看 Done／Takeaway 執行率）
-- 北約克雙打復盤（Jackie poach 那場，4 題未答）仍是最久拖欠的一筆，已連續排入 W31、W32 週一早上提醒（8/10 09:00–09:30）；sticky 保留至真正回答完成
+- **W33（2026-08-17–08-23）schedule 已由 Routine A 生成寫入 Notion**（2026-08-16 20:00 ET 執行）：8/17–8/21 發現 5 筆既有 Pickleball 列（單打備戰 JEM ×4 ＋ Jonathan Fonseca 雙打 pairing session 8/21｜日期待確認，備戰 8/27–30 Picklers Hub Summer Fest），判斷是手動種入、保留未動。本次新增 11 blocks：Poker（NL50 grind ×3：週二 18–20／週六 14–16／週日 14–16＋study ×1：週四 19–20:30）、AI 隔天 ×3（週一/三/五 10:00–12:00）、Stretching ×2（週三 12–13、週六 09–10）、北約克雙打復盤剩 3 題排回週一 09:00–09:30、週日 20:00 Weekly Review 收尾。Pickleball 本週已達 5 天（Mon–Fri），未再加 Sat/Sun pickleball block。待通知 Jason 過目調整；Jonathan pairing session 日期仍待確認，Summer Fest（8/27–30）在下下週，真正 taper 規劃要等下週生成。
+- W32（2026-08-10–08-16）已跑完，未做 retro（下次 weekly review 一併看 Done／Takeaway 執行率，含 To-pick Tournament 賽果與復盤）
+- 北約克雙打復盤（Jackie poach 那場，剩 3 題未答）仍是最久拖欠的一筆，已連續排入 W31/W32/W33 週一早上提醒（8/17 09:00–09:30）；sticky 保留至真正回答完成
 - **W32 已依 Jason 8/10 當天口頭修正調整**：Jane 訓練實際落在週二 20:00–22:00 Advanced 4.0（原排週三 14–16 專屬 block 已改成這個）；週一新增 13:30–15:00 ball-machine drilling（反手 drop／雙手反拍 counter）；Stretching 從週四搬到週三 12:00–13:00；週四加回 Pictopia 12:00–16:00（Jason 要求，但這與賽前 taper 的初衷有點矛盾，已口頭提出、待他回覆是否要縮短）；週二 NL50 Grind 順移到 16:30–18:30 避免撞期。是否週二 Advanced 4.0 是常態（要不要寫進 pickleball.md 固定時段規則）待確認
 
 ---
