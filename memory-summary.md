@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/08/16 睡前收割（本機 date 核對通過：Sun Aug 16 2026 22:10 EDT）；SQL 查 date:Date:start，今日 4 blocks（Stretching & Recovery、NL50 Grind、To-pick Tournament 復盤＋影片重看、Weekly Review）皆未勾 Done、無 Takeaway，收割 0 筆——同一系統性落差持續（見 sticky P1：harvest 邏輯抓錯地方，復盤主力在 Notion Session Debriefs，非這裡的 Takeaway 欄）；明日 8/17（週一，W33 Day 1）brief 已產出：北約克雙打復盤剩 3 題 09:00–09:30、AI 影片復盤工具 revamp 10:00–12:00、單打備戰（JEM）時間未定，共 3 blocks；Discord 推播 STATUS:204 成功。
-> 前次更新：2026/08/16 Routine A 週計畫生成（本機執行，非本機 date 指令核對，以 context 提供之 currentDate 2026-08-16 為準）：為 W33（2026-08-17–08-23）生成排程，寫入 Notion「📅 Weekly Schedule」。查詢後發現 8/17–8/21 已有 5 筆既有 Pickleball 列（單打備戰 JEM ×4＋Jonathan Fonseca 雙打 pairing session 8/21，日期待確認）——判斷為 Jason 或先前 session 手動種入，保留未動、未重複寫入。本次新增 11 blocks 補齊 Poker（NL50 grind×3＋study×1）、AI（隔天×3：週一/三/五 10–12）、Life（Stretching×2＋週日 Weekly Review）、北約克雙打復盤剩 3 題再排週一 09:00–09:30（sticky P0 延續）。Pickleball 本週已達 5 天（Mon–Fri，含既有列），故未再加 Sat/Sun pickleball block。已通知 Jason 過目調整。
+> 最後更新：2026/08/17 睡前收割（本機 date 核對通過：Mon Aug 17 2026 22:11 EDT）；SQL 查 date:Date:start，今日 3 blocks（北約克雙打復盤剩 3 題 09:00–09:30 Pickleball、AI 影片復盤工具 revamp 10:00–12:00 AI、單打備戰（JEM）時間未定 Pickleball）皆未勾 Done、無 Takeaway，收割 0 筆——同一系統性落差持續（見 sticky P1：harvest 邏輯抓錯地方，復盤主力在 Notion Session Debriefs，非這裡的 Takeaway 欄）；明日 8/18（週二，W33 Day 2）brief 已產出：Picktopia Open Play（時間未定，Pickleball）、NL50 Grind 18:00–20:00（Poker），共 2 blocks；Discord 推播 STATUS:204 成功。
+> 前次更新：2026/08/17 早安推播（本機 date 核對通過：Mon Aug 17 2026 06:36 EDT）；SQL 查 date:Date:start，今日 3 blocks（北約克雙打復盤剩 3 題 09:00–09:30 Pickleball、AI 影片復盤工具 revamp 10:00–12:00 AI、單打備戰（JEM）時間未定 Pickleball），與昨晚 8/16 睡前產出的 W33 Day 1 brief 完全一致、無出入；Discord 推播 STATUS:204 成功。
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
