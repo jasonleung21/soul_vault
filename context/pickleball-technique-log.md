@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-08
+updated: 2026-08-18
 tags: [pickleball, technique, coaching]
 summary: Clinic 與教練回饋的技術筆記累積（drops/resets、drilling、社交賽觀察等），新條目在最上面
 ---
@@ -7,6 +7,10 @@ summary: Clinic 與教練回饋的技術筆記累積（drops/resets、drilling�
 # Pickleball 技術筆記（clinic / 教練回饋累積）
 
 > 新條目寫在最上面。每次 clinic、私教、或高手指點後記錄。
+
+## 2026/08/18 — Picktopia Open Play（Notion Takeaway 收割）
+
+- 右手腕比週一好轉、無明顯痠痛，今天刻意避開出力 drive 改採軟球（dink/drop 為主）；單打時留意：對手打出漂亮 backhand drop 後不要輕易 DTL（容易被 read、被動時可能吃 ernie 或直接被 punch）；出力 drive 時球容易偏出邊線，需注意控線。
 
 ## 2026/08/08 — Downsview Fixed-Team Open Play w/ Alan（National PB Day Tournament Prep）
 
