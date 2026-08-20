@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/08/19 早安推播（本機 date 核對通過：Wed Aug 19 2026 06:46 EDT）；SQL 查 date:Date:start，今日 3 blocks（🤾 單打備戰（JEM，練 lob 判讀）時間未定 Pickleball、AI 影片復盤工具 revamp 10:00–12:00 AI、Stretching & Recovery 12:00–13:00 Life），與昨晚 8/18 睡前產出的 W33 Day 3 brief 完全一致、無出入；Discord 推播 STATUS:204 成功。
-> 前次更新：2026/08/18 睡前收割（本機 date 核對通過：Tue Aug 18 2026 22:10 EDT）；SQL 查 date:Date:start，今日 2 blocks（Picktopia Open Play Pickleball 已 Done 且有 Takeaway、NL50 Grind（4桌）18:00–20:00 Poker 未 Done 無 Takeaway），收割 1 筆——Picktopia Open Play Takeaway（右手腕好轉、避開出力 drive 改軟球、留意對手 backhand drop 後別輕易 DTL）已蒸餾寫入 `context/pickleball-technique-log.md`；明日 8/19（週三，W33 Day 3）brief 已產出：🤾 單打備戰（JEM，練 lob 判讀）時間未定 Pickleball、AI 影片復盤工具 revamp 10:00–12:00 AI、Stretching & Recovery 12:00–13:00 Life，共 3 blocks；Discord 推播 STATUS:204 成功。
+> 最後更新：2026/08/19 睡前收割（本機 date 核對通過：Wed Aug 19 2026 22:10 EDT）；SQL 查 date:Date:start，今日 3 blocks（🤾 單打備戰（JEM，練 lob 判讀）時間未定 Pickleball、AI 影片復盤工具 revamp 10:00–12:00 AI、Stretching & Recovery 12:00–13:00 Life）皆未勾 Done、無 Takeaway，收割 0 筆——同一系統性落差持續（見 sticky P1：harvest 邏輯抓錯地方，復盤主力在 Notion Session Debriefs，非這裡的 Takeaway 欄）；明日 8/20（週四，W33 Day 4）brief 已產出：JEM 單打備戰（武器實戰驗證：軟蓋交叉／DTL 回發球／發球後第三球決策）時間未定 Pickleball、Poker Study（Pokercode／GTO Wizard，剝削 BvB flop cbet 過高傾向）19:00–20:30 Poker，共 2 blocks；Discord 推播 STATUS:204 成功。
+> 前次更新：2026/08/19 早安推播（本機 date 核對通過：Wed Aug 19 2026 06:46 EDT）；SQL 查 date:Date:start，今日 3 blocks（🤾 單打備戰（JEM，練 lob 判讀）時間未定 Pickleball、AI 影片復盤工具 revamp 10:00–12:00 AI、Stretching & Recovery 12:00–13:00 Life），與昨晚 8/18 睡前產出的 W33 Day 3 brief 完全一致、無出入；Discord 推播 STATUS:204 成功。
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
