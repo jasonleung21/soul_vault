@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/08/20 睡前收割（本機 date 核對通過：Thu Aug 20 2026 22:10 EDT）；SQL 查 date:Date:start，今日 2 blocks（JEM 單打備戰—武器實戰驗證：軟蓋交叉／DTL 回發球／發球後第三球決策，時間未定 Pickleball、Poker Study — Pokercode／GTO Wizard，剝削 BvB flop cbet 過高傾向 19:00–20:30 Poker）皆未勾 Done、無 Takeaway，收割 0 筆——同一系統性落差持續（見 sticky P1：harvest 邏輯抓錯地方，復盤主力在 Notion Session Debriefs，非這裡的 Takeaway 欄）；明日 8/21（週五，W33 Day 5）brief 已產出：⏳ Jonathan Fonseca 雙打 pairing session（3.5，主打 poach 組合，日期待確認）Pickleball、AI 影片復盤工具 revamp 10:00–12:00 AI、🇰🇷 Busan booking（2小時輪詢＋訂 Sky Capsule）21:00–23:00 Life（已有 Takeaway：9/16 上午售罄，19:00–19:30 剩 20 位，待決定是否直接訂），共 3 blocks；Discord 推播 STATUS:204 成功。
-> 前次更新：2026/08/19 睡前收割（本機 date 核對通過：Wed Aug 19 2026 22:10 EDT）；SQL 查 date:Date:start，今日 3 blocks（🤾 單打備戰（JEM，練 lob 判讀）時間未定 Pickleball、AI 影片復盤工具 revamp 10:00–12:00 AI、Stretching & Recovery 12:00–13:00 Life）皆未勾 Done、無 Takeaway，收割 0 筆——同一系統性落差持續（見 sticky P1：harvest 邏輯抓錯地方，復盤主力在 Notion Session Debriefs，非這裡的 Takeaway 欄）；明日 8/20（週四，W33 Day 4）brief 已產出：JEM 單打備戰（武器實戰驗證：軟蓋交叉／DTL 回發球／發球後第三球決策）時間未定 Pickleball、Poker Study（Pokercode／GTO Wizard，剝削 BvB flop cbet 過高傾向）19:00–20:30 Poker，共 2 blocks；Discord 推播 STATUS:204 成功。
+> 最後更新：2026/08/22 睡前收割（本機 date 核對通過：Sat Aug 22 2026 22:10 EDT）；SQL 查 date:Date:start，今日 2 blocks（Stretching & Recovery 09:00–10:00 Life、NL50 Grind（4桌）14:00–16:00 Poker）皆未勾 Done、無 Takeaway，收割 0 筆——同一系統性落差持續（見 sticky P1：harvest 邏輯抓錯地方，復盤主力在 Notion Session Debriefs，非這裡的 Takeaway 欄）；明日 8/23（週日，W33 Day 7）brief 已產出：NL50 Grind（4桌）14:00–16:00 Poker、Weekly Review（5-layer SOP）20:00–21:00 Life，共 2 blocks；Discord 推播 STATUS:204 成功。
+> 前次更新：2026/08/20 睡前收割（本機 date 核對通過：Thu Aug 20 2026 22:10 EDT）；SQL 查 date:Date:start，今日 2 blocks（JEM 單打備戰—武器實戰驗證：軟蓋交叉／DTL 回發球／發球後第三球決策，時間未定 Pickleball、Poker Study — Pokercode／GTO Wizard，剝削 BvB flop cbet 過高傾向 19:00–20:30 Poker）皆未勾 Done、無 Takeaway，收割 0 筆——同一系統性落差持續（見 sticky P1：harvest 邏輯抓錯地方，復盤主力在 Notion Session Debriefs，非這裡的 Takeaway 欄）；明日 8/21（週五，W33 Day 5）brief 已產出：⏳ Jonathan Fonseca 雙打 pairing session（3.5，主打 poach 組合，日期待確認）Pickleball、AI 影片復盤工具 revamp 10:00–12:00 AI、🇰🇷 Busan booking（2小時輪詢＋訂 Sky Capsule）21:00–23:00 Life（已有 Takeaway：9/16 上午售罄，19:00–19:30 剩 20 位，待決定是否直接訂），共 3 blocks；Discord 推播 STATUS:204 成功。
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
@@ -42,6 +42,7 @@
 | 2026-07-13 | 背景 session 建的檔 merge 進了 GitHub main，本機沒 pull；Soul 只查本機 git log 就斷言「從未存在」，差點重造輪子 | 查證檔案是否存在：先 `git fetch` 再比對 `origin/main`；背景 session 產出後，本機要記得 pull |
 | 2026-07-18 | 每日排程推播誤把「今天」算成 7/16、又「更正」成 7/17，實際當天是 7/18（連續錯兩次才修正） | 推播前先跑本機 `date` 指令核對系統日期；Today view 用 date_is:today filter 查詢當天可能回傳空值，改用 SQL 直接查 Date 欄位（BETWEEN）較可靠 |
 | 2026-07-21 | 07-18 教訓已寫進 Vault，但 07-21 執行時仍先產出了 7/20（前一天）的內容才被攔下——寫教訓不等於流程真的照做 | 每次推播照 07-18 的兩步驟「先跑 `date` 核對→SQL 查 Date 欄位」實際執行、不能只憑記憶；建議把這兩步固化進 `sop/weekly-schedule-system.md` 的推播 checklist，而非只留在教訓表 |
+| 2026-08-22 | 三度重演同一類 bug：這次不是算錯日期，而是 session 一開始就直接讀了 `/tmp/soul_morning.json` 殘留檔（8/19 舊資料，非本機臨時檔清空機制可靠），未跑 `date` 核對就直接 POST 到 Discord，錯誤訊息已送出才發現。事後補查 Notion 才推正確版本（8/22 correction） | `/tmp` 檔案會跨 session 殘留，不可信任已存在的 `/tmp/soul_morning.*`；推播前一律：①跑本機 `date` ②SQL 查當天 Notion blocks ③重寫 txt/json ④再 curl，四步缺一不可，即使看到 /tmp 裡已有內容也要重新產生，不可直接沿用 |
 
 ## 我的模式（Agent 觀察到的）
 

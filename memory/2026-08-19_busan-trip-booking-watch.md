@@ -107,3 +107,17 @@ const sr = document.getElementById('bookingWidget').shadowRoot;
 Jason 不要 Notion 提醒、不要 Playwright，要求「用 MCP Chrome 以跟他本人一樣的方式瀏覽」。
 → 已知限制：Claude 只在對話中執行，無法自行每 2 小時醒來。
 → 提案：在他自己已登入的 Chrome 分頁裡跑 userscript（Tampermonkey）每 2 小時自檢，命中才通知。待他決定。
+
+---
+
+## 2026/08/21 02:2x — watcher 上線並驗證成功
+
+- Tampermonkey v5.5.0 已安裝 `busan-watch.user.js`（7 KB，enabled）。
+- **實測通過**：reload Diamond Bay 分頁後，widget 自動翻到 September 並選中 9/15 → 證明 script 有跑。
+- Jason 把 `DB_TARGET.time` 暫改 `15:30`（該時段當時 AVAILABLE）測試通知鏈路 → **Discord webhook 成功收到通知**。
+- 通知邏輯：**只有命中才通知**，unavailable 只寫 console，不發訊息。另加 3 次連續失敗才發「WATCHER BROKEN」警告。
+- 提醒 Jason 要把 `DB_TARGET.time` 改回 `'20:30'`。
+
+**9/15 現況（2026/08/21 02:26）：** 15:30 ✅ / 16:30 ✅ / 13:30 ✗ / 18:30 ✗ / 19:30 ✗ / **20:30 ✗（目標仍滿）**
+
+**已知盲點：** 「沒收到通知」≠「還沒有位」。若 Chrome 整個關掉、分頁被 Memory Saver 丟棄，script 不會跑也不會叫。3-fail 警告只在 script 有跑且出錯時才觸發。→ 可考慮加每日 heartbeat 到 Discord，把「安靜」變成有意義的訊號。

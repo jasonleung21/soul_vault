@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Busan Booking Watch — Diamond Bay + Sky Capsule
 // @namespace    jasonleung21
-// @version      1.0
+// @version      1.1
 // @description  Checks two hard-coded Busan booking targets every 2 hours; alerts when a target frees up.
 // @author       Soul
 // @match        https://diamondbay-en.imweb.me/vbp-en*
@@ -15,15 +15,15 @@
 // ==/UserScript==
 
 /* ========================  CONFIG  ======================== */
-const CHECK_INTERVAL_MIN = 120;   // minutes between checks
-const DISCORD_WEBHOOK    = '';    // optional: paste your Discord webhook URL
+const CHECK_INTERVAL_MIN = 120; // minutes between checks
+const DISCORD_WEBHOOK = ''; // optional: paste your Discord webhook URL
 
 // Target 1 — Diamond Bay yacht (Visit Busan Pass), 4 pax
 const DB_TARGET = { dateLabel: 'September 15th, 2026', time: '20:30' };
 
 // Target 2 — Sky Capsule (Mipo), 4 pax, any of these morning slots
 const SC_TARGET = {
-  date:  '20260916',
+  date: '20260916',
   slots: ['08:30 ~ 09:00', '09:00 ~ 09:30', '09:30 ~ 10:00', '10:00 ~ 10:30']
 };
 /* ========================================================== */
@@ -53,6 +53,35 @@ function alertHit(title, body) {
       data: JSON.stringify({ content: '**' + title + '**\n' + body })
     });
   }
+}
+
+/* ---------- Daily heartbeat ---------- */
+// Silence is ambiguous: a full slot and a dead tab look identical from the
+// outside. One line a day per site turns "no news" into a signal worth
+// trusting — if the heartbeat stops arriving, go look at the browser.
+function pingDiscord(text) {
+  if (!DISCORD_WEBHOOK) return;
+  try {
+    GM_xmlhttpRequest({
+      method: 'POST', url: DISCORD_WEBHOOK,
+      headers: { 'Content-Type': 'application/json' },
+      data: JSON.stringify({ content: text })
+    });
+  } catch (e) { console.log(TAG, 'heartbeat post failed', e); }
+}
+
+function heartbeat(site, label, res) {
+  const today = new Date().toDateString();
+  let last = '';
+  try { last = GM_getValue('hb_' + site, ''); } catch (e) {}
+  if (last === today) return;              // one per calendar day, per site
+  try { GM_setValue('hb_' + site, today); } catch (e) {}
+
+  const status = res.error
+    ? '⚠️ check FAILING — ' + res.error
+    : (res.available ? '🎉 AVAILABLE' : 'still full') +
+      (res.note ? ' · ' + String(res.note).slice(0, 140) : '');
+  pingDiscord('✅ **' + label + '** — watcher alive · ' + status);
 }
 
 /* ---------- Target 1: Diamond Bay (Shadow DOM traversal) ---------- */
@@ -164,6 +193,10 @@ async function checkSkyCapsule() {
   try {
     GM_setValue('last_' + site, stamp + ' ' + JSON.stringify(res));
   } catch (e) {}
+
+  // Fires once per day whatever the outcome — including on error, since a
+  // failing watcher is exactly what you want the heartbeat to tell you about.
+  heartbeat(site, label, res);
 
   // Silent failure is the real risk over a 27-day watch: if Diamond Bay logs
   // you out, the check errors forever and you'd never know. Alert after 3
