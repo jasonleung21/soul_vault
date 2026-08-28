@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/08/26 睡前收割（Cowork 排程）：本機 date 核對通過（Wed Aug 26 2026 22:27 EDT）；SQL 查 Weekly Schedule DB date:Date:start='2026-08-26'，今日(W34 Day 3) 3 blocks（🏆 Summer Fest 賽前一天 Light Hit only（時間未定）Pickleball、AI Side Quest 10:00–12:00 AI、Travel prep/打包→Mississauga 18:00–19:30 Life）皆未勾 Done、無 Takeaway，收割 0 筆——taper day 執行狀況未回填，同一系統性落差持續（見 sticky P1：復盤主力在 Notion Session Debriefs，非這裡的 Takeaway 欄）；明日 8/27（週四，Summer Fest 單打 4.0 正賽日）brief 已產出：全天 @ Mississauga（時間 TBD，賽程公布後更新），共 1 block；Discord 推播 STATUS:204 成功。
-> 前次更新：2026/08/26 早安推播：本機 date 核對通過（Wed Aug 26 2026 06:40 EDT）；SQL 查 Weekly Schedule DB date:Date:start='2026-08-26'，今日(W34 Day 3) 3 blocks（🏆 Summer Fest 賽前一天 Light Hit only（時間未定）Pickleball、AI Side Quest 影片復盤工具 revamp 10:00–12:00 AI、Travel prep/打包→Mississauga 18:00–19:30 Life），與昨晚 8/25 睡前產出的 brief 完全一致、無出入；今日為 8/27 單打 4.0 賽前最後 taper day；Discord 推播 STATUS:204 成功。
+> 最後更新：2026/08/27 睡前收割：本機 date 核對通過（Thu Aug 27 2026 22:07 EDT）；SQL 查 Weekly Schedule DB date:Date:start='2026-08-27'，今日(W34 Day 4) 1 block（🏆 Summer Fest 單打4.0 正賽 @ Mississauga，全天時間TBD，Pickleball）未勾 Done、無 Takeaway，收割 0 筆——另查 Notion Session Debriefs 也未找到今日新增的復盤頁，本週唯一「必須完成」大項當天完全無回填（同一系統性落差持續，見 sticky P1：harvest 邏輯抓錯地方，復盤主力在 Session Debriefs，非這裡的 Takeaway 欄）；明日 8/28（週五，W34 Day 5）brief 已產出：Recovery Day — 輕度伸展，不排訓練（單打後、雙打前緩衝）09:00–10:00 Life，共 1 block；Discord 推播 STATUS:204 成功。
+> 前次更新：2026/08/27 早安推播（Cowork 排程）：本機 date 核對通過（Thu Aug 27 2026 06:40 EDT）；SQL 查 Weekly Schedule DB date:Date:start='2026-08-27'，今日(W34 Day 4) 1 block（🏆 Summer Fest 單打4.0 正賽 @ Mississauga，全天時間TBD，賽程公布後更新，Pickleball），與昨晚 8/26 睡前產出的 brief 完全一致、無出入；今日為 Summer Fest 單打 4.0 正賽日；Discord 推播 STATUS:204 成功。
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
