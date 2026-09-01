@@ -1,7 +1,7 @@
 ---
-updated: 2026-08-14
+updated: 2026-08-31
 tags: [context, pickleball, goals]
-summary: DUPR 4.0 現況、Jem/Pictopia 訓練環境、年底 4.5 分層目標、週 4-5 天投入與 Soul 追蹤點；North York Slam 官方戰績已補（vs Jackie Yeung 14–16）、兩場新賽事確認（Picklers Hub Summer Fest 8/27–30、Rally Open Moneyball 9/12）
+summary: DUPR 單打4.37／雙打4.16現況（8/31 更新，兩者已分開追蹤，雙打落後為主要瓶頸）、Summer Fest 賽果已知（雙打金牌w/Jonathan、單打銀牌，復盤未補）、Jem/Pictopia 訓練環境、年底 4.5 分層目標、週 4-5 天投入與 Soul 追蹤點
 ---
 
 # Pickleball — 現況與目標
@@ -9,7 +9,7 @@ summary: DUPR 4.0 現況、Jem/Pictopia 訓練環境、年底 4.5 分層目標�
 
 ## 現況
 
-- DUPR **4.003**（2 場賽事、reliability 50% → 數字誤差仍大，待更多賽事校準）
+- DUPR **單打 4.37／雙打 4.16**（8/31 口述更新，雙打落後單打約 0.2；雙打是目前賽程主力〔Rally Open Moneyball 9/12 w/Alan〕，也是拉高整體水平的瓶頸）
 - 2025/08 入坑；2026/03 起規律投入（加入 Jem Pickleball）
 - 網球選手底 → 技能遷移快
 
@@ -43,10 +43,10 @@ summary: DUPR 4.0 現況、Jem/Pictopia 訓練環境、年底 4.5 分層目標�
     - 分組戰績 1 勝 1 負（29–29），最終分組第 6
   - 雙打復盤仍有 3 題未口述完成（無理要求細節、Jackie 站位/over-poach 走位、餵球給 poacher 戰術是否成立）——見 memory-summary.md sticky P0
 
-- 🆕 **Picklers Hub – Summer Fest（2026/08/27–30）@ Mississauga, ON**：
-  - Men's Singles 4.0（4.499 以下）
-  - Men's Doubles 3.5（3.999 以下），搭檔 **Jonathan Fonseca**
-  - 2026/08/13 報名，$113.90（Stripe）
+- ✅ **Picklers Hub – Summer Fest（2026/08/27–30）@ Mississauga, ON — 已完賽，賽果已知**：
+  - Men's Doubles 3.5（3.999 以下）w/ **Jonathan Fonseca** — 🥇 **金牌**
+  - Men's Singles 4.0（4.499 以下）— 🥈 **銀牌**
+  - 復盤仍未補（Notion Session Debriefs 尚無正式頁面）——與北約克雙打復盤一起排進待辦
 
 - 🆕 **Rally Open Moneyball（Apollo Pickleball）（2026/09/12）@ North York, ON**：
   - Men's Doubles（3.999 以下），搭檔 **Alan Hung**
