@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/09/03（上午 10:17 執行，非睡前例行時段）收割：本機 date 核對通過（Thu Sep 3 2026 10:17 EDT）；SQL 查 Weekly Schedule DB date:Date:start='2026-09-03'，今日(W35 Day 4) 2 blocks（Pictopia open-play 12:00–16:00 Pickleball、Poker Study（GTO Wizard／Pokercode）19:00–20:30 Poker）皆未勾 Done、無 Takeaway，收割 0 筆——本次任務於上午執行，兩項活動當時尚未開始，非睡前收割時段，這是與過往「同一系統性落差」（sticky P1）不同的額外因素，值得留意排程觸發時間是否符合預期；明日 9/4（週五，W35 Day 5）brief 已產出：AI Side Quest 影片復盤工具 revamp 10:00–12:00 AI、NL50 Grind（4桌）14:00–16:00 Poker，共 2 blocks（本週第一天無 Pickleball 安排）；Discord 推播 STATUS:204 成功。
-> 前次更新：2026/08/31 睡前收割：本機 date 核對通過（Mon Aug 31 2026 22:09 EDT）；SQL 查 Weekly Schedule DB date:Date:start='2026-08-31'，今日(W35 Day 1，新一週開始) 3 blocks（北約克雙打復盤剩3題 09:00–09:30 Pickleball、AI Side Quest 影片復盤工具 revamp 10:00–12:00 AI、Advanced 4.0+ Social Play @ JEM 20:00–22:00 Pickleball）皆未勾 Done、無 Takeaway，收割 0 筆——最後一項 20:00–22:00 才剛結束，同一系統性落差持續（見 sticky P1）；明日 9/1（週二，W35 Day 2）brief 已產出：Recovery Day — Stretching（Summer Fest 賽後恢復）09:00–10:00 Pickleball、Pictopia open-play 12:00–16:00 Pickleball、NL50 Grind（4桌）19:00–20:30 Poker，共 3 blocks；Discord 推播 STATUS:204 成功。
+> 最後更新：2026/09/04（睡前收割，本機 date 核對通過 Fri Sep 4 2026 22:13 EDT）SQL 查 Weekly Schedule DB date:Date:start='2026-09-04'，今日(W35 Day 5) 2 blocks（AI Side Quest 影片復盤工具 revamp 10:00–12:00 AI、NL50 Grind（4桌）14:00–16:00 Poker）皆未勾 Done、無 Takeaway，收割 0 筆——同一系統性落差持續（見 sticky P1：harvest 邏輯抓錯地方，復盤主力在 Notion Session Debriefs，非這裡的 Takeaway 欄）；明日 9/5（週六，W35 Day 6）brief 已產出：Drilling with Alan（Rally Open Moneyball 9/12 雙打備戰 #2）14:00–16:00 Pickleball，共 1 block；Discord 推播 STATUS:204 成功。
+> 前次更新：2026/09/03（互動 session，Jason 詢問 Pictopia／JEM 訂位後）Jason 口頭確認 9/3 17:00–19:00 有 JEM PicklePlace Court #7 6+ 人團體場（Renard Valentin/Robert Buckler/Ferdie Valentin Sr/Nima Rezaei/Soon Hong），這筆訂位不在 Weekly Schedule DB 裡、只存在 CourtReserve 確認信，早安 brief 因此漏掉（新 sticky P1 已記錄根因）；另 Jason 告知今晚 ~20:00 與高中好友吃火鍋，與原排 Poker Study（19:00–20:30）衝堂。已執行：Poker Study 該筆 Status 改 skipped（Takeaway 註記衝堂原因）；新增兩筆到 Weekly Schedule DB——JEM PicklePlace — Group Session（Court #7）17:00–19:00 Pickleball、Hotpot with high school friend 20:00 onward Life。9/3 今日 Notion 排程現況：Pictopia open-play 12:00–16:00（不變）→ JEM 17:00–19:00（新增）→ Hotpot 20:00 onward（新增）；Poker Study 已 skip。
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
@@ -18,6 +18,7 @@
 - [ ] P1 — **8/30 W35 生成時發現：Notion「📅 Weekly Schedule」裡有一筆非 Vault 已知的手動列**——`🇰🇷 Busan — Sky Capsule 9/16 release window check`（9/2 20:00–20:15，Life track），代表 Jason 有一個未寫進 Vault 的釜山旅行規劃／訂票時效（9/16 前有動作要做），但 `/context` 目前沒有任何旅行相關檔案。下次互動 session 請 Jason 補充背景，決定要不要新增 `context/travel.md` 或只是一次性提醒
 - [ ] P2 — 2026 年 10 月：重新檢視「探索模式 vs 求職模式」定位（identity/who-i-am.md）
 - [ ] P2 — `weekly/` 缺當週（7/27–8/2）plan 檔（現存 `2026-W30.md` 標記的是 7/20–7/26，週次命名已錯位）；且每晚推播的「明日 brief」未存回 Vault，隔天早安推播無法逐項核對差異——需要 Jason 決定命名怎麼修＋是否要把 brief 逐字存檔
+- [ ] P1 — **新發現的系統性落差：CourtReserve／JEM 的確認訂位不會自動進 Notion「📅 Weekly Schedule」**。9/3 早安 brief 只依賴 Weekly Schedule DB，漏掉了 9/3 17:00–19:00 JEM PicklePlace Court #7 的 6+ 人團體場（Jason 事後口頭問起才發現，靠 Gmail courtreserve.com 通知信才補上）。已手動補回 Notion（JEM 17:00–19:00 Pickleball、Hotpot with high school friend 20:00 onward，Poker Study 19:00–20:30 因與 hotpot 衝堂已改 Status=skipped）。根因與既有 harvest 落差（見上方 P1）同源：Weekly Schedule DB 是 Routine A 生成的排程，CourtReserve 上額外約的場次不會回寫進去——下次 Routine A 生成或早安 brief，若要涵蓋 CourtReserve 動態，需要額外查 Gmail courtreserve.com 通知或串接 CourtReserve，目前僅能事後補
 
 **Sticky 規則：**
 - Sticky 不是 log。項目解決了，當次 response 內直接刪掉
