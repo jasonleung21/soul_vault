@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/09/07（睡前收割＋明日 Brief＋Discord 推播，本機 date 核對通過 Mon Sep 7 2026 22:11 EDT）SQL 查 Weekly Schedule DB date:Date:start='2026-09-07'，今日(W36 Day 1) 2 blocks（AI Side Quest 影片復盤工具 revamp 10:00–12:00 AI、Advanced 4.0+ Social Play @ JEM 20:00–22:00 Pickleball）皆未勾 Done、無 Takeaway，收割 0 筆——同一系統性落差持續（見 sticky P1：harvest 邏輯抓錯地方，復盤主力在 Notion Session Debriefs，非這裡的 Takeaway 欄）；明日 9/8（週二，W36 Day 2）brief 已產出：Drilling with Alan（雙打備戰 #3，Rally Open Moneyball）14:00–16:00 Pickleball、NL50 Grind（4桌）19:00–21:00 Poker，共 2 blocks；Discord 推播 STATUS:204 成功。
-> 前次更新：2026/09/07（早安推播，本機 date 核對通過 Mon Sep 7 2026 06:36 EDT）SQL 查 Weekly Schedule DB date:Date:start='2026-09-07'，今日(W36 Day 1，新一週開始) 2 blocks（AI Side Quest 影片復盤工具 revamp 10:00–12:00 AI、Advanced 4.0+ Social Play @ JEM 20:00–22:00 Pickleball），與昨晚 brief 完全一致、無出入；Discord 推播 STATUS:204 成功。
+> 最後更新：2026/09/08（睡前收割＋明日 Brief＋Discord 推播，本機 date 核對通過 Tue Sep 8 2026 22:10 EDT）SQL 查 Weekly Schedule DB date:Date:start='2026-09-08'，今日(W36 Day 2) 2 blocks（Drilling with Alan（雙打備戰 #3，Rally Open Moneyball）14:00–16:00 Pickleball、NL50 Grind（4桌）19:00–21:00 Poker）皆未勾 Done、無 Takeaway，收割 0 筆——同一系統性落差持續（見 sticky P1：harvest 邏輯抓錯地方，復盤主力在 Notion Session Debriefs，非這裡的 Takeaway 欄）；明日 9/9（週三，W36 Day 3）brief 已產出：AI Side Quest 影片復盤工具 revamp 10:00–12:00 AI、🇰🇷 Busan — Diamond Bay refund-cliff sweep (7 days out) 20:00–20:20 Life、Advanced 4.0+ Social Play @ JEM 20:00–22:00 Pickleball，共 3 blocks；Discord 推播 STATUS:204 成功。
+> 前次更新：2026/09/08（早安推播，本機 date 核對通過 Tue Sep 8 2026 06:36 EDT）SQL 查 Weekly Schedule DB date:Date:start='2026-09-08'，今日(W36 Day 2) 2 blocks（Drilling with Alan／雙打備戰 #3，Rally Open Moneyball 14:00–16:00 Pickleball、NL50 Grind（4桌）19:00–21:00 Poker），與昨晚 brief 完全一致、無出入；Discord 推播 STATUS:204 成功。
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
