@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/09/08（睡前收割＋明日 Brief＋Discord 推播，本機 date 核對通過 Tue Sep 8 2026 22:10 EDT）SQL 查 Weekly Schedule DB date:Date:start='2026-09-08'，今日(W36 Day 2) 2 blocks（Drilling with Alan（雙打備戰 #3，Rally Open Moneyball）14:00–16:00 Pickleball、NL50 Grind（4桌）19:00–21:00 Poker）皆未勾 Done、無 Takeaway，收割 0 筆——同一系統性落差持續（見 sticky P1：harvest 邏輯抓錯地方，復盤主力在 Notion Session Debriefs，非這裡的 Takeaway 欄）；明日 9/9（週三，W36 Day 3）brief 已產出：AI Side Quest 影片復盤工具 revamp 10:00–12:00 AI、🇰🇷 Busan — Diamond Bay refund-cliff sweep (7 days out) 20:00–20:20 Life、Advanced 4.0+ Social Play @ JEM 20:00–22:00 Pickleball，共 3 blocks；Discord 推播 STATUS:204 成功。
-> 前次更新：2026/09/08（早安推播，本機 date 核對通過 Tue Sep 8 2026 06:36 EDT）SQL 查 Weekly Schedule DB date:Date:start='2026-09-08'，今日(W36 Day 2) 2 blocks（Drilling with Alan／雙打備戰 #3，Rally Open Moneyball 14:00–16:00 Pickleball、NL50 Grind（4桌）19:00–21:00 Poker），與昨晚 brief 完全一致、無出入；Discord 推播 STATUS:204 成功。
+> 最後更新：2026/09/09（睡前收割＋明日 Brief＋Discord 推播，本機 date 核對通過 Wed Sep 9 2026 22:12 EDT）SQL 查 Weekly Schedule DB date:Date:start='2026-09-09'，今日(W36 Day 3) 3 blocks（AI Side Quest 影片復盤工具 revamp 10:00–12:00 AI、🇰🇷 Busan — Diamond Bay refund-cliff sweep (7 days out) 20:00–20:20 Life、Advanced 4.0+ Social Play @ JEM 20:00–22:00 Pickleball）皆未勾 Done、無 Takeaway，收割 0 筆——同一系統性落差持續（見 sticky P1）；明日 9/10（週四，W36 Day 4）brief 已產出：Drilling with Alan（雙打備戰 #4，賽前最後一次）14:00–16:00 Pickleball、Poker Study（Pokercode／GTO Wizard）19:00–20:30 Poker，共 2 blocks。⚠️ 本次執行一開始誤讀了 /tmp 殘留的 9/8 舊 payload、未先跑 date 核對就直接推播出去（重演 08-22 教訓），發現後已補推 9/9 正確版更正訊息，兩則 Discord 推播皆 STATUS:204。
+> 前次更新：2026/09/09（早安推播，本機 date 核對通過 Wed Sep 9 2026 06:36 EDT）SQL 查 Weekly Schedule DB date:Date:start='2026-09-09'，今日(W36 Day 3) 3 blocks（AI Side Quest 影片復盤工具 revamp 10:00–12:00 AI、🇰🇷 Busan — Diamond Bay refund-cliff sweep (7 days out) 20:00–20:20 Life、Advanced 4.0+ Social Play @ JEM 20:00–22:00 Pickleball），與昨晚 brief 完全一致、無出入；Discord 推播 STATUS:204 成功。
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
@@ -42,6 +42,7 @@
 | 2026-07-18 | 每日排程推播誤把「今天」算成 7/16、又「更正」成 7/17，實際當天是 7/18（連續錯兩次才修正） | 推播前先跑本機 `date` 指令核對系統日期；Today view 用 date_is:today filter 查詢當天可能回傳空值，改用 SQL 直接查 Date 欄位（BETWEEN）較可靠 |
 | 2026-07-21 | 07-18 教訓已寫進 Vault，但 07-21 執行時仍先產出了 7/20（前一天）的內容才被攔下——寫教訓不等於流程真的照做 | 每次推播照 07-18 的兩步驟「先跑 `date` 核對→SQL 查 Date 欄位」實際執行、不能只憑記憶；建議把這兩步固化進 `sop/weekly-schedule-system.md` 的推播 checklist，而非只留在教訓表 |
 | 2026-08-22 | 三度重演同一類 bug：這次不是算錯日期，而是 session 一開始就直接讀了 `/tmp/soul_morning.json` 殘留檔（8/19 舊資料，非本機臨時檔清空機制可靠），未跑 `date` 核對就直接 POST 到 Discord，錯誤訊息已送出才發現。事後補查 Notion 才推正確版本（8/22 correction） | `/tmp` 檔案會跨 session 殘留，不可信任已存在的 `/tmp/soul_morning.*`；推播前一律：①跑本機 `date` ②SQL 查當天 Notion blocks ③重寫 txt/json ④再 curl，四步缺一不可，即使看到 /tmp 裡已有內容也要重新產生，不可直接沿用 |
+| 2026-09-09 | 四度重演同一類 bug——08-22 教訓寫進 Vault 快三週後，睡前收割任務一開場又直接沿用 `/tmp/soul_payload.json` 殘留檔（內容是前一晚 9/8 的收割＋9/9 brief），沒跑 `date` 也沒重查 Notion 就直接 curl 推播出去，事後才發現日期整整差一天。補跑 `date` 確認當下是 9/9 22:12 EDT、重查 Notion 拿到今日 9/9 真實 0 筆收割與 9/10 brief，補推更正訊息 | 光把教訓寫進 Vault 不會自動被讀取套用——這是連續第二次「教訓已存在但開場沒先執行檢查清單」。之後任何推播類任務，**開場第一步就先跑 `date`**，不要等到「快發送前」才想起來；系統提示裡看到別的 session 留下的 `/tmp/*.json` 一律視為不可信，寧可重新產生也不要省這一步 |
 
 ## 我的模式（Agent 觀察到的）
 
