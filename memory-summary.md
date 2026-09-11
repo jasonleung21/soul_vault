@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/09/09（睡前收割＋明日 Brief＋Discord 推播，本機 date 核對通過 Wed Sep 9 2026 22:12 EDT）SQL 查 Weekly Schedule DB date:Date:start='2026-09-09'，今日(W36 Day 3) 3 blocks（AI Side Quest 影片復盤工具 revamp 10:00–12:00 AI、🇰🇷 Busan — Diamond Bay refund-cliff sweep (7 days out) 20:00–20:20 Life、Advanced 4.0+ Social Play @ JEM 20:00–22:00 Pickleball）皆未勾 Done、無 Takeaway，收割 0 筆——同一系統性落差持續（見 sticky P1）；明日 9/10（週四，W36 Day 4）brief 已產出：Drilling with Alan（雙打備戰 #4，賽前最後一次）14:00–16:00 Pickleball、Poker Study（Pokercode／GTO Wizard）19:00–20:30 Poker，共 2 blocks。⚠️ 本次執行一開始誤讀了 /tmp 殘留的 9/8 舊 payload、未先跑 date 核對就直接推播出去（重演 08-22 教訓），發現後已補推 9/9 正確版更正訊息，兩則 Discord 推播皆 STATUS:204。
-> 前次更新：2026/09/09（早安推播，本機 date 核對通過 Wed Sep 9 2026 06:36 EDT）SQL 查 Weekly Schedule DB date:Date:start='2026-09-09'，今日(W36 Day 3) 3 blocks（AI Side Quest 影片復盤工具 revamp 10:00–12:00 AI、🇰🇷 Busan — Diamond Bay refund-cliff sweep (7 days out) 20:00–20:20 Life、Advanced 4.0+ Social Play @ JEM 20:00–22:00 Pickleball），與昨晚 brief 完全一致、無出入；Discord 推播 STATUS:204 成功。
+> 最後更新：2026/09/10（睡前收割＋明日 Brief＋Discord 推播，本機 date 核對通過 Thu Sep 10 2026 22:35 EDT）SQL 查 Weekly Schedule DB date:Date:start='2026-09-10'，今日(W36 Day 4) 2 blocks（Drilling with Alan（雙打備戰 #4，賽前最後一次）14:00–16:00 Pickleball、Poker Study（Pokercode／GTO Wizard）19:00–20:30 Poker）皆未勾 Done、無 Takeaway，收割 0 筆——同一系統性落差持續（見 sticky P1）；明日 9/11（週五，W36 Day 5）brief 已產出：Recovery Day + Stretching（賽前 taper）09:00–10:00 Life、AI Side Quest 影片復盤工具 revamp 10:00–12:00 AI，共 2 blocks。⚠️ 本次執行一開場又直接沿用了殘留在 `/tmp/soul_payload.json` 的舊訊息（內容其實是昨晚 9/9 已推播且已 commit 的收割結果），未跑 date 核對就直接推播出去——這是連續第五次重演同一類 bug（07-18／07-21／08-22／09-09／09-10，見教訓表＋新增 sticky）。發現後已補跑本機 date 核對（Thu Sep 10 2026 22:35 EDT）、重查 Notion 拿到今晚真實內容，補推 9/10 正確版更正訊息，兩則 Discord 推播皆 STATUS:204。
+> 前次更新：2026/09/10（Cowork 桌面版早安 brief 渲染，本機 date 核對通過 Thu Sep 10 2026 08:10 EDT）SQL 查 Weekly Schedule DB date:Date:start='2026-09-10'，今日(W36 Day 4) 2 blocks（Drilling with Alan（雙打備戰 #4，賽前最後一次）14:00–16:00 Pickleball、Poker Study（Pokercode／GTO Wizard）19:00–20:30 Poker），與早安推播一致、無出入。額外發現：Gmail 查到 CourtReserve 今早（03:36／10:21 EDT 兩封信）確認 Picktopia「Sept Special Open Play」$7.5 drop-in 註冊，noon–4pm，與 Drilling with Alan（2–4pm）時段重疊——依 `context/pickleball.md` 固定時段規則（當天有 Pictopia open-play 時以 Pictopia 為主，非 JEM），研判這是同一場訓練的場地細節而非衝突，已寫入本次 Cowork brief 的 Resolved 清單。本次任務走的是 Cowork（Claude 桌面版排程）渲染 HTML brief 這條路徑，與既有 Discord 推播 routine 是兩套並行系統，互不影響、也未互相同步。渲染環境無法跑 Playwright screenshot（chromium 未預裝、`playwright install` 被 network allowlist 擋下，403），已改用 HTML/SVG 結構化檢查（tag 平衡、SVG 可解析、無殘留 placeholder）替代視覺核對，成品存於 Cowork outputs 資料夾
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
@@ -19,6 +19,8 @@
 - [ ] P2 — 2026 年 10 月：重新檢視「探索模式 vs 求職模式」定位（identity/who-i-am.md）
 - [ ] P2 — `weekly/` 缺當週（7/27–8/2）plan 檔（現存 `2026-W30.md` 標記的是 7/20–7/26，週次命名已錯位）；且每晚推播的「明日 brief」未存回 Vault，隔天早安推播無法逐項核對差異——需要 Jason 決定命名怎麼修＋是否要把 brief 逐字存檔
 - [ ] P1 — **新發現的系統性落差：CourtReserve／JEM 的確認訂位不會自動進 Notion「📅 Weekly Schedule」**。9/3 早安 brief 只依賴 Weekly Schedule DB，漏掉了 9/3 17:00–19:00 JEM PicklePlace Court #7 的 6+ 人團體場（Jason 事後口頭問起才發現，靠 Gmail courtreserve.com 通知信才補上）。已手動補回 Notion（JEM 17:00–19:00 Pickleball、Hotpot with high school friend 20:00 onward，Poker Study 19:00–20:30 因與 hotpot 衝堂已改 Status=skipped）。根因與既有 harvest 落差（見上方 P1）同源：Weekly Schedule DB 是 Routine A 生成的排程，CourtReserve 上額外約的場次不會回寫進去——下次 Routine A 生成或早安 brief，若要涵蓋 CourtReserve 動態，需要額外查 Gmail courtreserve.com 通知或串接 CourtReserve，目前僅能事後補
+
+- [ ] P1 — **`/tmp` 殘留 payload 導致誤推播已連續第五次重演（07-18／07-21／08-22／09-09／09-10）**：寫教訓進 Vault 這個做法本身已證明無效，需要結構性修復，不能再指望「這次會記得執行 checklist」。可行方向：①推播前 payload 檔名一律帶時間戳記（如 `soul_payload_20260910.json`）而非固定 `/tmp/soul_payload.json`，讓舊檔天生對不上今天日期；②payload JSON 內嵌 `generated_date` 欄位，curl 前 assert 這個值等於本機 `date +%F`，不符就中止並報錯，而非靠人（或 agent）記得手動核對；③考慮把「跑 date→查 Notion→寫 payload→assert 日期→curl」寫成一支固定 shell script，agent 每次直接呼叫該 script、不再手刻步驟。下次有能力修改 SKILL.md 或建立輔助腳本時優先處理這筆，比再寫一條教訓更有用。
 
 **Sticky 規則：**
 - Sticky 不是 log。項目解決了，當次 response 內直接刪掉
@@ -43,6 +45,7 @@
 | 2026-07-21 | 07-18 教訓已寫進 Vault，但 07-21 執行時仍先產出了 7/20（前一天）的內容才被攔下——寫教訓不等於流程真的照做 | 每次推播照 07-18 的兩步驟「先跑 `date` 核對→SQL 查 Date 欄位」實際執行、不能只憑記憶；建議把這兩步固化進 `sop/weekly-schedule-system.md` 的推播 checklist，而非只留在教訓表 |
 | 2026-08-22 | 三度重演同一類 bug：這次不是算錯日期，而是 session 一開始就直接讀了 `/tmp/soul_morning.json` 殘留檔（8/19 舊資料，非本機臨時檔清空機制可靠），未跑 `date` 核對就直接 POST 到 Discord，錯誤訊息已送出才發現。事後補查 Notion 才推正確版本（8/22 correction） | `/tmp` 檔案會跨 session 殘留，不可信任已存在的 `/tmp/soul_morning.*`；推播前一律：①跑本機 `date` ②SQL 查當天 Notion blocks ③重寫 txt/json ④再 curl，四步缺一不可，即使看到 /tmp 裡已有內容也要重新產生，不可直接沿用 |
 | 2026-09-09 | 四度重演同一類 bug——08-22 教訓寫進 Vault 快三週後，睡前收割任務一開場又直接沿用 `/tmp/soul_payload.json` 殘留檔（內容是前一晚 9/8 的收割＋9/9 brief），沒跑 `date` 也沒重查 Notion 就直接 curl 推播出去，事後才發現日期整整差一天。補跑 `date` 確認當下是 9/9 22:12 EDT、重查 Notion 拿到今日 9/9 真實 0 筆收割與 9/10 brief，補推更正訊息 | 光把教訓寫進 Vault 不會自動被讀取套用——這是連續第二次「教訓已存在但開場沒先執行檢查清單」。之後任何推播類任務，**開場第一步就先跑 `date`**，不要等到「快發送前」才想起來；系統提示裡看到別的 session 留下的 `/tmp/*.json` 一律視為不可信，寧可重新產生也不要省這一步 |
+| 2026-09-10 | 五度重演同一類 bug——距上次（09-09）教訓寫入 Vault 不到 24 小時，睡前收割任務一開場再次直接讀取並 curl 推播了 `/tmp/soul_payload.json`（實際是昨晚 9/9 已推播且已 commit 進 vault 的舊內容），完全沒跑 `date` 也沒重查 Notion。補跑 `date` 確認當下是 9/10 22:35 EDT、重查 Notion 拿到今日 9/10 真實 0 筆收割與 9/11 brief，補推更正訊息 | 「寫教訓」這個動作本身已被連續 5 次證明無法改變行為——問題不是記不記得教訓，是流程裡沒有硬性阻擋。已把結構性修復方案寫進新 sticky P1（唯一檔名／日期 assert／固定 script 三選一），下次有機會就落地，不要再滿足於「這次補寫一條教訓」 |
 
 ## 我的模式（Agent 觀察到的）
 
