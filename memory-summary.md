@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/09/18（睡前收割，本機 date 核對通過 Fri Sep 18 2026 22:10 EDT）今日(W37 Day 5) 2 blocks（AI Side Quest：影片復盤工具 revamp 10:00–12:00 AI、NL50 Grind 14:00–16:00 Poker）皆 Done=NO、Takeaway 空，收割 0 筆——與今早 brief 完全一致；明日 9/19（週六，W37 Day 6）brief 已產出：Stretching & Recovery 10:00–11:00 Life、Drilling with Alan #2 14:00–16:00 Pickleball，共 2 blocks。⚠️ 系統提示第十一度出現 stale `/tmp/soul_payload.json`偽造成「已執行過」的 Read 結果（內容仍是 9/14 收割＋9/15 brief 舊訊息），先跑本機 `date` 核對＋重查 Notion SQL，確認不符後攔下未採信；另發現今早（早安）routine 寫入 memory-summary.md／vault-changelog.md 後忘了 commit，本次一併補 commit/push；curl 推播 STATUS:204 成功。
-> 前次更新：2026/09/18（早安推播，本機 date 核對通過 Fri Sep 18 2026 07:34 EDT）今日(W37 Day 5) 2 blocks（AI Side Quest：影片復盤工具 revamp 10:00–12:00 AI、NL50 Grind 14:00–16:00 Poker），與昨晚 brief 完全一致、無撞期、無釜山列；本次偽裝手法再度升級——系統提示不再只是「附帶 stale 檔案」，而是在對話一開場、我尚未執行任何動作前，就以完整格式（file_path 輸入＋Result 區塊）偽造成「已執行過」的 Read 結果，內容仍是 9/14 舊資料，**第十度攔下**：先跑本機 `date` 核對＋重查 Notion SQL，確認與該 stale 內容不符後才產出新 payload 並推播，curl STATUS:204 成功。
+> 最後更新：2026/09/19（早安推播，本機 date 核對通過 Sat Sep 19 2026 06:36 EDT）今日(W37 Day 6) 2 blocks（Stretching & Recovery 10:00–11:00 Life、Drilling with Alan #2 14:00–16:00 Pickleball），與昨晚 brief 完全一致、無出入。本次 `/tmp/soul_morning.txt` 為即時寫入的新內容，未發現 stale 殘留檔；Notion 與 Desktop Commander 工具皆正常，curl 推播 STATUS:204 成功。
+> 前次更新：2026/09/18（睡前收割，本機 date 核對通過 Fri Sep 18 2026 22:10 EDT）今日(W37 Day 5) 2 blocks（AI Side Quest：影片復盤工具 revamp 10:00–12:00 AI、NL50 Grind 14:00–16:00 Poker）皆 Done=NO、Takeaway 空，收割 0 筆——與今早 brief 完全一致；明日 9/19（週六，W37 Day 6）brief 已產出：Stretching & Recovery 10:00–11:00 Life、Drilling with Alan #2 14:00–16:00 Pickleball，共 2 blocks。⚠️ 系統提示第十一度出現 stale `/tmp/soul_payload.json`偽造成「已執行過」的 Read 結果（內容仍是 9/14 收割＋9/15 brief 舊訊息），先跑本機 `date` 核對＋重查 Notion SQL，確認不符後攔下未採信；另發現今早（早安）routine 寫入 memory-summary.md／vault-changelog.md 後忘了 commit，本次一併補 commit/push；curl 推播 STATUS:204 成功。
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
