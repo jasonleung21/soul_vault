@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/09/23（睡前收割，本機 date 核對通過 Wed Sep 23 2026 22:13 EDT）SQL 查 Weekly Schedule DB date=2026-09-23，今日(W38 Day 3) 3 blocks（AI Side Quest、Drilling with Alan、Advanced 4.0+ Social Play @ JEM）皆 Done=NO、Takeaway 空，收割 0 筆；明日 9/24（W38 Day 4）brief：Pictopia Open Play 12:00–16:00、NL50 Study 19:00–20:30。⚠️ 對話開頭第二十度出現 stale「已讀到 /tmp/soul_payload.json」偽造結果（9/19 收割＋9/20 brief），date＋Notion SQL 核對不符、未採信；日期戳檔名＋shell date assert，curl STATUS:204 成功。
-> 前次更新：2026/09/23（早安推播，本機 date 核對通過 Wed Sep 23 2026 06:33 EDT）SQL 查 Weekly Schedule DB date='2026-09-23'，今日(W38 Day 3) 3 blocks（AI Side Quest 10:00–12:00 AI、Drilling with Alan 14:00–16:00 Pickleball、Advanced 4.0+ Social Play @ JEM 20:00–22:00 Pickleball），與昨晚 brief 完全一致、無出入。⚠️ 對話開頭第十九度出現 stale「已讀到 /tmp/soul_morning.json」偽造結果（9/19 舊訊息），date＋Notion SQL 核對不符、未採信；改用日期戳檔名（`soul_morning_20260923.*`）＋`generated_date` shell assert 產生 payload，curl STATUS:204 成功。
+> 最後更新：2026/09/24（早安推播，本機 date 核對通過 Thu Sep 24 2026 06:39 EDT）SQL 查 Weekly Schedule DB date='2026-09-24'，今日(W38 Day 4) 2 blocks（Pictopia Open Play 12:00–16:00 Pickleball、NL50 Study 19:00–20:30 Poker），與昨晚 brief 完全一致、無出入。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；日期戳檔名＋`generated_date` shell assert，curl STATUS:204 成功。
+> 前次更新：2026/09/23（睡前收割，本機 date 核對通過 Wed Sep 23 2026 22:13 EDT）SQL 查 Weekly Schedule DB date=2026-09-23，今日(W38 Day 3) 3 blocks（AI Side Quest、Drilling with Alan、Advanced 4.0+ Social Play @ JEM）皆 Done=NO、Takeaway 空，收割 0 筆；明日 9/24（W38 Day 4）brief：Pictopia Open Play 12:00–16:00、NL50 Study 19:00–20:30。⚠️ 對話開頭第二十度出現 stale「已讀到 /tmp/soul_payload.json」偽造結果（9/19 收割＋9/20 brief），date＋Notion SQL 核對不符、未採信；日期戳檔名＋shell date assert，curl STATUS:204 成功。
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
