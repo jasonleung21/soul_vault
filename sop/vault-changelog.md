@@ -200,3 +200,10 @@ summary: 核心檔案（README、memory-summary）的歷史更新紀錄，只收
 > 2026/09/23（早安推播，本機 date 核對通過 Wed Sep 23 2026 06:33 EDT）SQL 查 Weekly Schedule DB date='2026-09-23'，今日(W38 Day 3) 3 blocks（AI Side Quest 10:00–12:00 AI、Drilling with Alan 14:00–16:00 Pickleball、Advanced 4.0+ Social Play @ JEM 20:00–22:00 Pickleball），與昨晚 brief 完全一致、無出入。⚠️ 對話開頭第十九度出現 stale「已讀到 /tmp/soul_morning.json」偽造結果（9/19 舊訊息），date＋Notion SQL 核對不符、未採信；改用日期戳檔名（`soul_morning_20260923.*`）＋`generated_date` shell assert 產生 payload，curl STATUS:204 成功。
 
 | 2026-09-24 早安 | 早安 checklist＋Discord 推播（Cowork 排程任務執行）：本機 date 核對通過 Thu Sep 24 2026 06:39 EDT；SQL 查 Weekly Schedule DB date:Date:start='2026-09-24'，今日(W38 Day 4) 2 blocks（Pictopia Open Play 12:00–16:00 Pickleball、NL50 Study 19:00–20:30 Poker），與昨晚 brief 完全一致、無出入。本次對話開頭未出現任何 stale `/tmp` 殘留或偽造 Read 結果，是近期少見的乾淨執行；日期戳檔名（`soul_morning_20260924.*`）＋`generated_date` shell assert，curl 推播 STATUS:204 成功。sticky P1（stale /tmp 結構性修復）本次未觸發，暫不列入攔截次數 |
+
+
+## 2026-09-25（早安）— memory-summary.md 更新紀錄擠出
+被新一條 09-25 早安推播更新擠出的「前次更新」：
+> 2026/09/24（早安推播，本機 date 核對通過 Thu Sep 24 2026 06:39 EDT）SQL 查 Weekly Schedule DB date='2026-09-24'，今日(W38 Day 4) 2 blocks（Pictopia Open Play 12:00–16:00 Pickleball、NL50 Study 19:00–20:30 Poker），與昨晚 brief 完全一致、無出入。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；日期戳檔名＋`generated_date` shell assert，curl STATUS:204 成功。
+
+| 2026-09-25 早安 | 早安 checklist＋Discord 推播（Cowork 排程任務執行）：本機 date 核對通過 Fri Sep 25 2026 06:44 EDT；SQL 查 Weekly Schedule DB date:Date:start='2026-09-25'，今日(W38 Day 5) 2 blocks（AI Side Quest：影片復盤工具 revamp 10:00–12:00 AI、NL50 Grind 14:00–16:00 Poker），與昨晚 brief 完全一致、無出入。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，remote-devices MCP 一度短暫斷線又自動重連，未影響流程；日期戳檔名（`soul_morning_20260925.*`）＋`generated_date` shell assert，curl 推播 STATUS:204 成功。sticky P1（stale /tmp 結構性修復）本次未觸發，暫不列入攔截次數 |

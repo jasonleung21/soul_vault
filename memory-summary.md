@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/09/24（睡前收割，本機 date 核對通過 Thu Sep 24 2026 22:08 EDT）SQL 查 Weekly Schedule DB date='2026-09-24'，今日(W38 Day 4) 2 blocks（Pictopia Open Play 12:00–16:00 Pickleball、NL50 Study 19:00–20:30 Poker）皆 Done=NO、Takeaway 空，收割 0 筆；明日 9/25（週五，W38 Day 5）brief：AI Side Quest：影片復盤工具 revamp 10:00–12:00（AI）、NL50 Grind 14:00–16:00（Poker），共 2 blocks。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；日期戳檔名＋`generated_date` shell assert，curl STATUS:204 成功。
-> 前次更新：2026/09/24（早安推播，本機 date 核對通過 Thu Sep 24 2026 06:39 EDT）SQL 查 Weekly Schedule DB date='2026-09-24'，今日(W38 Day 4) 2 blocks（Pictopia Open Play 12:00–16:00 Pickleball、NL50 Study 19:00–20:30 Poker），與昨晚 brief 完全一致、無出入。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；日期戳檔名＋`generated_date` shell assert，curl STATUS:204 成功。
+> 最後更新：2026/09/25（早安推播，本機 date 核對通過 Fri Sep 25 2026 06:44 EDT）SQL 查 Weekly Schedule DB date='2026-09-25'，今日(W38 Day 5) 2 blocks（AI Side Quest：影片復盤工具 revamp 10:00–12:00 AI、NL50 Grind 14:00–16:00 Poker），與昨晚 brief 完全一致、無出入。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，remote-devices MCP 一度短暫斷線又自動重連，未影響流程；日期戳檔名＋`generated_date` shell assert，curl STATUS:204 成功。
+> 前次更新：2026/09/24（睡前收割，本機 date 核對通過 Thu Sep 24 2026 22:08 EDT）SQL 查 Weekly Schedule DB date='2026-09-24'，今日(W38 Day 4) 2 blocks（Pictopia Open Play 12:00–16:00 Pickleball、NL50 Study 19:00–20:30 Poker）皆 Done=NO、Takeaway 空，收割 0 筆；明日 9/25（週五，W38 Day 5）brief：AI Side Quest：影片復盤工具 revamp 10:00–12:00（AI）、NL50 Grind 14:00–16:00（Poker），共 2 blocks。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；日期戳檔名＋`generated_date` shell assert，curl STATUS:204 成功。
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
