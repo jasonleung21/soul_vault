@@ -207,3 +207,10 @@ summary: 核心檔案（README、memory-summary）的歷史更新紀錄，只收
 > 2026/09/24（早安推播，本機 date 核對通過 Thu Sep 24 2026 06:39 EDT）SQL 查 Weekly Schedule DB date='2026-09-24'，今日(W38 Day 4) 2 blocks（Pictopia Open Play 12:00–16:00 Pickleball、NL50 Study 19:00–20:30 Poker），與昨晚 brief 完全一致、無出入。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；日期戳檔名＋`generated_date` shell assert，curl STATUS:204 成功。
 
 | 2026-09-25 早安 | 早安 checklist＋Discord 推播（Cowork 排程任務執行）：本機 date 核對通過 Fri Sep 25 2026 06:44 EDT；SQL 查 Weekly Schedule DB date:Date:start='2026-09-25'，今日(W38 Day 5) 2 blocks（AI Side Quest：影片復盤工具 revamp 10:00–12:00 AI、NL50 Grind 14:00–16:00 Poker），與昨晚 brief 完全一致、無出入。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，remote-devices MCP 一度短暫斷線又自動重連，未影響流程；日期戳檔名（`soul_morning_20260925.*`）＋`generated_date` shell assert，curl 推播 STATUS:204 成功。sticky P1（stale /tmp 結構性修復）本次未觸發，暫不列入攔截次數 |
+
+
+## 2026-09-25（睡前）— memory-summary.md 更新紀錄擠出
+被新一條 09-25 睡前收割推播更新擠出的「前次更新」：
+> 2026/09/24（睡前收割，本機 date 核對通過 Thu Sep 24 2026 22:08 EDT）SQL 查 Weekly Schedule DB date='2026-09-24'，今日(W38 Day 4) 2 blocks（Pictopia Open Play 12:00–16:00 Pickleball、NL50 Study 19:00–20:30 Poker）皆 Done=NO、Takeaway 空，收割 0 筆；明日 9/25（週五，W38 Day 5）brief：AI Side Quest：影片復盤工具 revamp 10:00–12:00（AI）、NL50 Grind 14:00–16:00（Poker），共 2 blocks。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；日期戳檔名＋`generated_date` shell assert，curl STATUS:204 成功。
+
+| 2026-09-25 睡前 | 睡前收割 checklist＋Discord 推播（Cowork 排程任務執行）：本機 date 核對通過 Fri Sep 25 2026 22:10 EDT；SQL 查 Weekly Schedule DB date:Date:start='2026-09-25'，今日(W38 Day 5) 2 blocks（AI Side Quest：影片復盤工具 revamp 10:00–12:00 AI、NL50 Grind 14:00–16:00 Poker）皆 Done=NO、Takeaway 空，收割 0 筆；明日 9/26（週六，W38 Day 6）brief：Stretching & Recovery 10:00–11:00（Life）、Drilling with Alan #2 14:00–16:00（Pickleball）。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；日期戳檔名（`soul_payload_20260925_bedtime.*`）＋`generated_date` shell assert，curl 推播 STATUS:204 成功。sticky P1（stale /tmp 結構性修復）本次未觸發，暫不列入攔截次數 |
