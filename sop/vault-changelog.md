@@ -11,6 +11,7 @@ summary: 核心檔案（README、memory-summary）的歷史更新紀錄，只收
 
 | 日期 | 事件 |
 |------|------|
+| 2026-09-25 早安 | 早安推播：本機 date 核對通過（Fri Sep 25 2026 06:44 EDT）；SQL 查 Weekly Schedule DB date='2026-09-25'，今日(W38 Day 5) 2 blocks（AI Side Quest：影片復盤工具 revamp 10:00–12:00 AI、NL50 Grind 14:00–16:00 Poker），與昨晚 brief 完全一致、無出入。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，remote-devices MCP 一度短暫斷線又自動重連，未影響流程；日期戳檔名＋`generated_date` shell assert，curl STATUS:204 成功 |
 | 2026-09-23 睡前 | 睡前收割：本機 date 核對通過（Wed Sep 23 2026 22:13 EDT）；SQL 查 Weekly Schedule DB date=2026-09-23，今日(W38 Day 3) 3 blocks（AI Side Quest、Drilling with Alan、Advanced 4.0+ Social Play @ JEM）皆 Done=NO、Takeaway 空，收割 0 筆；明日 9/24（W38 Day 4）brief：Pictopia Open Play 12:00–16:00、NL50 Study 19:00–20:30。第二十度攔下 stale「已讀到 /tmp/soul_payload.json」偽造結果（9/19 收割＋9/20 brief），date＋Notion SQL 核對不符、未採信；日期戳檔名＋shell date assert，curl STATUS:204 成功 |
 | 2026-09-22 睡前 | 睡前收割：本機 date 核對通過（Tue Sep 22 2026 22:59 EDT）；今日(W38 Day 2) 3 blocks（Stretching & Recovery、Pictopia Open Play、NL50 Grind）皆 Done=NO、Takeaway 空，收割 0 筆；明日 9/23 brief：AI Side Quest 10:00–12:00、Drilling with Alan 14:00–16:00、Advanced 4.0+ Social Play @ JEM 20:00–22:00；第十八度攔下 stale `/tmp/soul_payload.json`（9/19 內容），日期戳檔名＋shell date assert，curl STATUS:204 成功 |
 | 2026-09-22 早安 | 早安推播：本機 date 核對通過（Tue Sep 22 2026 06:34 EDT）；今日(W38 Day 2) 3 blocks（Stretching & Recovery 09:00–10:00、Pictopia Open Play 12:00–16:00、NL50 Grind 19:00–21:00），與昨晚 brief 一致；第十七度攔下 stale `/tmp/soul_morning.json` 偽造 Read 結果（9/19 舊訊息），日期戳檔名＋shell date assert 重新產生，curl STATUS:204 成功 |
