@@ -222,3 +222,10 @@ summary: 核心檔案（README、memory-summary）的歷史更新紀錄，只收
 > 2026/09/25（睡前收割，本機 date 核對通過 Fri Sep 25 2026 22:10 EDT）SQL 查 Weekly Schedule DB date='2026-09-25'，今日(W38 Day 5) 2 blocks（AI Side Quest：影片復盤工具 revamp 10:00–12:00 AI、NL50 Grind 14:00–16:00 Poker）皆 Done=NO、Takeaway 空，收割 0 筆；明日 9/26（週六，W38 Day 6）brief：Stretching & Recovery 10:00–11:00（Life）、Drilling with Alan #2 14:00–16:00（Pickleball），共 2 blocks。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；日期戳檔名（`soul_payload_20260925_bedtime.*`）＋`generated_date` shell assert，curl STATUS:204 成功。
 
 | 2026-09-26 睡前 | 睡前收割 checklist＋明日 Brief＋Discord 推播（Cowork 排程任務執行）：本機 date 核對通過 Sat Sep 26 2026 22:10 EDT；SQL 查 Weekly Schedule DB date:Date:start='2026-09-26'，今日(W38 Day 6) 2 blocks（Stretching & Recovery 10:00–11:00 Life、Drilling with Alan #2 14:00–16:00 Pickleball）皆 Done=NO、Takeaway 空，收割 0 筆；明日 9/27（週日，W38 Day 7）brief：Weekly Review（5-layer SOP）20:00–21:00（Life），共 1 block。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；日期戳檔名（`soul_payload_20260926_bedtime.*`）＋`generated_date` shell assert，curl 推播 STATUS:204 成功。sticky P1（stale /tmp 結構性修復）本次未觸發，暫不列入攔截次數 |
+
+
+## 2026-09-27（早安）— memory-summary.md 更新紀錄擠出
+被新一條 09-27 早安推播更新擠出的「前次更新」：
+> 2026/09/26（早安推播，本機 date 核對通過 Sat Sep 26 2026 06:44 EDT）SQL 查 Weekly Schedule DB date='2026-09-26'，今日(W38 Day 6) 2 blocks（Stretching & Recovery 10:00–11:00 Life、Drilling with Alan #2 14:00–16:00 Pickleball），與昨晚睡前收割產出的 brief 完全一致、無出入。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；日期戳檔名（`soul_morning_20260926.*`）＋`generated_date` shell assert，curl STATUS:204 成功。
+
+| 2026-09-27 早安 | 早安 checklist＋Discord 推播（Cowork 排程任務執行）：本機 date 核對通過 Sun Sep 27 2026 06:44 EDT；SQL 查 Weekly Schedule DB date:Date:start='2026-09-27'，今日(W38 Day 7) 1 block（Weekly Review（5-layer SOP）20:00–21:00 Life），與昨晚睡前收割產出的明日 brief 完全一致、無出入。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；curl 推播 STATUS:204 成功。sticky P1（stale /tmp 結構性修復）本次未觸發，暫不列入攔截次數 |
