@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/09/27（週計畫生成，本地觸發時間對應 Sun Sep 27 2026 20:13 EDT，Cowork 排程任務 trig_013GpYNbTCVbagccqBA7n7rm）SQL 查 Notion「📅 Weekly Schedule」9/28–10/4（W39）範圍查無既有手動列，乾淨週；新增 15 blocks 寫入 Notion，已推播摘要通知 Jason 過目調整。北約克雙打復盤（sticky P0）依例仍未排入，累計已連續 9 週（W31–W39）未解。
-> 前次更新：2026/09/27（早安推播，本機 date 核對通過 Sun Sep 27 2026 06:44 EDT）SQL 查 Weekly Schedule DB date='2026-09-27'，今日(W38 Day 7) 1 block（Weekly Review（5-layer SOP）20:00–21:00 Life），與昨晚睡前收割產出的 brief 完全一致、無出入。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；curl STATUS:204 成功。
+> 最後更新：2026/09/27（睡前收割，本機 date 核對通過 Sun Sep 27 2026 22:10 EDT）SQL 查 Weekly Schedule DB date='2026-09-27'，今日(W38 Day 7) 1 block（Weekly Review（5-layer SOP）20:00–21:00 Life）Done=NO、Takeaway 空，收割 0 筆；明日 9/28（週一，W39 Day 1）brief：AI Side Quest：影片復盤工具 revamp 10:00–12:00（AI）、Advanced 4.0+ Social Play @ JEM 20:00–22:00（Pickleball），共 2 blocks。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；日期戳檔名（`soul_brief_20260927_bedtime.*`）＋`generated_date` shell assert，curl 推播 STATUS:204 成功。
+> 前次更新：2026/09/27（週計畫生成，本地觸發時間對應 Sun Sep 27 2026 20:13 EDT，Cowork 排程任務 trig_013GpYNbTCVbagccqBA7n7rm）SQL 查 Notion「📅 Weekly Schedule」9/28–10/4（W39）範圍查無既有手動列，乾淨週；新增 15 blocks 寫入 Notion，已推播摘要通知 Jason 過目調整。北約克雙打復盤（sticky P0）依例仍未排入，累計已連續 9 週（W31–W39）未解。
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
