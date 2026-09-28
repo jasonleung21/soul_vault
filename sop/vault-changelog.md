@@ -229,3 +229,10 @@ summary: 核心檔案（README、memory-summary）的歷史更新紀錄，只收
 > 2026/09/26（早安推播，本機 date 核對通過 Sat Sep 26 2026 06:44 EDT）SQL 查 Weekly Schedule DB date='2026-09-26'，今日(W38 Day 6) 2 blocks（Stretching & Recovery 10:00–11:00 Life、Drilling with Alan #2 14:00–16:00 Pickleball），與昨晚睡前收割產出的 brief 完全一致、無出入。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；日期戳檔名（`soul_morning_20260926.*`）＋`generated_date` shell assert，curl STATUS:204 成功。
 
 | 2026-09-27 早安 | 早安 checklist＋Discord 推播（Cowork 排程任務執行）：本機 date 核對通過 Sun Sep 27 2026 06:44 EDT；SQL 查 Weekly Schedule DB date:Date:start='2026-09-27'，今日(W38 Day 7) 1 block（Weekly Review（5-layer SOP）20:00–21:00 Life），與昨晚睡前收割產出的明日 brief 完全一致、無出入。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；curl 推播 STATUS:204 成功。sticky P1（stale /tmp 結構性修復）本次未觸發，暫不列入攔截次數 |
+
+
+## 2026-09-27（週計畫生成）— memory-summary.md 更新紀錄擠出
+被新一條 09-27 週計畫生成推播更新擠出的「前次更新」：
+> 2026/09/26（睡前收割，本機 date 核對通過 Sat Sep 26 2026 22:10 EDT）SQL 查 Weekly Schedule DB date='2026-09-26'，今日(W38 Day 6) 2 blocks（Stretching & Recovery 10:00–11:00 Life、Drilling with Alan #2 14:00–16:00 Pickleball）皆 Done=NO、Takeaway 空，收割 0 筆；明日 9/27（週日，W38 Day 7）brief：Weekly Review（5-layer SOP）20:00–21:00（Life），共 1 block。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；日期戳檔名（`soul_payload_20260926_bedtime.*`）＋`generated_date` shell assert，curl STATUS:204 成功。
+
+| 2026-09-27 週計畫生成 | Routine A（W39 週計畫生成，Cowork 排程任務 trig_013GpYNbTCVbagccqBA7n7rm，本地觸發時間對應 Sun Sep 27 2026 20:13 EDT）：讀 Vault README／agent-persona／memory-summary／context 三線／weekly-schedule-system SOP 全檔；SQL 查 Notion「📅 Weekly Schedule」9/28–10/4（W39）範圍查無任何既有手動列，乾淨週；新增 15 blocks 寫入 Notion（Pickleball 5 天、Poker 3 個、AI 3 個、Stretching 2 個、Weekly Review 1 個），已推播摘要通知 Jason 過目調整。北約克雙打復盤（sticky P0）依例仍未排入，累計已連續 9 週（W31–W39）未解。 |
