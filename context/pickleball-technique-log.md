@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-18
+updated: 2026-09-28
 tags: [pickleball, technique, coaching]
 summary: Clinic 與教練回饋的技術筆記累積（drops/resets、drilling、社交賽觀察等），新條目在最上面
 ---
@@ -7,6 +7,21 @@ summary: Clinic 與教練回饋的技術筆記累積（drops/resets、drilling�
 # Pickleball 技術筆記（clinic / 教練回饋累積）
 
 > 新條目寫在最上面。每次 clinic、私教、或高手指點後記錄。
+
+## 2026/09/28 — 近期技術更新（Jason 口述）＋ Ryan 腳步觀察
+
+- **換拍**：Luzz Cannon → **Luzz Glider 2026**（hybrid，偏 control）。方向與「降低 dink 高度、reset 優先」一致；需觀察 drive／counter 的穿透力是否下降（hybrid 需更主動的揮拍，不能只靠拍子彈性）
+- **發球策略改版**：只用約 30% 力量，重點放在 **旋轉＋深度的欺騙**；另一個變化是 **發身體**，讓接發者被擠（jam）
+  - Soul 提醒：30% 力量發身體，接發者有時間側移讓位——身體球的威力來自「深度＋旋轉讓對方判斷晚」，不是來自球速；預設應是深球，身體球是變化球
+- **反手側（左側）dink 雙模式**：原本全部用 twoey；被拉寬、腳步沒到位時，封閉站位會扭身、角度受限 → 開發 **單手 scoop dink**（非下旋，是 scoop 往上帶過網）作為安全回球
+  - 更新既有 cue：「In position → Twoey. Pulled wide → **one-hand scoop**（安全過網、弧頂在己方）」
+  - 風險：scoop 容易把球抬高 → 正好違反下一條 dink 原則，需驗證落點是否仍在 kitchen 內、高度是否可被攻擊
+- **Dink 升級原則（邁向更高級別）**：壓低球的高度，否則高手直接搶攻（takeaway）；落點要嘛 **短落 kitchen 內**，要嘛 **難以進攻**（拉寬角度，或打中路但讓它彈地）；**不要一直打同一點**
+- **Ryan 腳步觀察（新）**：open stance 時 **內側腳（腳尖）拖地**——鞋子磨損可佐證；拖腳會降低回位速度，因為腳無法迅速轉動
+  - 修正方向：用 **內側腳靠近腳踝的內緣滑步**，再爆發回位；目標是建立「不論腳步或擊球組合都能迅速回位」的肌肉記憶
+  - 可能是網球 open-stance 習慣帶過來（列入 tennis habit watch list 待確認）
+- **雙手反拍 counter**：練習中逐步熟練，但 **比賽中本能仍用單手 slice**；另一個本能是 **反手側用正手接**，遇到強 drive／speed-up 時姿勢被擠（jammed）
+  - 屬既有「drill-to-game 轉移落差」的延伸；本能退回最熟的網球動作
 
 ## 2026/08/18 — Picktopia Open Play（Notion Takeaway 收割）
 

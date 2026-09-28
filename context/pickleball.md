@@ -12,6 +12,7 @@ summary: DUPR 單打4.37／雙打4.16現況（8/31 更新，兩者已分開追�
 - DUPR **單打 4.37／雙打 4.16**（8/31 口述更新，雙打落後單打約 0.2；雙打是目前賽程主力〔Rally Open Moneyball 9/12 w/Alan〕，也是拉高整體水平的瓶頸）
 - 2025/08 入坑；2026/03 起規律投入（加入 Jem Pickleball）
 - 網球選手底 → 技能遷移快
+- 球拍：**Luzz Glider 2026**（hybrid，偏 control；2026/09 由 Luzz Cannon 換過來）
 
 ## 訓練環境與對手池
 
