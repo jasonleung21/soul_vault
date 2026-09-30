@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/09/28（早安推播，本機 date 核對通過 Mon Sep 28 2026 06:44 EDT）SQL 查 Weekly Schedule DB date='2026-09-28'，今日(W39 Day 1) 2 blocks：AI Side Quest：影片復盤工具 revamp 10:00–12:00（AI）、Advanced 4.0+ Social Play @ JEM 20:00–22:00（Pickleball），與昨晚 9/27 睡前收割 brief 完全一致、無出入。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；日期戳檔名（`soul_morning_20260928.*`）＋`generated_date` shell assert，curl 推播 STATUS:204 成功。
-> 前次更新：2026/09/27（睡前收割，本機 date 核對通過 Sun Sep 27 2026 22:10 EDT）SQL 查 Weekly Schedule DB date='2026-09-27'，今日(W38 Day 7) 1 block（Weekly Review（5-layer SOP）20:00–21:00 Life）Done=NO、Takeaway 空，收割 0 筆；明日 9/28（週一，W39 Day 1）brief：AI Side Quest：影片復盤工具 revamp 10:00–12:00（AI）、Advanced 4.0+ Social Play @ JEM 20:00–22:00（Pickleball），共 2 blocks。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；日期戳檔名（`soul_brief_20260927_bedtime.*`）＋`generated_date` shell assert，curl 推播 STATUS:204 成功。
+> 最後更新：2026/09/29（睡前收割，本機 date 核對 Tue Sep 29 22:09 EDT）今日 3 blocks 皆 Done=NO、Takeaway 空，收割 0 筆；明日 9/30 三 blocks（AI Side Quest 10:00–12:00、Drilling with Alan 14:00–16:00、Advanced 4.0+ Social @ JEM 20:00–22:00）已推 Discord STATUS:204。本次無 stale /tmp 偽造結果。
+> 前次更新：2026/09/29（早安推播，本機 date 核對通過 Tue Sep 29 2026 06:43 EDT）SQL 查 Weekly Schedule DB date='2026-09-29'，今日(W39 Day 2) 3 blocks：Stretching & Recovery 09:00–10:00（Life）、Pictopia Open Play 12:00–16:00（Pickleball）、NL50 Grind 19:00–21:00（Poker）；Vault 無 9/28 睡前 brief 存檔故無法逐項核對差異。本次對話開頭無 stale /tmp 偽造結果，日期戳檔名＋date assert，curl STATUS:204 成功。
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
