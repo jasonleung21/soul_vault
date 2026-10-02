@@ -18,6 +18,7 @@
     pickleball.md        ← DUPR 4.0 現況、年底 4.5 分層目標、訓練投入與追蹤點
     pickleball-technique-log.md ← clinic／教練技術筆記（持續累積，新條目在上）
     pickleball-ballmachine-drills.md ← Titan Drills Pro（JEM）四項餵球 drill 矩陣（BH drop／twoey-FH combo／flick-roll／FH側dinking）
+    pickleball-singles-transition-plan.md ← 單打上網 12 週計畫（w/ Ryan，每週 2×60 分）：leak 假說 L1–L6、drill 庫 D1–D9、指標
     poker.md             ← NL50 主戰策略、NL100 shot 規則、2bb/100 目標、PT4
     ai-claude.md         ← AI 能力盤點、side quest 主軸（影片復盤工具）、資料地圖
   /memory                ← 重要決策與結論紀錄 → 先讀 INDEX.md
@@ -65,7 +66,7 @@
 
 ---
 
-*最後更新：2026/09/09（新增 context/pickleball-ballmachine-drills.md：Titan Drills Pro 四項餵球 drill 矩陣）*
-*前次更新：2026/07/13（週排程系統雙版本合一：Notion＋三支 routine 為正本，/weekly 與 Reminders 為 Vault 側元件）*
+*最後更新：2026/10/01（新增 context/pickleball-singles-transition-plan.md：單打上網 12 週計畫 w/ Ryan）*
+*前次更新：2026/09/09（新增 context/pickleball-ballmachine-drills.md：Titan Drills Pro 四項餵球 drill 矩陣）*
 
 *📏 更新 log 規則：只留最近兩條。新增一條時，把被擠掉的那條搬進 `sop/vault-changelog.md`。*
