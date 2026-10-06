@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
-> 最後更新：2026/10/04（睡前收割，本機 date 核對 Sun Oct 4 22:10 EDT；系統日期 10/5 為 UTC，以本機為準）今日 1 block（Weekly Review）Done=NO、Takeaway 空，收割 0 筆；明日 10/5 兩 blocks（AI Side Quest、Advanced 4.0+ Social）已推 Discord STATUS:204（日期戳檔名＋date assert）。
-> 前次更新：2026/10/03（睡前收割）今日 2 blocks 皆 Done=NO、Takeaway 空，收割 0 筆；明日 10/4 僅 Weekly Review，已推 Discord STATUS:204。
+> 最後更新：2026/10/05（睡前收割，本機 date 核對 Mon Oct 5 22:09 EDT；系統日期 10/6 為 UTC，以本機為準）今日 2 blocks（AI Side Quest、Advanced 4.0+ Social）Done=NO、Takeaway 空，收割 0 筆；明日 10/6 三 blocks（Stretching、Pictopia、NL50 Grind）已推 Discord STATUS:204（日期戳檔名＋date assert）。
+> 前次更新：2026/10/04（睡前收割，本機 date 核對 Sun Oct 4 22:10 EDT；系統日期 10/5 為 UTC，以本機為準）今日 1 block（Weekly Review）Done=NO、Takeaway 空，收割 0 筆。
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
