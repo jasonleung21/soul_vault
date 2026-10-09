@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
+> 最後更新：2026/10/08（睡前收割，本機 date 核對 Thu Oct 8 22:10 EDT；系統日期 10/9 為 UTC，以本機為準）今日 2 blocks（Pictopia、NL50 Study）Done=NO、Takeaway 空，收割 0 筆；明日 10/9 三 blocks（Stretching、AI Side Quest、NL50 Grind）已推 Discord STATUS:204（日期戳檔名＋date assert）。
 > 最後更新：2026/10/07（睡前收割，本機 date 核對 Wed Oct 7 22:09 EDT；系統日期 10/8 為 UTC，以本機為準）今日 3 blocks（AI Side Quest、單打 w/ Ryan #1、Advanced 4.0+ Social）Done=NO、Takeaway 空，收割 0 筆；明日 10/8 兩 blocks（Pictopia Open Play、NL50 Study）已推 Discord STATUS:204（日期戳檔名＋date assert）。
-> 最後更新：2026/10/06（睡前收割，本機 date 核對 Tue Oct 6 22:09 EDT；系統日期 10/7 為 UTC，以本機為準）今日 3 blocks（Stretching、Pictopia、NL50 Grind）Done=NO、Takeaway 空，收割 0 筆；明日 10/7 三 blocks（AI Side Quest、單打 w/ Ryan #1、Advanced 4.0+ Social）已推 Discord。本次 stale /tmp 攔下：第二十度（已先跑 date＋重查 Notion，日期戳檔名）。
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
