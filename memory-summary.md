@@ -1,7 +1,7 @@
 # Memory Summary — 長期記憶摘要
 
+> 最後更新：2026/10/13（互動 session，本機 date 核對 Tue Oct 13 01:33 EDT）教練副線啟動：另開 Project「Pickleball Coaching」＋Notion Coaching HQ；10 月定位檢視結論＝繼續探索模式（sticky P2 關閉）；新增 memory／projects 各一檔並同步 INDEX。
 > 最後更新：2026/10/12（睡前收割，本機 date 核對 Mon Oct 12 22:09 EDT；系統日期 10/13 為 UTC，以本機為準）今日 2 blocks（AI Side Quest、Advanced 4.0+ Social @JEM）Done=NO、Takeaway 空，收割 0 筆；明日 10/13 三 blocks（Stretching 09:00、Pictopia 12:00、NL50 Grind 19:00）已推 Discord STATUS:204（日期戳檔名）。
-> 最後更新：2026/10/11（睡前收割，本機 date 核對 Sun Oct 11 22:09 EDT）今日 2 blocks（Soul 互動 session、Weekly Review）Done=NO、Takeaway 空，收割 0 筆；明日 10/12 兩 blocks（AI Side Quest 10:00、Advanced 4.0+ Social @JEM 20:00，Thanksgiving 確認場地）已推 Discord STATUS:204（日期戳檔名）。
 >
 > Agent 每次啟動時快速掌握全貌用的精華版。詳細紀錄在 `memory/` 資料夾裡。
 > 📏 更新紀錄只留最近兩條，更早的搬 `sop/vault-changelog.md`。
@@ -16,7 +16,6 @@
 - [ ] P1 — **系統性落差：harvest 邏輯抓錯地方**——Jason 真正的 pickleball 復盤主力在 Notion「Pickleball HQ → Session Debriefs」（Debrief→Diagnosis→Pre-session brief 三段式、每場一個 sub-page），Weekly Schedule DB 的 Takeaway 欄位只是給 Vault 用的簡化收割口，兩邊沒串起來——這解釋了為什麼睡前收割連續多天 0 筆（人根本沒在填那個欄位，復盤寫在別的地方）。8/5 已手動把 8/4 marathon 補成一則正式 debrief sub-page＋log 表格新增一列（`Session Debrief — Tue Aug 4, 2026`），這只是補了這一筆，harvest 流程本身怎麼接上 Session Debriefs 仍待 revamp 討論解決，等 Jason 週三整理完北約克復盤一起談
 - [ ] P1 — **Picklers Hub – Summer Fest 賽果已確認（8/31 口述）**：雙打 3.5 w/ Jonathan Fonseca 🥇金牌、單打 4.0 🥈銀牌。復盤仍未補（Notion Session Debriefs 無正式頁面）——與北約克雙打復盤（P0）一起排進待辦，兩筆一次處理。DUPR 同步更新：單打 4.37／雙打 4.16（已寫回 pickleball.md）。**焦點轉向 Rally Open Moneyball（9/12 @ North York，搭 Alan）**：Jason 已明確表態雙打是備戰重心（雙打 DUPR 落後單打，也是目前唯一賽程）；W35（8/31–9/6）已排入 Drilling with Alan ×2（9/2、9/5）作為備戰起點
 - [ ] P1 — **釜山旅行時效已第三次以手動列出現在 Notion「📅 Weekly Schedule」，`/context` 仍無任何旅行檔案**：8/30 發現 `🇰🇷 Busan — Sky Capsule 9/16 release window check`（9/2），9/6 W36 生成時發現 `🇰🇷 Busan — Diamond Bay refund-cliff sweep`（9/9 20:00–20:20），9/13 W37 生成時再發現 `🇰🇷 Busan — final booking sweep (both events)`（9/14 20:00–20:30，Life track）——且這筆與 W37 新排的 Advanced 4.0+ Social Play（9/14 20:00–22:00 @ JEM）時間重疊，本次未擅自搬動任一筆，已在報告中提醒 Jason。代表 Jason 有一個進行中的釜山旅行規劃（訂票／退款時效多個節點，看起來接近收尾——"final booking sweep"），Soul 完全沒有背景資料。下次互動 session 請 Jason 補充完整背景，決定要不要新增 `context/travel.md`——不然這類時效列會繼續一次次孤立出現、Soul 無法提前提醒或安排周邊時間，也會繼續撞期
-- [ ] P2 — 2026 年 10 月：重新檢視「探索模式 vs 求職模式」定位（identity/who-i-am.md）
 - [ ] P2 — `weekly/` 缺當週（7/27–8/2）plan 檔（現存 `2026-W30.md` 標記的是 7/20–7/26，週次命名已錯位）；且每晚推播的「明日 brief」未存回 Vault，隔天早安推播無法逐項核對差異——需要 Jason 決定命名怎麼修＋是否要把 brief 逐字存檔
 - [ ] P1 — **新發現的系統性落差：CourtReserve／JEM 的確認訂位不會自動進 Notion「📅 Weekly Schedule」**。9/3 早安 brief 只依賴 Weekly Schedule DB，漏掉了 9/3 17:00–19:00 JEM PicklePlace Court #7 的 6+ 人團體場（Jason 事後口頭問起才發現，靠 Gmail courtreserve.com 通知信才補上）。已手動補回 Notion（JEM 17:00–19:00 Pickleball、Hotpot with high school friend 20:00 onward，Poker Study 19:00–20:30 因與 hotpot 衝堂已改 Status=skipped）。根因與既有 harvest 落差（見上方 P1）同源：Weekly Schedule DB 是 Routine A 生成的排程，CourtReserve 上額外約的場次不會回寫進去——下次 Routine A 生成或早安 brief，若要涵蓋 CourtReserve 動態，需要額外查 Gmail courtreserve.com 通知或串接 CourtReserve，目前僅能事後補
 
@@ -35,6 +34,7 @@
 | 2026-07-06 | 建立 ai-vault，不裝 Obsidian，以 Claude 為主要讀寫介面 | Vault 本體是純 .md + Git，編輯器非必需 | 進行中 |
 | 2026-07-06 | Poker 主戰降回 NL50（4桌），NL100 僅剩選擇性 shot（1桌、有fish才上） | 20BI 打 NL100 + breakeven winrate = 資金結構站不住 | 已採納 |
 | 2026-07-06 | AI side quest 主軸定為 pickleball 影片復盤工具 revamp | 已有半成品、真實需求、可累積為作品 | 進行中 |
+| 2026-10-13 | 10 月定位檢視結論：career break 期間繼續探索模式——球員線打磨（方向 5.0）＋開教練副線；教練另開 Claude Project「Pickleball Coaching」＋Notion Coaching HQ，學員個資不進 Vault，v1 不做工具 | 持證後開始有潛在學員；球員／教練角色分開才不會互相污染 context | 進行中（見 `memory/2026-10-13_coaching-project-and-explore-mode.md`、`projects/2026-10-pickleball-coaching/status.md`） |
 | 2026-09-13 | 復盤指標改用 rate-based（3rd Shot Success Rate／Slugging %，公式反推自 Dong Pickleball 統計表並驗證吻合）；Excel 先跑 Rally Open 9/12 全場錄影建 baseline，再寫進 review tool v4 | v3 只記分子、無分母，跨場次無法比較，畫不出 DUPR 4.16→4.5 的曲線 | 進行中（Excel 已交付，見 `memory/2026-09-13_3rd-shot-rate-framework.md`） |
 
 ## 教訓
@@ -62,6 +62,7 @@
 
 ## 當前焦點
 
+- **Pickleball 教練副線啟動（2026/10/13）**：持證 instructor，有潛在學員（3.0–3.5）詢問。Notion「Pickleball Coaching HQ」已建（Students／Lesson Log／Drill Library＋學員範本＋7 個 Draft foundation drills）。下一步：Jason 建 Claude Project「Pickleball Coaching」（指令在 `projects/2026-10-pickleball-coaching/status.md`）→ 第一位學員 intake＋trial。Soul 要盯：沒有付費學員前不要過度建系統。
 - **W41（2026-10-12–10-18）schedule 已由 Routine A 生成寫入 Notion**（2026-10-11 20:1x EDT 執行，本機 date 核對通過 Sun Oct 11 20:10 EDT，Cowork 排程任務）：範圍內查無既有手動列。W40 全部 17 blocks 查詢時 Done=NO、Takeaway 空（單打診斷＋雙打復盤＋10 月定位檢視 session 仍未確認發生）。本週定位：單打上網計畫 Week 2（Phase 1 Arrive balanced）。新增 16 blocks：Pickleball（Mon/Wed Advanced 4.0+ Social @JEM〔Mon 10/12 是 Thanksgiving，已註記確認場地〕、Tue/Thu Pictopia、Wed 14:00 Ryan #3 Session A、Sat 11:00 Ryan #4 Session B）、Poker（NL50 Grind Tue 19:00／Fri 14:00、Study Thu 19:00–20:30）、AI（Mon/Wed/Fri 10:00–12:00）、Stretching（Tue、Fri 09:00）、Sun 10/18 19:00 Soul 互動 session 續排＋20:00 Weekly Review。本週必做：Ryan Session B（pickleball）、NL50 Grind Tue（poker）。待 Jason 過目調整。
 - **W40（2026-10-05–10-11）schedule 已由 Routine A 生成寫入 Notion**（2026-10-04 20:08 EDT 執行，本機 date 核對通過，Cowork 排程任務）：範圍內查無既有手動列（無釜山／賽事時效項）。本週定位：單打上網計畫 Week 1（w/ Ryan）。新增 17 blocks：Pickleball 5 天（Mon/Wed Advanced 4.0+ Social 20:00–22:00、Tue/Thu Pictopia 12:00–16:00、Wed 14:00 Ryan Session A、Sat 11:00 Ryan Session B＋Sat 14:00–16:00 錄影單打 baseline match——本週取代 Drilling with Alan，避免疊量）、Poker 3 個（NL50 Grind Tue 19:00／Fri 14:00、Study Thu 19:00–20:30）、AI 3 個（Mon/Wed/Fri 10:00–12:00）、Stretching 2 個（Tue、Fri 09:00）、Sun 19:00 Soul 互動 session（單打診斷 5 題＋北約克雙打復盤 3 題＋10 月定位檢視，一次處理 sticky P0／P2）＋20:00 Weekly Review。本週必做：baseline match（pickleball）、NL50 Grind（poker）。待 Jason 過目調整。
 - **單打上網計畫啟動（2026/10/01）**：目標單打 4.37→4.5（年底）。與 Ryan（網球 20+ 年）每週 2×60 分 drilling，12 週三階段（Arrive balanced → Own the net → Transfer），詳見 `context/pickleball-singles-transition-plan.md`。Week 1 先錄一場單打建 baseline；5 題診斷問題待 Jason 口述以確認 L3/L5/L6。
