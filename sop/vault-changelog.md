@@ -245,3 +245,5 @@ summary: 核心檔案（README、memory-summary）的歷史更新紀錄，只收
 | 2026-09-27 睡前 | 睡前收割 checklist＋明日 Brief＋Discord 推播（Cowork 排程任務執行）：本機 date 核對通過 Sun Sep 27 2026 22:10 EDT；SQL 查 Weekly Schedule DB date:Date:start='2026-09-27'，今日(W38 Day 7) 1 block（Weekly Review（5-layer SOP）20:00–21:00 Life）Done=NO、Takeaway 空，收割 0 筆；明日 9/28（週一，W39 Day 1）brief：AI Side Quest：影片復盤工具 revamp 10:00–12:00（AI）、Advanced 4.0+ Social Play @ JEM 20:00–22:00（Pickleball），共 2 blocks。本次對話開頭未出現 stale `/tmp` 殘留或偽造 Read 結果，流程乾淨執行一次；日期戳檔名（`soul_brief_20260927_bedtime.*`）＋`generated_date` shell assert，curl 推播 STATUS:204 成功。sticky P1（stale /tmp 結構性修復）本次未觸發，暫不列入攔截次數 |
 
 - 2026/07/13（README 更新 log 移入）：週排程系統雙版本合一：Notion＋三支 routine 為正本，/weekly 與 Reminders 為 Vault 側元件
+
+> 2026/10/10 睡前（睡前收割，本機 date 核對 Sat Oct 10 22:09 EDT；系統日期 10/11 為 UTC，以本機為準）今日 2 blocks（單打 w/ Ryan #2、錄影 baseline match）Done=NO、Takeaway 空，收割 0 筆；明日 10/11 兩 blocks（Soul 互動 session 19:00、Weekly Review 20:00）已推 Discord STATUS:204（日期戳檔名）。
