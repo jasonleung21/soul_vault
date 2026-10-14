@@ -26,9 +26,14 @@ summary: Pickleball 教練副線——持證後開始有潛在學員詢問；Not
 
 ## 待辦
 - [ ] Jason 在 claude.ai 建立 Project「Pickleball Coaching」並貼上下方指令
-- [ ] 第一位學員：intake → trial lesson → 填評估表
+- [ ] 第一位學員：intake → trial lesson → 填評估表（2026-10-13：學員 #1 已建 Prospect 檔於 Notion；先送 intake，再做 open-play 評估）
 - [ ] 定價（private／semi-private／group）未定
 - [ ] 教練 profile（對外介紹文）——對外文稿，撰寫前須讀 `identity/voice-and-tone.md`（尚未建立）
+
+## 決策紀錄
+- 2026-10-13 — **評估形式：open-play＋錄影，但教練主要在場邊觀察**。結構：15 分技術檢查（dink／drop／快手對打）→ 1 局同隊（刻意不 carry）→ 1 局對手（針對性施壓測 hands）→ 2 局場邊錄影看她跟同級球友打。理由：只靠「同隊／對手」會被教練水平扭曲（同隊=被 carry，對手=教練主導節奏），看不到她在同級比賽中的真實決策。錄影前須取得同意。
+- 2026-10-13 — 學員說「比賽輸＝策略問題」時先別直接教策略：依優先順序先查 positioning／transition（例：底線不上網），策略放後面。
+- 2026-10-13 — **評估課免費**，形式定為 ~2 小時輪替 open play：暖身做技術檢查清單 → 同隊（50/50、多收中路、不 stack，看左右兩側）→ 對手（壓身體／反手測 hands）→ 錄她跟同級球友打 → debrief 時直接提出付費下一步。
 
 ## Project instructions（貼到 claude.ai Project）
 ```
