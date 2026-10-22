@@ -1,4 +1,5 @@
-> 最後更新：2026/10/20 睡前收割（本機 date 核對 Tue Oct 20 22:15 EDT；系統日期 10/21 為 UTC）今日 3 blocks（Stretching、Pictopia、NL50 Grind）Done=NO、Takeaway 空，收割 0 筆；明日 10/21 三 blocks（AI Side Quest 10:00、Ryan #5 14:00、Advanced 4.0+ Social 20:00）已推 Discord STATUS:204（日期戳檔名）。
+> 最後更新：2026/10/21 睡前收割（本機 date 核對 Wed Oct 21 22:15 EDT；系統日期 10/22 為 UTC）今日 3 blocks（AI Side Quest、Ryan #5、Advanced 4.0+ Social）Done=NO、Takeaway 空，收割 0 筆；明日 10/22 二 blocks（Pictopia 12:00、NL50 Study 19:00）已推 Discord STATUS:204（日期戳檔名）。
+> 前次：2026/10/20 睡前收割（0 筆）。
 > 前次：2026/10/19 睡前收割（0 筆）。
 > 前次：2026/10/18 睡前收割（0 筆）。
 > 前次：2026/10/17 睡前收割（0 筆）。
