@@ -248,3 +248,5 @@ summary: 核心檔案（README、memory-summary）的歷史更新紀錄，只收
 - 2026/07/13（README 更新 log 移入）：週排程系統雙版本合一：Notion＋三支 routine 為正本，/weekly 與 Reminders 為 Vault 側元件
 
 > 2026/10/10 睡前（睡前收割，本機 date 核對 Sat Oct 10 22:09 EDT；系統日期 10/11 為 UTC，以本機為準）今日 2 blocks（單打 w/ Ryan #2、錄影 baseline match）Done=NO、Takeaway 空，收割 0 筆；明日 10/11 兩 blocks（Soul 互動 session 19:00、Weekly Review 20:00）已推 Discord STATUS:204（日期戳檔名）。
+
+- 2026/09/09：新增 context/pickleball-ballmachine-drills.md：Titan Drills Pro 四項餵球 drill 矩陣（從 README 更新 log 移入）

@@ -54,12 +54,12 @@ summary: DUPR 單打4.37／雙打4.16現況（8/31 更新，兩者已分開追�
   - 2026/08/13 報名，$90.95（Stripe）
   - 單日賽事，Paddle + Cash Prize 賽制
 
-- ✅ **Picktopia – The Richmond Hill Open Moneyball（2026/10/30–31）@ Richmond Hill, ON — 已完賽**（戰績 2026/11/01 從 pickleballtournaments.com 撈回；全部 4.0–4.499；31 場 23 勝 8 負）：
+- ✅ **Picktopia – The Richmond Hill Open Moneyball（2026/10/30–31）@ Richmond Hill, ON — 已完賽**（戰績 2026/11/01 從 pickleballtournaments.com 撈回；全部 4.0–4.499；以 game 計 **34 局 25 勝 9 負**——單打 8 局 7–1、Split-age Men's 8 局 6–2、Mixed 8 局 5–3、Men's Open 10 局 7–3；決賽 best-of-3 每局分開算）：
   - Men's Singles（10/30 08:30）— 🥇 **金牌**：RR 5–1（W 11–2 Bill Xiong、W 12–10 Jitendra、W 11–1 Andus Cheung、W 11–0 Tav Schembri、W 11–3 Cory Glassman、L 8–11 Saif Abdulah）；決賽 W 11–2, 11–0 vs Saif Abdulah（RR 輸過的人，決賽反殺）
   - Split-age Men's Doubles w/ **Feng Xue**（10/30 13:00）— 🥉 **銅牌**：RR 5–2（W 11–5 Cho/Luk、W 11–0 Manner/Manner、W 11–9 White/Drown、L 9–11 Luxton/Raman、W 11–6 Hon/Lee、W 11–9 Jitendra/Cecchetto、L 6–11 Niu/Wang）；銅牌戰 W 15–9 vs Luxton/Raman
   - Split-age Mixed w/ **Crysteen Xiao**（10/30 17:30，打到 22:10）— 🥉 **銅牌**：RR 4–3（W 11–3 Kuznetsova/Kovac、L 3–11 Ditizio/Jitendra、W 11–7 Brown/White、L 4–11 Wilcox/Lee、W 11–8 Muntean/Wong、L 7–11 Salehitavana/Rekun、W 11–4 Nguyen/Wride）；銅牌戰 W 15–11 vs Ditizio/Jitendra
   - Men's Doubles Open（any age）w/ **Feng Xue**（10/31 13:30）— 🥇 **金牌**：RR 5–2（W 11–4 Niu/Wang、W 11–1 Cheung/Santos、W 11–9 Hon/Laughlin、W 11–9 Manner/Manner、L 7–11 Abdalla/Abdulah、L 10–12 Lee/Yang、W 12–10 White/Drown）；決賽 L 5–11, W 11–9, W 11–5 vs Miguel Lee/Michael Yang
-  - 10/30 單日 23 場（08:30–22:10）。賽後腰＋髖嚴重痠痛；Jason 自述「比賽緊張時腰會繃緊、打到中途就痛，但練習／rec 不會，賽後就消失」——恢復計畫與診斷見 2026/11/01 對話；Jason 自己的反思／總結待補
+  - 10/30 單日 24 局（08:30–22:10）、10/31 10 局。賽後腰＋髖嚴重痠痛；Jason 自述「比賽緊張時腰會繃緊、打到中途就痛，但練習／rec 不會，賽後就消失」——成因假說、恢復計畫、預防清單見 `pickleball-competition-tension-recovery.md`；Jason 自己的反思／總結待補
   - 兩項 4.0–4.49 金牌 → 下一場賽事應考慮報 4.5
 
 - 🏆 **To-pick Tournament**：雙打搭檔 **Jane**（2026/08/04 確認備戰）
