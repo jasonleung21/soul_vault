@@ -14,6 +14,7 @@
 
   /identity
     who-i-am.md          ← Jason 背景、工作底線、學習模式；探索模式≠求職模式
+    voice-and-tone.md    ← 對外發布人設／語氣／受眾／紅線（強制規則 #2 必讀）
   /context
     pickleball.md        ← DUPR 4.0 現況、年底 4.5 分層目標、訓練投入與追蹤點
     pickleball-technique-log.md ← clinic／教練技術筆記（持續累積，新條目在上）
@@ -67,7 +68,7 @@
 
 ---
 
-*最後更新：2026/11/01（新增 context/pickleball-competition-tension-recovery.md：比賽緊張腰髖繃緊＋恢復計畫）*
-*前次更新：2026/10/01（新增 context/pickleball-singles-transition-plan.md：單打上網 12 週計畫 w/ Ryan）*
+*最後更新：2026/11/03（新增 identity/voice-and-tone.md：對外人設與語氣，pickleball-content 重啟）*
+*前次更新：2026/11/01（新增 context/pickleball-competition-tension-recovery.md：比賽緊張腰髖繃緊＋恢復計畫）*
 
 *📏 更新 log 規則：只留最近兩條。新增一條時，把被擠掉的那條搬進 `sop/vault-changelog.md`。*
