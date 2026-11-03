@@ -1,6 +1,6 @@
 ---
 updated: 2026-11-03
-status: draft（待 Jason 確認隊友名字＋發布）
+status: 定稿（11/03 Jason 確認：搭檔名 Philip、描述 OK；封面＝單打單人捧盃單圖）
 platforms: [小红书, WeChat 朋友圈]
 source: context/pickleball.md（Richmond Hill Open 10/30–31）
 ---
@@ -10,15 +10,15 @@ source: context/pickleball.md（Richmond Hill Open 10/30–31）
 ## 小红书
 **標題**：两天4块奖牌🏅一天连打3个项目
 **封面字**：大字「两天 4 块奖牌」／小字「一天连打 3 个项目」
-**圖序**：①單打單人捧盃（封面）②與 Feng 捧盃合照 ③男雙 Open 頒獎台 ④單打頒獎台 ⑤混雙頒獎台
+**圖序**：①單打單人捧盃（封面）②與 Philip 捧盃合照 ③男雙 Open 頒獎台 ④單打頒獎台 ⑤混雙頒獎台
 
 **正文**：
 上周末去打了 Picktopia 的 Richmond Hill Open，到现在腿还是软的😂
 
 成绩先放这里👇
 🥇 男单 4.0–4.49
-🥇 男双 Open（with Feng）
-🥉 Split-age 男双（with Feng）
+🥇 男双 Open（with Philip）
+🥉 Split-age 男双（with Philip）
 🥉 Split-age 混双（with Crysteen）
 
 最疯的是周五：早上 8:30 打单打，下午 1 点男双，晚上 5:30 混双，一路打到晚上 10 点多。一天 24 局，最后几场真的是靠意志力在撑。
@@ -28,7 +28,7 @@ source: context/pickleball.md（Richmond Hill Open 10/30–31）
 周六男双 Open 决赛，第一局 5-11 输掉，后面两局一分一分咬回来，赢下来那一刻真的很爽。
 
 最想感谢我的两位搭档🙏
-Feng 连续两天陪我打，场上一直很稳，关键分从来不慌；Crysteen 陪我从傍晚打到晚上 10 点多，到最后还在拼。奖牌是一起拿的。
+Philip 连续两天陪我打，场上一直很稳，关键分从来不慌；Crysteen 陪我从傍晚打到晚上 10 点多，到最后还在拼。奖牌是一起拿的。
 
 也谢谢 Picktopia 办了这么好的比赛。下一站：挑战 4.5。
 
@@ -39,4 +39,4 @@ Feng 连续两天陪我打，场上一直很稳，关键分从来不慌；Cryste
 ## WeChat 朋友圈
 上周末 Richmond Hill Open 收获两金两铜🥇🥇🥉🥉
 周五一天连打三个项目，从早上 8:30 打到晚上 10 点多，24 局打完腿都不是自己的了😂
-谢谢两位超强搭档 Feng 和 Crysteen，奖牌是一起拿的🙏 下一站，4.5！
+谢谢两位超强搭档 Philip 和 Crysteen，奖牌是一起拿的🙏 下一站，4.5！
