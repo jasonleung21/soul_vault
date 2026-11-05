@@ -1,6 +1,6 @@
 ---
-updated: 2026-11-03
-status: 定稿（11/03 Jason 確認：搭檔名 Philip、描述 OK；封面＝單打單人捧盃單圖）
+updated: 2026-11-04
+status: 定稿（11/03 確認 Philip；11/04 確認 Crysteen；封面＝單打單人捧盃單圖）。可發布
 platforms: [小红书, WeChat 朋友圈]
 source: context/pickleball.md（Richmond Hill Open 10/30–31）
 ---
