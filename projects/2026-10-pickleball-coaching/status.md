@@ -31,6 +31,7 @@ summary: Pickleball 教練副線——持證後開始有潛在學員詢問；Not
 - [ ] 教練 profile（對外介紹文）——對外文稿，撰寫前須讀 `identity/voice-and-tone.md`（尚未建立）
 
 ## 決策紀錄
+- 2026-11-05 — **教案固定格式**：之後所有課程都用 `lesson-plan-template.md` 出教案：課堂總表（1 小時 1–2 個相連主題）→ 主題總表（時間／drill／目的／每人球數／過關）→ Drill 卡（站位做法、簡單／進階、一個 cue）。時間控制：過關就跳級、到時間照樣往下走；每 ~50 球插 1 分撿球。第一個範例：Reset 階梯（12 分小班版／20 分獨立版，Notion Drill Library）。流程：Soul 先問主題／人數／總時數／每主題時長 → 設計 → **Jason 批准後**才存進 Notion。
 - 2026-11-02 — **小班（1:2）教學流程**：每個重點照「示範 → 手把手餵球修姿勢＋錄影 → 看錄影（每人一個提示、≤2 分）→ 加入戰術選擇的 drill → 實戰」。戰術不等姿勢做好才教，而是在 drill 裡用「戰術卡」（情境 → 打哪裡 → 原因）滲透，例如接發打中路／對方反手／斜線。實戰仍是每堂必要的一環。完整檢視課後傳片段，不在場上長時間停下來看。
 - 2026-11-02 — **首個 semi-private（1:2）課程方案**：沿用 Lions Club 3 堂 × 2 小時結構，但 **S1／S2 對調**——S1 接發隊（Return 回深＋上網＋雙人站位 → 4th shot 守住網前）、S2 發球隊（3rd shot drop → 5th reset＋transition）、S3 網前不變。理由：學員主要漏洞在接發隊（短發第一步方向、擊球時腳未站定、偏中路露邊線、好球後不上前），reset 本來就是強項可延後。1:2 原則：預設「教練 vs 兩人」讓兩人每球都有事做；每個 drill 設 Easy／Hard 兩版應對另一位未評估學員；S1 暖身兼做新學員技術檢查。新增 Draft drills：Triangle Dink + Reset、Return + Shift on a String、Volley or Let It Bounce、Pin Them Back、Serve–Return–Drop、Transition Reset 2v1、Receive-only／Serve-only 2v1 遊戲（詳細在 Notion 學員頁下）。
 - 2026-10-31（更新，取代下方 4 堂版）— **經理確認改為 3 堂 × 2 小時（共 6 小時）**：每堂一主題、兩個相連概念，第 2 小時偏實戰。順序：S1 發球隊（3rd shot drop → 5th shot reset＋transition）→ S2 接發隊（Return 回深＋上網＋雙人站位 → 4th shot 守住網前）→ S3 網前（Dink＋ready＋footwork → 截擊／block／何時 roll 攻擊＋綜合實戰）。理由：不單純延長（同一技術 40–45 分後效果遞減），也不拆 6 個獨立概念（不相連記不住）；drop 與 reset 是同一軟球技術不同位置。Dink 放最後是 Jason 的判斷：3.5 比賽很少打到 kitchen 對峙，多在 transition 失分。每堂 0–15 分暖身固定 dink＋ready，posture 仍每堂練到。時間：暖身 15／概念 A 35／休息 5／概念 B 35／2v2 實戰 25／總結 5。
